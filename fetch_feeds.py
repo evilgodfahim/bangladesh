@@ -1,6 +1,6 @@
 import feedparser
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timezone
 import hashlib
 import os
 
@@ -152,51 +152,67 @@ FEEDS = [
     "https://www.straitstimes.com/news/world/rss.xml",
     "https://feeds.abcnews.com/abcnews/internationalheadlines",
     "https://rsshub.app/reuters/world",
-"https://evilgodfahim.github.io/wl/article.xml",
-"http://rss.cnn.com/rss/edition.rss",
-"https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-"https://www.thehindu.com/feeder/default.rss",
-"https://feeds.feedburner.com/ndtvnews-top-stories",
-"https://www.livemint.com/rss/money",
-"https://www.dawn.com/feeds/home/",
-"https://www.geo.tv/rss/1/0",
-"https://tribune.com.pk/feed/",
-"https://nation.com.pk/rss/",
-"https://dailytimes.com.pk/feed/",
-"http://www.xinhuanet.com/english/rss/topnews.xml",
-"https://www.globaltimes.cn/rss/index.xml",
-"https://rss.cgtn.com/rss/english/world.xml",
-"https://www.scmp.com/rss/91/feed",
-"https://www.kyivpost.com/rss",
-"https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-"https://feeds.washingtonpost.com/rss/world",
-"https://feeds.npr.org/1001/rss.xml",
-"https://www.cnbc.com/id/100003114/device/rss/rss.html",
-"http://feeds.foxnews.com/foxnews/latest",
-"https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-"https://www.telegraph.co.uk/news/rss.xml",
-"https://www.independent.co.uk/news/world/rss",
-"https://www.france24.com/en/rss",
-"https://rss.dw.com/rdf/rss-en-all",
-"https://www.euronews.com/rss?format=xml",
-"https://www.ansamed.info/ansamed/en/ansamed_rss.xml",
-"https://www3.nhk.or.jp/rss/news/cat0.xml",
-"https://www.japantimes.co.jp/feed",
-"https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
-"http://www.koreaherald.com/common/rss_xml.php?ct=101",
-"https://www.abc.net.au/news/feed/51120/rss.xml",
-"https://www.smh.com.au/rss/feed.xml",
-"https://www.bangkokpost.com/rss/data/topstories.xml",
-"https://www.middleeasteye.net/rss",
-"https://www.arabnews.com/rss.xml",
-"https://www.jpost.com/rss/rssfeedsheadlines.aspx",
-"https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
-"http://feeds.news24.com/articles/news24/TopStories/rss",
-"https://www.cbc.ca/cmlink/rss-topstories",
-"https://globalnews.ca/feed/",
-"https://en.mercopress.com/rss/",
-"https://mexiconewsdaily.com/feed/"
+    "https://evilgodfahim.github.io/wl/article.xml",
+    "http://rss.cnn.com/rss/edition.rss",
+    "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+    "https://www.thehindu.com/feeder/default.rss",
+    "https://feeds.feedburner.com/ndtvnews-top-stories",
+    "https://www.livemint.com/rss/money",
+    "https://www.dawn.com/feeds/home/",
+    "https://www.geo.tv/rss/1/0",
+    "https://tribune.com.pk/feed/",
+    "https://nation.com.pk/rss/",
+    "https://dailytimes.com.pk/feed/",
+    "http://www.xinhuanet.com/english/rss/topnews.xml",
+    "https://www.globaltimes.cn/rss/index.xml",
+    "https://rss.cgtn.com/rss/english/world.xml",
+    "https://www.scmp.com/rss/91/feed",
+    "https://www.kyivpost.com/rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "https://feeds.washingtonpost.com/rss/world",
+    "https://feeds.npr.org/1001/rss.xml",
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "http://feeds.foxnews.com/foxnews/latest",
+    "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+    "https://www.telegraph.co.uk/news/rss.xml",
+    "https://www.independent.co.uk/news/world/rss",
+    "https://www.france24.com/en/rss",
+    "https://rss.dw.com/rdf/rss-en-all",
+    "https://www.euronews.com/rss?format=xml",
+    "https://www.ansamed.info/ansamed/en/ansamed_rss.xml",
+    "https://www3.nhk.or.jp/rss/news/cat0.xml",
+    "https://www.japantimes.co.jp/feed",
+    "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+    "http://www.koreaherald.com/common/rss_xml.php?ct=101",
+    "https://www.abc.net.au/news/feed/51120/rss.xml",
+    "https://www.smh.com.au/rss/feed.xml",
+    "https://www.bangkokpost.com/rss/data/topstories.xml",
+    "https://www.middleeasteye.net/rss",
+    "https://www.arabnews.com/rss.xml",
+    "https://www.jpost.com/rss/rssfeedsheadlines.aspx",
+    "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+    "http://feeds.news24.com/articles/news24/TopStories/rss",
+    "https://www.cbc.ca/cmlink/rss-topstories",
+    "https://globalnews.ca/feed/",
+    "https://en.mercopress.com/rss/",
+    "https://mexiconewsdaily.com/feed/"
 ]
+
+def normalize_datetime(dt):
+    """Normalize datetime to UTC timezone-aware datetime"""
+    if dt is None:
+        return datetime.now(timezone.utc)
+    
+    # If it's already a datetime object
+    if isinstance(dt, datetime):
+        # If naive, assume UTC
+        if dt.tzinfo is None:
+            return dt.replace(tzinfo=timezone.utc)
+        # If aware, convert to UTC
+        return dt.astimezone(timezone.utc)
+    
+    # If it's something else, return current time
+    return datetime.now(timezone.utc)
 
 def contains_bangladesh(text):
     """Check if text contains 'bangladesh' (case-insensitive)"""
@@ -215,37 +231,37 @@ def fetch_all_feeds():
     """Fetch and filter all feeds for Bangladesh-related content"""
     all_entries = []
     seen_ids = set()
-    
+
     for feed_url in FEEDS:
         try:
             print(f"Fetching: {feed_url}")
             feed = feedparser.parse(feed_url)
-            
+
             for entry in feed.entries:
                 # Check if Bangladesh is mentioned in title, link, or description
                 title = entry.get('title', '')
                 link = entry.get('link', '')
                 description = entry.get('description', '') or entry.get('summary', '')
-                
+
                 if (contains_bangladesh(title) or 
                     contains_bangladesh(link) or 
                     contains_bangladesh(description)):
-                    
+
                     entry_id = get_entry_id(entry)
-                    
+
                     # Skip duplicates
                     if entry_id in seen_ids:
                         continue
-                    
+
                     seen_ids.add(entry_id)
-                    
+
                     # Extract publication date
                     pub_date = entry.get('published_parsed') or entry.get('updated_parsed')
                     if pub_date:
-                        pub_date = datetime(*pub_date[:6])
+                        pub_date = datetime(*pub_date[:6], tzinfo=timezone.utc)
                     else:
-                        pub_date = datetime.now()
-                    
+                        pub_date = datetime.now(timezone.utc)
+
                     all_entries.append({
                         'title': title,
                         'link': link,
@@ -255,10 +271,10 @@ def fetch_all_feeds():
                     })
         except Exception as e:
             print(f"Error fetching {feed_url}: {e}")
-    
+
     # Sort by date (newest first)
     all_entries.sort(key=lambda x: x['pub_date'], reverse=True)
-    
+
     # Keep only the latest 500 items
     return all_entries[:500]
 
@@ -266,23 +282,28 @@ def load_existing_feed():
     """Load existing entries from feed.xml if it exists"""
     if not os.path.exists('feed.xml'):
         return []
-    
+
     try:
         tree = ET.parse('feed.xml')
         root = tree.getroot()
-        
+
         entries = []
         for item in root.findall('.//item'):
             title = item.find('title').text if item.find('title') is not None else ''
             link = item.find('link').text if item.find('link') is not None else ''
             description = item.find('description').text if item.find('description') is not None else ''
             pub_date_str = item.find('pubDate').text if item.find('pubDate') is not None else ''
-            
+
             try:
                 pub_date = datetime.strptime(pub_date_str, '%a, %d %b %Y %H:%M:%S %z')
             except:
-                pub_date = datetime.now()
-            
+                try:
+                    # Try without timezone
+                    pub_date = datetime.strptime(pub_date_str, '%a, %d %b %Y %H:%M:%S')
+                    pub_date = pub_date.replace(tzinfo=timezone.utc)
+                except:
+                    pub_date = datetime.now(timezone.utc)
+
             entries.append({
                 'title': title,
                 'link': link,
@@ -290,7 +311,7 @@ def load_existing_feed():
                 'pub_date': pub_date,
                 'source': ''
             })
-        
+
         return entries
     except:
         return []
@@ -299,21 +320,25 @@ def merge_entries(existing, new):
     """Merge existing and new entries, removing duplicates"""
     seen_ids = set()
     merged = []
-    
+
     # Add new entries first
     for entry in new:
         entry_id = hashlib.md5(f"{entry['link']}{entry['title']}".encode()).hexdigest()
         if entry_id not in seen_ids:
             seen_ids.add(entry_id)
+            # Normalize datetime
+            entry['pub_date'] = normalize_datetime(entry['pub_date'])
             merged.append(entry)
-    
+
     # Add existing entries that aren't duplicates
     for entry in existing:
         entry_id = hashlib.md5(f"{entry['link']}{entry['title']}".encode()).hexdigest()
         if entry_id not in seen_ids:
             seen_ids.add(entry_id)
+            # Normalize datetime
+            entry['pub_date'] = normalize_datetime(entry['pub_date'])
             merged.append(entry)
-    
+
     # Sort by date and limit to 500
     merged.sort(key=lambda x: x['pub_date'], reverse=True)
     return merged[:500]
@@ -322,13 +347,13 @@ def create_rss_feed(entries):
     """Create RSS 2.0 feed XML"""
     rss = ET.Element('rss', version='2.0')
     channel = ET.SubElement(rss, 'channel')
-    
+
     ET.SubElement(channel, 'title').text = 'Bangladesh News Aggregator'
     ET.SubElement(channel, 'link').text = 'https://github.com'
     ET.SubElement(channel, 'description').text = 'Aggregated news articles about Bangladesh from multiple sources'
     ET.SubElement(channel, 'language').text = 'en'
-    ET.SubElement(channel, 'lastBuildDate').text = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')
-    
+    ET.SubElement(channel, 'lastBuildDate').text = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
+
     for entry in entries:
         item = ET.SubElement(channel, 'item')
         ET.SubElement(item, 'title').text = entry['title']
@@ -336,26 +361,26 @@ def create_rss_feed(entries):
         ET.SubElement(item, 'description').text = entry['description']
         ET.SubElement(item, 'pubDate').text = entry['pub_date'].strftime('%a, %d %b %Y %H:%M:%S +0000')
         ET.SubElement(item, 'guid', isPermaLink='true').text = entry['link']
-    
+
     tree = ET.ElementTree(rss)
     ET.indent(tree, space='  ')
     tree.write('feed.xml', encoding='utf-8', xml_declaration=True)
 
 if __name__ == '__main__':
     print("Starting Bangladesh news aggregation...")
-    
+
     # Load existing entries
     existing_entries = load_existing_feed()
     print(f"Loaded {len(existing_entries)} existing entries")
-    
+
     # Fetch new entries
     new_entries = fetch_all_feeds()
     print(f"Found {len(new_entries)} new Bangladesh-related articles")
-    
+
     # Merge and deduplicate
     all_entries = merge_entries(existing_entries, new_entries)
     print(f"Total entries after merge: {len(all_entries)}")
-    
+
     # Create RSS feed
     create_rss_feed(all_entries)
     print("RSS feed created successfully!")
