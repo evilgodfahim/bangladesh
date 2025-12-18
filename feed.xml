@@ -1,81 +1,112 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Bangladesh News Aggregator</title>
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Dec 2025 12:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 13:43:33 +0000</lastBuildDate>
     <item>
-      <title>EU's provisional safe countries list includes 'repressive' states</title>
+      <title>Protests in Bangladesh ‘for repatriation of all killers’ as India cites security concerns</title>
+      <link>https://www.dawn.com/news/1961852/protests-in-bangladesh-for-repatriation-of-all-killers-as-india-cites-security-concerns</link>
+      <description>&lt;p&gt;Bangladesh police on Thursday stopped protesters from marching towards an Indian diplomatic mission, a day after India’s foreign ministry &lt;a href=&quot;https://www.dawn.com/news/1961779&quot;&gt;conveyed&lt;/a&gt; its concerns over the “deteriorating” security environment in the country.&lt;/p&gt;
+&lt;p&gt;Ties between the two countries have been frosty since former Bangladesh prime minister Sheikh Hasina fled to India following a &lt;a href=&quot;https://www.dawn.com/news/1850245&quot;&gt;student-led uprising&lt;/a&gt; last year.&lt;/p&gt;
+&lt;p&gt;Dhaka has repeatedly &lt;a href=&quot;https://www.dawn.com/news/1956992&quot;&gt;asked for her extradition&lt;/a&gt; so that she could stand trial for her alleged crimes, with Delhi responding that it was examining the requests.&lt;/p&gt;
+&lt;p&gt;On Thursday, dozens of demonstrators began marching towards the assistant Indian high commissioner office in Rajshahi district, which borders India.&lt;/p&gt;
+&lt;p&gt;Miftahul Jannat, one of the protesters, said the plan was to carry out a sit-in, demanding the “repatriation of all the killers including Sheikh Hasina”.&lt;/p&gt;
+&lt;p&gt;The protest was stalled by the police, who said they “listened to their demands and promised to forward them to the authorities”.&lt;/p&gt;
+&lt;p&gt;“We are not aware of any further plans (for demonstrations) and hope the issue will be resolved peacefully,” Nashid Farhad, a senior officer with the Rajshahi Metropolitan Police, told &lt;em&gt;AFP&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;On Wednesday, a group of protesters tried to march towards the Indian High Commission in Dhaka.&lt;/p&gt;
+&lt;p&gt;India’s foreign ministry on Wednesday summoned Bangladesh’s top diplomat in New Delhi to convey its concerns about the actions of some “extremist elements”.&lt;/p&gt;
+&lt;p&gt;In a statement, the ministry also said it expected the interim government under Muhammad Yunus to “ensure the safety of missions and posts in Bangladesh in keeping with its diplomatic obligations”.&lt;/p&gt;
+&lt;p&gt;Hasina, 78, was &lt;a href=&quot;https://www.dawn.com/news/1955627/bangladeshs-ousted-pm-hasina-sentenced-to-death-for-students-crackdown&quot;&gt;sentenced to death&lt;/a&gt; in absentia by a Bangladesh court last month for crimes against humanity.&lt;/p&gt;
+&lt;p&gt;The country of 170 million people goes to the polls on February 12, with Hasina’s former ruling party, the Awami League, banned from running.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Dec 2025 13:21:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.dawn.com/news/1961852/protests-in-bangladesh-for-repatriation-of-all-killers-as-india-cites-security-concerns</guid>
+      <media:thumbnail url="https://i.dawn.com/large/2025/12/18182041089126e.webp" />
+      <media:content url="https://i.dawn.com/large/2025/12/18182041089126e.webp" medium="image" />
+      <enclosure url="https://i.dawn.com/large/2025/12/18182041089126e.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>&quot;Greatest Strategic Challenge Since 1971&quot;: S Tharoor-Led Panel On Bangladesh</title>
+      <link>https://www.ndtv.com/india-news/pakistan-china-islamic-radicals-greatest-strategic-challenge-since-1971-s-tharoor-led-panel-on-bangladesh-9840939#publisher=newsstand</link>
+      <description>The current situation in Bangladesh poses the &quot;greatest strategic challenge&quot; for India since the Liberation war of 1971, said a parliamentary committee headed by Congress&apos;s Shashi Tharoor.</description>
+      <pubDate>Thu, 18 Dec 2025 13:14:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/india-news/pakistan-china-islamic-radicals-greatest-strategic-challenge-since-1971-s-tharoor-led-panel-on-bangladesh-9840939#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2025-12/rp467lb4_shashi-tharoor_650x400_16_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2025-12/rp467lb4_shashi-tharoor_650x400_16_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2025-12/rp467lb4_shashi-tharoor_650x400_16_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EU&apos;s provisional safe countries list includes &apos;repressive&apos; states</title>
       <link>https://www.middleeasteye.net/news/eu-provisional-safe-countries-list-includes-repressive-states</link>
-      <description>&lt;article class="story default clearfix"&gt;
+      <description>&lt;article class=&quot;story default clearfix&quot;&gt;
 
   
       &lt;h2&gt;
-      &lt;a href="https://www.middleeasteye.net/news/eu-provisional-safe-countries-list-includes-repressive-states" rel="bookmark"&gt;
-&lt;span class="field field-title"&gt;EU's provisional safe countries list includes 'repressive' states&lt;/span&gt;
+      &lt;a href=&quot;https://www.middleeasteye.net/news/eu-provisional-safe-countries-list-includes-repressive-states&quot; rel=&quot;bookmark&quot;&gt;
+&lt;span class=&quot;field field-title&quot;&gt;EU&apos;s provisional safe countries list includes &apos;repressive&apos; states&lt;/span&gt;
 &lt;/a&gt;
     &lt;/h2&gt;
     
 
           &lt;footer&gt;
       
-      &lt;div class="author"&gt;
+      &lt;div class=&quot;author&quot;&gt;
         Submitted by 
-&lt;span class="field field-uid"&gt;&lt;a href="https://www.middleeasteye.net/users/alex-macdonald" lang="lang" title="View user profile."&gt;Alex MacDonald&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;field field-uid&quot;&gt;&lt;a href=&quot;https://www.middleeasteye.net/users/alex-macdonald&quot; lang=&quot;lang&quot; title=&quot;View user profile.&quot;&gt;Alex MacDonald&lt;/a&gt;&lt;/span&gt;
  on 
-&lt;span class="field field-created"&gt;&lt;time datetime="2025-12-18T09:36:31+00:00" title="18 December 2025 09:36 GMT"&gt;Thu, 12/18/2025 - 09:36&lt;/time&gt;
+&lt;span class=&quot;field field-created&quot;&gt;&lt;time datetime=&quot;2025-12-18T09:36:31+00:00&quot; title=&quot;18 December 2025 09:36 GMT&quot;&gt;Thu, 12/18/2025 - 09:36&lt;/time&gt;
 &lt;/span&gt;
         
       &lt;/div&gt;
     &lt;/footer&gt;
       
-    &lt;div class="content"&gt;
-                &lt;div class="field field-field-subhead"&gt;Dissidents criticise new legislation fast-tracking asylum rejections from Egypt, Tunisia, Turkey and Morocco&lt;br /&gt;
+    &lt;div class=&quot;content&quot;&gt;
+                &lt;div class=&quot;field field-field-subhead&quot;&gt;Dissidents criticise new legislation fast-tracking asylum rejections from Egypt, Tunisia, Turkey and Morocco&lt;br /&gt;
 &lt;/div&gt;
-                  &lt;div class="field field-field-main-image"&gt;    
-                  &lt;source height="788" type="image/webp" width="1400" /&gt;
-                  &lt;img alt="alt" height="788" src="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/EU_SISI_EGYPT_AFP.jpg.jpg?itok=3BxEK4xd" width="1400" /&gt;
+                  &lt;div class=&quot;field field-field-main-image&quot;&gt;    
+                  &lt;source height=&quot;788&quot; type=&quot;image/webp&quot; width=&quot;1400&quot; /&gt;
+                  &lt;img alt=&quot;alt&quot; height=&quot;788&quot; src=&quot;https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/EU_SISI_EGYPT_AFP.jpg.jpg?itok=3BxEK4xd&quot; width=&quot;1400&quot; /&gt;
 
   
 
 &lt;/div&gt;
-                  &lt;div class="field field-field-cutline"&gt;Egypt's Planning Minister Rania al-Mashat, Egypt's President Abdel Fattah el-Sisi, European Council President Antonio Costa, European Commission President Ursula von der Leyen, and European Commissioner for Economy Valdis Dombrovskis in Brussels, Belgium on 22 October 2025 (AFP)&lt;/div&gt;
-                  &lt;div class="field field-field-wide-photo-video"&gt;Off&lt;/div&gt;
-                  &lt;div class="field field-body clearfix"&gt;&lt;p&gt;The EU has provisionally approved a list of safe countries that will allow for the fast-tracking of asylum application rejections, despite criticism from rights groups that it includes a number of states accused of human rights abuses, persecution of dissidents and political instability.&lt;/p&gt;
+                  &lt;div class=&quot;field field-field-cutline&quot;&gt;Egypt&apos;s Planning Minister Rania al-Mashat, Egypt&apos;s President Abdel Fattah el-Sisi, European Council President Antonio Costa, European Commission President Ursula von der Leyen, and European Commissioner for Economy Valdis Dombrovskis in Brussels, Belgium on 22 October 2025 (AFP)&lt;/div&gt;
+                  &lt;div class=&quot;field field-field-wide-photo-video&quot;&gt;Off&lt;/div&gt;
+                  &lt;div class=&quot;field field-body clearfix&quot;&gt;&lt;p&gt;The EU has provisionally approved a list of safe countries that will allow for the fast-tracking of asylum application rejections, despite criticism from rights groups that it includes a number of states accused of human rights abuses, persecution of dissidents and political instability.&lt;/p&gt;
 
-&lt;p&gt;The list, first proposed in April, features a range of countries – including&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/egypt"&gt;Egypt&lt;/a&gt;, &lt;a href="https://www.middleeasteye.net/countries/tunisia"&gt;Tunisia&lt;/a&gt;, &lt;a href="https://www.middleeasteye.net/countries/morocco"&gt;Morocco &lt;/a&gt;and &lt;a href="https://www.middleeasteye.net/countries/turkey"&gt;Turkey &lt;/a&gt;– that will be considered&amp;nbsp;"safe countries of origin" as the EU attempts to form a more unified programme for processing the influx of people into the bloc.&lt;/p&gt;
+&lt;p&gt;The list, first proposed in April, features a range of countries – including&amp;nbsp;&lt;a href=&quot;https://www.middleeasteye.net/countries/egypt&quot;&gt;Egypt&lt;/a&gt;, &lt;a href=&quot;https://www.middleeasteye.net/countries/tunisia&quot;&gt;Tunisia&lt;/a&gt;, &lt;a href=&quot;https://www.middleeasteye.net/countries/morocco&quot;&gt;Morocco &lt;/a&gt;and &lt;a href=&quot;https://www.middleeasteye.net/countries/turkey&quot;&gt;Turkey &lt;/a&gt;– that will be considered&amp;nbsp;&quot;safe countries of origin&quot; as the EU attempts to form a more unified programme for processing the influx of people into the bloc.&lt;/p&gt;
 
-&lt;p&gt;Under new asylum rules, formalised by EU ministers last week and provisionally&amp;nbsp;adopted after a vote by its parliament on Wednesday,&amp;nbsp;an EU country will be able to reject an asylum application if the person could have received protection in a country the&lt;span class="highlight"&gt; EU &lt;/span&gt;considers&lt;span class="highlight"&gt; safe&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Under new asylum rules, formalised by EU ministers last week and provisionally&amp;nbsp;adopted after a vote by its parliament on Wednesday,&amp;nbsp;an EU country will be able to reject an asylum application if the person could have received protection in a country the&lt;span class=&quot;highlight&quot;&gt; EU &lt;/span&gt;considers&lt;span class=&quot;highlight&quot;&gt; safe&lt;/span&gt;.&lt;/p&gt;
 
-&lt;p&gt;Bangladesh, Colombia and &lt;a href="https://www.middleeasteye.net/countries/india"&gt;India&lt;/a&gt; are also among those included as "safe" countries, along with EU candidate countries, including&amp;nbsp;Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Serbia, Turkey and Ukraine.&lt;/p&gt;
+&lt;p&gt;Bangladesh, Colombia and &lt;a href=&quot;https://www.middleeasteye.net/countries/india&quot;&gt;India&lt;/a&gt; are also among those included as &quot;safe&quot; countries, along with EU candidate countries, including&amp;nbsp;Albania, Bosnia and Herzegovina, Georgia, Moldova, Montenegro, North Macedonia, Serbia, Turkey and Ukraine.&lt;/p&gt;
 
-&lt;p&gt;The new legislation has provoked alarm from rights groups and dissidents who point to widespread human rights abuses in many of the countries listed.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
-  &lt;div class="adsense responsive"&gt;
+&lt;p&gt;The new legislation has provoked alarm from rights groups and dissidents who point to widespread human rights abuses in many of the countries listed.&lt;/p&gt;&lt;div class=&quot;block-adsense block-adsense-managed-ad-block&quot;&gt;&lt;div&gt;
+  &lt;div class=&quot;adsense responsive&quot;&gt;
     
 &lt;!-- responsive --&gt;
-&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display: block;"&gt;&lt;/ins&gt;
+&lt;ins class=&quot;adsbygoogle mee-auto-ad-wrapper &quot; style=&quot;display: block;&quot;&gt;&lt;/ins&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Ahmed Attalla, executive director of the&amp;nbsp;&lt;a href="https://egyptianfront.org/"&gt;Egyptian Front for Human Rights&lt;/a&gt; (EFHR), told Middle East Eye that the new rules were in violation of "the right to asylum".&lt;/p&gt;
+&lt;p&gt;Ahmed Attalla, executive director of the&amp;nbsp;&lt;a href=&quot;https://egyptianfront.org/&quot;&gt;Egyptian Front for Human Rights&lt;/a&gt; (EFHR), told Middle East Eye that the new rules were in violation of &quot;the right to asylum&quot;.&lt;/p&gt;
 
-&lt;p&gt;"While the proposal’s adoption by the European Parliament was anticipated, given the current right-wing majority and the focus of major political groups' agendas and national electoral interests, this approach places border control and migration deterrence above human rights and the rule of law in these countries," he said.&lt;/p&gt;
+&lt;p&gt;&quot;While the proposal’s adoption by the European Parliament was anticipated, given the current right-wing majority and the focus of major political groups&apos; agendas and national electoral interests, this approach places border control and migration deterrence above human rights and the rule of law in these countries,&quot; he said.&lt;/p&gt;
 
-&lt;p&gt;"Designating Egypt as a safe country of origin will significantly increase the vulnerability of individuals persecuted for political, religious, or human rights-related reasons, exposing them to accelerated screening procedures and rapid deportation – many risk being returned to the very conditions of repression and abuse from which they fled,"&amp;nbsp;Attalla added.&lt;/p&gt;
+&lt;p&gt;&quot;Designating Egypt as a safe country of origin will significantly increase the vulnerability of individuals persecuted for political, religious, or human rights-related reasons, exposing them to accelerated screening procedures and rapid deportation – many risk being returned to the very conditions of repression and abuse from which they fled,&quot;&amp;nbsp;Attalla added.&lt;/p&gt;
 
 &lt;p&gt;MEE contacted the Danish presidency of the Council of the EU for a statement, but received no response at time of publication.&lt;/p&gt;
 
-&lt;h3&gt;'End of the right to asylum in Europe'&lt;/h3&gt;
+&lt;h3&gt;&apos;End of the right to asylum in Europe&apos;&lt;/h3&gt;
 
-&lt;p&gt;Along with the new list of safe countries, council and parliament negotiators agreed to adopt "safe third country" legislation that would&amp;nbsp;allow EU member states to reject an asylum application as inadmissible if the applicant could have sought and, if eligible, received international protection in a non-EU country considered safe for them.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
-  &lt;div class="adsense responsive"&gt;
+&lt;p&gt;Along with the new list of safe countries, council and parliament negotiators agreed to adopt &quot;safe third country&quot; legislation that would&amp;nbsp;allow EU member states to reject an asylum application as inadmissible if the applicant could have sought and, if eligible, received international protection in a non-EU country considered safe for them.&lt;/p&gt;&lt;div class=&quot;block-adsense block-adsense-managed-ad-block&quot;&gt;&lt;div&gt;
+  &lt;div class=&quot;adsense responsive&quot;&gt;
     
 &lt;!-- responsive --&gt;
-&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display: block;"&gt;&lt;/ins&gt;
+&lt;ins class=&quot;adsbygoogle mee-auto-ad-wrapper &quot; style=&quot;display: block;&quot;&gt;&lt;/ins&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -84,16 +115,16 @@
 &lt;p&gt;The parliament voted on Wednesday to allow parliamentary negotiators to finalise the new rules with the council, with only The Left bloc of leftist lawmakers uniformly voting in opposition.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;'This list… is yet another manoeuvre by the EU to free itself from international law'&lt;/p&gt;
+&lt;p&gt;&apos;This list… is yet another manoeuvre by the EU to free itself from international law&apos;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;-&amp;nbsp;Damien Careme, French MEP&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;French MEP&amp;nbsp;Damien Careme, a member of the left-wing La France Insoumise, warned that the new legislation effectively strips away the right to asylum in Europe&amp;nbsp;and said his bloc would continue to oppose it in the parliament.&lt;/p&gt;
 
-&lt;p&gt;"This list, driven by purely and blatantly political considerations, includes countries as lacking in respect for human rights as Egypt, Tunisia, Morocco, or Turkey… It is yet another manoeuvre by the EU to free itself from international law," he said in a statement.&lt;/p&gt;
+&lt;p&gt;&quot;This list, driven by purely and blatantly political considerations, includes countries as lacking in respect for human rights as Egypt, Tunisia, Morocco, or Turkey… It is yet another manoeuvre by the EU to free itself from international law,&quot; he said in a statement.&lt;/p&gt;
 
-&lt;p&gt;"It is, quite simply, the end of the right to asylum in Europe.”&lt;/p&gt;
+&lt;p&gt;&quot;It is, quite simply, the end of the right to asylum in Europe.”&lt;/p&gt;
 
 &lt;p&gt;The new rules, which still need to be formally approved by both the commission and parliament, will take effect from 12 June 2026.&lt;/p&gt;
 
@@ -101,57 +132,57 @@
 
 &lt;p&gt;Political parties and politicians across the spectrum have been touting the need for greater restrictions on asylum policy, pointing to the rise of far-right parties across Europe as anti-migrant sentiment mounts.&lt;/p&gt;
 
-&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
-  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/over-one-hundred-thousand-syrian-lives-hold-amid-asylum-application-freeze"&gt;&lt;img alt="alt" class="mee-readmore-image" height="250" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Germany.Berlin.RallyAssadFalls.8Dec2024.AFP_.jpg.webp?itok=sXvxUuRw" width="400" /&gt;
+&lt;div class=&quot;mee-readmore mee-readmore-article-story mee-readmore-type-image align-right&quot;&gt;
+  &lt;a class=&quot;mee-readmore-img-link&quot; href=&quot;https://www.middleeasteye.net/news/over-one-hundred-thousand-syrian-lives-hold-amid-asylum-application-freeze&quot;&gt;&lt;img alt=&quot;alt&quot; class=&quot;mee-readmore-image&quot; height=&quot;250&quot; src=&quot;https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Germany.Berlin.RallyAssadFalls.8Dec2024.AFP_.jpg.webp?itok=sXvxUuRw&quot; width=&quot;400&quot; /&gt;
 
-&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Over 100,000 Syrian lives on hold in EU and UK amid lingering asylum freeze&lt;/div&gt;
-    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/over-one-hundred-thousand-syrian-lives-hold-amid-asylum-application-freeze"&gt;Read More »&lt;/a&gt;
+&lt;/a&gt;  &lt;div class=&quot;mee-readmore-description&quot;&gt;Over 100,000 Syrian lives on hold in EU and UK amid lingering asylum freeze&lt;/div&gt;
+    &lt;a class=&quot;mee-readmore-link&quot; href=&quot;https://www.middleeasteye.net/news/over-one-hundred-thousand-syrian-lives-hold-amid-asylum-application-freeze&quot;&gt;Read More »&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;However, dissidents have expressed fears that the change to asylum rules could end Europe's status as a safe haven for those fleeing political persecution, war and instability.&lt;/p&gt;
+&lt;p&gt;However, dissidents have expressed fears that the change to asylum rules could end Europe&apos;s status as a safe haven for those fleeing political persecution, war and instability.&lt;/p&gt;
 
 &lt;p&gt;Jihad Khaled, an Egyptian&amp;nbsp;campaigner and refugee living in Europe, told MEE in April that the new list did not reflect reality.&lt;/p&gt;
 
-&lt;p&gt;"I really do wish Egypt was a safe country. I would be at least living with my family now and wouldn’t have to apply for asylum because I’m also at risk of prison in Egypt, due to my activities advocating for political prisoners," Khaled said.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&quot;I really do wish Egypt was a safe country. I would be at least living with my family now and wouldn’t have to apply for asylum because I’m also at risk of prison in Egypt, due to my activities advocating for political prisoners,&quot; Khaled said.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;"But, unfortunately, this is not&amp;nbsp;the&amp;nbsp;situation."&lt;/p&gt;
+&lt;p&gt;&quot;But, unfortunately, this is not&amp;nbsp;the&amp;nbsp;situation.&quot;&lt;/p&gt;
 
-&lt;p&gt;Khaled's mother, &lt;a href="https://www.middleeasteye.net/news/egypt-hoda-abdelmoneim-rights-lawyer-revolutionary-languishing-arbitrary-detention"&gt;Hoda Abdelmoneim&lt;/a&gt;, is still in prison, along with more than 60,000 other political prisoners.&lt;/p&gt;
+&lt;p&gt;Khaled&apos;s mother, &lt;a href=&quot;https://www.middleeasteye.net/news/egypt-hoda-abdelmoneim-rights-lawyer-revolutionary-languishing-arbitrary-detention&quot;&gt;Hoda Abdelmoneim&lt;/a&gt;, is still in prison, along with more than 60,000 other political prisoners.&lt;/p&gt;
 
-&lt;p&gt;Egypt ranks 18th&amp;nbsp;out of 100 on Freedom House's &lt;a href="https://freedomhouse.org/country/scores"&gt;"Freedom in the World"&lt;em&gt; &lt;/em&gt;index&lt;/a&gt;, which rates people’s access to political rights and civil liberties in 208 countries (the higher the ranking, the less freedom in the country). This puts Egypt higher than&amp;nbsp;&lt;a href="https://www.middleeasteye.net/countries/algeria" target="_blank"&gt;Algeria&lt;/a&gt;, &lt;a href="https://www.middleeasteye.net/countries/iraq" target="_blank"&gt;Iraq &lt;/a&gt;and &lt;a href="https://www.middleeasteye.net/countries/jordan" target="_blank"&gt;Jordan&lt;/a&gt;, none of which were included in the new safe countries list.&lt;/p&gt;
+&lt;p&gt;Egypt ranks 18th&amp;nbsp;out of 100 on Freedom House&apos;s &lt;a href=&quot;https://freedomhouse.org/country/scores&quot;&gt;&quot;Freedom in the World&quot;&lt;em&gt; &lt;/em&gt;index&lt;/a&gt;, which rates people’s access to political rights and civil liberties in 208 countries (the higher the ranking, the less freedom in the country). This puts Egypt higher than&amp;nbsp;&lt;a href=&quot;https://www.middleeasteye.net/countries/algeria&quot; target=&quot;_blank&quot;&gt;Algeria&lt;/a&gt;, &lt;a href=&quot;https://www.middleeasteye.net/countries/iraq&quot; target=&quot;_blank&quot;&gt;Iraq &lt;/a&gt;and &lt;a href=&quot;https://www.middleeasteye.net/countries/jordan&quot; target=&quot;_blank&quot;&gt;Jordan&lt;/a&gt;, none of which were included in the new safe countries list.&lt;/p&gt;
 
-&lt;p&gt;Human Rights Watch&amp;nbsp;(HRW)&amp;nbsp;has &lt;a href="https://www.hrw.org/middle-east/n-africa/egypt" target="_blank"&gt;described &lt;/a&gt;the Egyptian government as being engaged in "wholesale repression, systematically detaining and punishing peaceful critics and activists and effectively criminalising peaceful dissent", while "thousands of detainees remained locked up in dire conditions in lengthy pretrial detention or on sentences stemming from unjust trials".&lt;/p&gt;
+&lt;p&gt;Human Rights Watch&amp;nbsp;(HRW)&amp;nbsp;has &lt;a href=&quot;https://www.hrw.org/middle-east/n-africa/egypt&quot; target=&quot;_blank&quot;&gt;described &lt;/a&gt;the Egyptian government as being engaged in &quot;wholesale repression, systematically detaining and punishing peaceful critics and activists and effectively criminalising peaceful dissent&quot;, while &quot;thousands of detainees remained locked up in dire conditions in lengthy pretrial detention or on sentences stemming from unjust trials&quot;.&lt;/p&gt;
 
 &lt;h3&gt;Widespread rights abuses&lt;/h3&gt;
 
 &lt;p&gt;Aside from Egypt, Morocco, Turkey and Tunisia have also faced scrutiny over their treatment of opposition figures and rights campaigners.&lt;/p&gt;
 
-&lt;p&gt;Since a&amp;nbsp;&lt;a href="https://www.middleeasteye.net/topics/tunisia-coup" target="_blank"&gt;coup&lt;/a&gt; led by the now-President Kais Saied in July 2021, Tunisia&amp;nbsp;has dismantled all political checks and balances and repressed dissenting voices.&lt;/p&gt;
+&lt;p&gt;Since a&amp;nbsp;&lt;a href=&quot;https://www.middleeasteye.net/topics/tunisia-coup&quot; target=&quot;_blank&quot;&gt;coup&lt;/a&gt; led by the now-President Kais Saied in July 2021, Tunisia&amp;nbsp;has dismantled all political checks and balances and repressed dissenting voices.&lt;/p&gt;
 
-&lt;p&gt;In a controversial mass trial last month, sentences of up to 45 years were handed down&amp;nbsp;&lt;a href="https://www.middleeasteye.net/news/tunisian-appeal-court-upholds-heavy-prison-sentences-conspiracy-trial" target="_blank"&gt;on appeal&lt;/a&gt; to dozens of opposition figures accused of "conspiracy against state security" and "belonging to a terrorist group".&lt;/p&gt;
+&lt;p&gt;In a controversial mass trial last month, sentences of up to 45 years were handed down&amp;nbsp;&lt;a href=&quot;https://www.middleeasteye.net/news/tunisian-appeal-court-upholds-heavy-prison-sentences-conspiracy-trial&quot; target=&quot;_blank&quot;&gt;on appeal&lt;/a&gt; to dozens of opposition figures accused of &quot;conspiracy against state security&quot; and &quot;belonging to a terrorist group&quot;.&lt;/p&gt;
 
-&lt;div class="mee-readmore mee-readmore-article-story mee-readmore-type-image align-right"&gt;
-  &lt;a class="mee-readmore-img-link" href="https://www.middleeasteye.net/news/western-sahara-fifty-years-plunder-profit-morocco-allies"&gt;&lt;img alt="alt" class="mee-readmore-image" height="250" src="https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Western%20Sahara%20camels%20afp.jpg.webp?itok=kUyZn8VM" width="400" /&gt;
+&lt;div class=&quot;mee-readmore mee-readmore-article-story mee-readmore-type-image align-right&quot;&gt;
+  &lt;a class=&quot;mee-readmore-img-link&quot; href=&quot;https://www.middleeasteye.net/news/western-sahara-fifty-years-plunder-profit-morocco-allies&quot;&gt;&lt;img alt=&quot;alt&quot; class=&quot;mee-readmore-image&quot; height=&quot;250&quot; src=&quot;https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Western%20Sahara%20camels%20afp.jpg.webp?itok=kUyZn8VM&quot; width=&quot;400&quot; /&gt;
 
-&lt;/a&gt;  &lt;div class="mee-readmore-description"&gt;Fifty years of plunder: How Morocco and its allies profit from Western Sahara&lt;/div&gt;
-    &lt;a class="mee-readmore-link" href="https://www.middleeasteye.net/news/western-sahara-fifty-years-plunder-profit-morocco-allies"&gt;Read More »&lt;/a&gt;
+&lt;/a&gt;  &lt;div class=&quot;mee-readmore-description&quot;&gt;Fifty years of plunder: How Morocco and its allies profit from Western Sahara&lt;/div&gt;
+    &lt;a class=&quot;mee-readmore-link&quot; href=&quot;https://www.middleeasteye.net/news/western-sahara-fifty-years-plunder-profit-morocco-allies&quot;&gt;Read More »&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Morocco, for its part, continues to occupy &lt;a href="https://www.middleeasteye.net/topics/western-sahara" target="_blank"&gt;Western Sahara&lt;/a&gt;&amp;nbsp;– a territory it fully captured in 1979 – where Sahrawi activists and journalists are regularly imprisoned, attacked by police and subjected to sexual abuse.&lt;/p&gt;
+&lt;p&gt;Morocco, for its part, continues to occupy &lt;a href=&quot;https://www.middleeasteye.net/topics/western-sahara&quot; target=&quot;_blank&quot;&gt;Western Sahara&lt;/a&gt;&amp;nbsp;– a territory it fully captured in 1979 – where Sahrawi activists and journalists are regularly imprisoned, attacked by police and subjected to sexual abuse.&lt;/p&gt;
 
-&lt;p&gt;Female Sahrawi activists, in particular, have faced&lt;a href="https://www.middleeasteye.net/news/western-sahara-female-activists-morocco-rape-divorce-house-arrest" target="_blank"&gt; severe abuse &lt;/a&gt;at the hands of the security services, including rape.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Female Sahrawi activists, in particular, have faced&lt;a href=&quot;https://www.middleeasteye.net/news/western-sahara-female-activists-morocco-rape-divorce-house-arrest&quot; target=&quot;_blank&quot;&gt; severe abuse &lt;/a&gt;at the hands of the security services, including rape.&amp;nbsp;&lt;/p&gt;
 
-&lt;p&gt;In recent years, thousands of Sahrawis &lt;a href="https://www.middleeasteye.net/news/western-sahara-refugees-war-fleeing-will-return"&gt;have fled&lt;/a&gt; their homes to neighbouring Algeria, after the ceasefire between the Polisario Front independence movement and Morocco collapsed in 2020.&lt;/p&gt;
+&lt;p&gt;In recent years, thousands of Sahrawis &lt;a href=&quot;https://www.middleeasteye.net/news/western-sahara-refugees-war-fleeing-will-return&quot;&gt;have fled&lt;/a&gt; their homes to neighbouring Algeria, after the ceasefire between the Polisario Front independence movement and Morocco collapsed in 2020.&lt;/p&gt;
 
-&lt;p&gt;Rights groups have also &lt;a href="https://www.hrw.org/world-report/2024/country-chapters/morocco-and-western-sahara" target="_blank"&gt;pointed &lt;/a&gt;to arbitrary arrests of Moroccan journalists, &lt;a href="https://www.middleeasteye.net/news/morocco-pro-palestine-activists-denounce-increased-state-repression" target="_blank"&gt;activists &lt;/a&gt;and lawyers, with many convicted for "defaming" local officials.&lt;/p&gt;
+&lt;p&gt;Rights groups have also &lt;a href=&quot;https://www.hrw.org/world-report/2024/country-chapters/morocco-and-western-sahara&quot; target=&quot;_blank&quot;&gt;pointed &lt;/a&gt;to arbitrary arrests of Moroccan journalists, &lt;a href=&quot;https://www.middleeasteye.net/news/morocco-pro-palestine-activists-denounce-increased-state-repression&quot; target=&quot;_blank&quot;&gt;activists &lt;/a&gt;and lawyers, with many convicted for &quot;defaming&quot; local officials.&lt;/p&gt;
 
-&lt;p&gt;"Morocco is no safe place even for Moroccans," said Oubi Bachir, former EU representative for the Polisario Front.&lt;/p&gt;
+&lt;p&gt;&quot;Morocco is no safe place even for Moroccans,&quot; said Oubi Bachir, former EU representative for the Polisario Front.&lt;/p&gt;
 
-&lt;p&gt;He told MEE in April that "repression is the dominating policy" in the Sahrawi territories controlled by Morocco.&lt;/p&gt;&lt;div class="block-adsense block-adsense-managed-ad-block"&gt;&lt;div&gt;
-  &lt;div class="adsense responsive"&gt;
+&lt;p&gt;He told MEE in April that &quot;repression is the dominating policy&quot; in the Sahrawi territories controlled by Morocco.&lt;/p&gt;&lt;div class=&quot;block-adsense block-adsense-managed-ad-block&quot;&gt;&lt;div&gt;
+  &lt;div class=&quot;adsense responsive&quot;&gt;
     
 &lt;!-- responsive --&gt;
-&lt;ins class="adsbygoogle mee-auto-ad-wrapper " style="display: block;"&gt;&lt;/ins&gt;
+&lt;ins class=&quot;adsbygoogle mee-auto-ad-wrapper &quot; style=&quot;display: block;&quot;&gt;&lt;/ins&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
@@ -163,27 +194,27 @@
 
 &lt;p&gt;Turkey, in particular, has had a range of dissidents living across the EU for decades – mainly leftists, liberal journalists and members and sympathisers of pro-Kurdish organisations.&lt;/p&gt;
 
-&lt;p&gt;Torture in prison and police detention has been described by Amnesty International as "widespread and systematic", while HRW has accused the government of "targeting perceived government critics and political opponents, profoundly undermining the independence of the judiciary, and hollowing out democratic institutions".&lt;/p&gt;
+&lt;p&gt;Torture in prison and police detention has been described by Amnesty International as &quot;widespread and systematic&quot;, while HRW has accused the government of &quot;targeting perceived government critics and political opponents, profoundly undermining the independence of the judiciary, and hollowing out democratic institutions&quot;.&lt;/p&gt;
 &lt;/div&gt;
-                  &lt;div class="field field-field-topic"&gt;&lt;a href="https://www.middleeasteye.net/topics/human-rights" hreflang="en"&gt;Human Rights&lt;/a&gt;&lt;/div&gt;
-            &lt;div class="field field-field-coauthor-location"&gt;
+                  &lt;div class=&quot;field field-field-topic&quot;&gt;&lt;a href=&quot;https://www.middleeasteye.net/topics/human-rights&quot; hreflang=&quot;en&quot;&gt;Human Rights&lt;/a&gt;&lt;/div&gt;
+            &lt;div class=&quot;field field-field-coauthor-location&quot;&gt;
               &lt;div&gt; &lt;/div&gt;
               &lt;div&gt; &lt;/div&gt;
               &lt;div&gt; &lt;/div&gt;
               &lt;div&gt; &lt;/div&gt;
           &lt;/div&gt;
-              &lt;div class="field field-field-article-location"&gt; &lt;/div&gt;
-                  &lt;div class="field field-field-section"&gt;&lt;a href="https://www.middleeasteye.net/news/all" hreflang="en"&gt;News&lt;/a&gt;&lt;/div&gt;
-        &lt;div class="field field-field-post-date-override"&gt;
+              &lt;div class=&quot;field field-field-article-location&quot;&gt; &lt;/div&gt;
+                  &lt;div class=&quot;field field-field-section&quot;&gt;&lt;a href=&quot;https://www.middleeasteye.net/news/all&quot; hreflang=&quot;en&quot;&gt;News&lt;/a&gt;&lt;/div&gt;
+        &lt;div class=&quot;field field-field-post-date-override&quot;&gt;
     &lt;div&gt;Post Date Override&lt;/div&gt;
               &lt;div&gt;0&lt;/div&gt;
           &lt;/div&gt;
-  &lt;div class="field field-field-update-date-override"&gt;
+  &lt;div class=&quot;field field-field-update-date-override&quot;&gt;
     &lt;div&gt;Update Date&lt;/div&gt;
-              &lt;div&gt;&lt;time datetime="2020-05-04T21:19:45+01:00"&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
+              &lt;div&gt;&lt;time datetime=&quot;2020-05-04T21:19:45+01:00&quot;&gt;Mon, 05/04/2020 - 21:19&lt;/time&gt;
 &lt;/div&gt;
           &lt;/div&gt;
-  &lt;div class="field field-field-update-date-check"&gt;
+  &lt;div class=&quot;field field-field-update-date-check&quot;&gt;
     &lt;div&gt;Update Date Override&lt;/div&gt;
               &lt;div&gt;0&lt;/div&gt;
           &lt;/div&gt;
@@ -198,9 +229,9 @@
       <enclosure url="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/EU_SISI_EGYPT_AFP.jpg.jpg?itok=3BxEK4xd" type="image/jpeg" />
     </item>
     <item>
-      <title>Anti-India protests in B'desh: Two visa centres closed; rally at consulate - key points</title>
+      <title>Anti-India protests in B&apos;desh: Two visa centres closed; rally at consulate - key points</title>
       <link>https://timesofindia.indiatimes.com/india/anti-india-protests-in-bangladesh-two-visa-centres-closed-rally-at-consulate-key-points/articleshow/126057164.cms</link>
-      <description>India's Dhaka visa application centre has reopened after a temporary closure due to an anti-India protest. However, centres in Khulna and Rajshahi remain shut due to security concerns. India has expressed strong concern to Bangladesh over the deteriorating security environment around its mission.</description>
+      <description>India&apos;s Dhaka visa application centre has reopened after a temporary closure due to an anti-India protest. However, centres in Khulna and Rajshahi remain shut due to security concerns. India has expressed strong concern to Bangladesh over the deteriorating security environment around its mission.</description>
       <pubDate>Thu, 18 Dec 2025 11:27:58 +0000</pubDate>
       <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/anti-india-protests-in-bangladesh-two-visa-centres-closed-rally-at-consulate-key-points/articleshow/126057164.cms</guid>
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126057250,imgsize-26264.cms" />
@@ -242,17 +273,10 @@
       <enclosure url="https://img.etimg.com/photo/msid-126054974,imgsize-212110.cms" type="image/jpeg" />
     </item>
     <item>
-      <title>India Shuts 2 More Visa Centres in Bangladesh As 'Security Situation' Worsens</title>
-      <link>https://www.ndtv.com/world-news/india-shuts-2-more-visa-centres-in-bangladesh-as-security-situation-worsens-9837962#publisher=newsstand</link>
-      <description>Bangladesh observers have indicated that radical groups will try to derail elections</description>
-      <pubDate>Thu, 18 Dec 2025 09:00:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/india-shuts-2-more-visa-centres-in-bangladesh-as-security-situation-worsens-9837962#publisher=newsstand</guid>
-    </item>
-    <item>
       <title>Want to understand the sickness of Britain today? Look no further – a novel explained it all 20 years ago | Aditya Chakrabortty</title>
       <link>https://www.theguardian.com/commentisfree/2025/dec/18/sickness-britain-novel-20-years-ago-jg-ballard</link>
       <description>&lt;p&gt;The racism, the predatory politics, the banality and cruelty: we struggle to make sense of it, but JG Ballard foretold everything we are living through now&lt;/p&gt;&lt;p&gt;An Englishman drives into a new town and can’t see the warning signs. Richard Pearson is visiting Surrey to close down his late father’s home and settle his affairs and, everywhere he looks, the flag of St George is flying “from suburban gardens and filling stations and branch post offices”. How nice, he thinks, how festive.&lt;br /&gt;&lt;br /&gt;
- Soon he learns the truth.&lt;/p&gt;&lt;p&gt;So runs the opening not of a recent piece of journalism, but a novel by JG Ballard, Kingdom Come, which despite being almost 20 years old anticipates today’s Britain with eerie precision. In the mid-2000s, Pearson reads up on his new surroundings, only to find the same headlines that assail us in the mid-2020s: “Every day the local newspaper reported attacks on an asylum hotel, the torching of a Bangladeshi takeaway, injuries to a Kosovan youth thrown over the fence into an industrial estate.”&lt;/p&gt;&lt;p&gt;Aditya Chakrabortty is a Guardian columnist&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2025/dec/18/sickness-britain-novel-20-years-ago-jg-ballard"&gt;Continue reading...&lt;/a&gt;</description>
+ Soon he learns the truth.&lt;/p&gt;&lt;p&gt;So runs the opening not of a recent piece of journalism, but a novel by JG Ballard, Kingdom Come, which despite being almost 20 years old anticipates today’s Britain with eerie precision. In the mid-2000s, Pearson reads up on his new surroundings, only to find the same headlines that assail us in the mid-2020s: “Every day the local newspaper reported attacks on an asylum hotel, the torching of a Bangladeshi takeaway, injuries to a Kosovan youth thrown over the fence into an industrial estate.”&lt;/p&gt;&lt;p&gt;Aditya Chakrabortty is a Guardian columnist&lt;/p&gt;&lt;p&gt;Kingdom Come by JG Ballard (Fourth Estate, £10.99). To support the Guardian, order your copy at &lt;a href=&quot;https://guardianbookshop.com/kingdom-come-9780007232475/?utm_source=theguardian&amp;amp;utm_medium=merch&amp;amp;utm_campaign=article&quot;&gt;guardianbookshop.com&lt;/a&gt;. Delivery charges may apply.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/commentisfree/2025/dec/18/sickness-britain-novel-20-years-ago-jg-ballard&quot;&gt;Continue reading...&lt;/a&gt;</description>
       <pubDate>Thu, 18 Dec 2025 08:00:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2025/dec/18/sickness-britain-novel-20-years-ago-jg-ballard</guid>
       <media:thumbnail url="https://i.guim.co.uk/img/media/f1d5476829d563e1c79c77722404b7e709b1e0ab/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e711cddefc5c2e3266bd17e1a00979ad" />
@@ -265,13 +289,6 @@
       <description>&lt;p&gt;A viral video shows an escalator at BRAC University in Dhaka suddenly speeding up, sparking safety concerns.&lt;/p&gt;</description>
       <pubDate>Thu, 18 Dec 2025 05:40:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.straitstimes.com/asia/south-asia/escalator-in-bangladesh-university-goes-rogue-abruptly-surges-forward-in-viral-video</guid>
-    </item>
-    <item>
-      <title>India voices security concerns over mission in Dhaka</title>
-      <link>https://dailytimes.com.pk/1419970/india-voices-security-concerns-over-mission-in-dhaka/</link>
-      <description>DHAKA: India on Wednesday summoned Bangladesh’s High Commissioner to New Delhi to convey strong concerns over what it described as a deteriorating security situation in Bangladesh. New Delhi said the issue was particularly serious due to alleged threats targeting the Indian Mission in Dhaka. Read More: Punjab extends section 144 amid ongoing security concerns The diplomatic [&amp;#8230;]</description>
-      <pubDate>Thu, 18 Dec 2025 05:12:00 +0000</pubDate>
-      <guid isPermaLink="true">https://dailytimes.com.pk/1419970/india-voices-security-concerns-over-mission-in-dhaka/</guid>
     </item>
     <item>
       <title>Bangladeshi politician’s threat targeting India’s northeast deepens row</title>
@@ -296,58 +313,9 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
       <enclosure url="https://th-i.thgim.com/public/incoming/mcg0t4/article70408959.ece/alternates/LANDSCAPE_1200/AFP__20240104__349B2UQ__v1__HighRes__BritainBangladeshVotePoliticsUnrestRahman.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Anti-India slogans, march on High Commission: India summons B'desh envoy over Dhaka security fears</title>
-      <link>https://timesofindia.indiatimes.com/india/india-summons-envoy-as-bangladesh-tension-rises/articleshow/126045403.cms</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 20:47:14 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/india-summons-envoy-as-bangladesh-tension-rises/articleshow/126045403.cms</guid>
-    </item>
-    <item>
-      <title>‘July Oikya’: India flags security threat, summons B'desh envoy after protests near Dhaka mission</title>
-      <link>https://timesofindia.indiatimes.com/india/india-summons-envoy-as-bangladesh-tension-rises/articleshow/126045403.cms</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 20:47:14 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/india-summons-envoy-as-bangladesh-tension-rises/articleshow/126045403.cms</guid>
-    </item>
-    <item>
-      <title>Muslim-dominated segments mapped better in Bengal SIR: study</title>
-      <link>https://www.thehindu.com/news/national/west-bengal/in-bengal-seats-with-high-muslim-population-have-lowest-number-of-unmapped-voters/article70407921.ece</link>
-      <description>Twenty Assembly constituencies with the highest share of unmapped voters have lower Muslim population; researchers say that the Matua population, Hindu refugees from Bangladesh, could be hit hard by the SIR</description>
-      <pubDate>Wed, 17 Dec 2025 16:01:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/west-bengal/in-bengal-seats-with-high-muslim-population-have-lowest-number-of-unmapped-voters/article70407921.ece</guid>
-    </item>
-    <item>
-      <title>In Bengal, seats with high Muslim population have lowest number of unmapped voters</title>
-      <link>https://www.thehindu.com/news/national/west-bengal/in-bengal-seats-with-high-muslim-population-have-lowest-number-of-unmapped-voters/article70407921.ece</link>
-      <description>Twenty Assembly constituencies with the highest share of unmapped voters have lower Muslim population; researchers say that the Matua population, Hindu refugees from Bangladesh, could be hit hard by the SIR</description>
-      <pubDate>Wed, 17 Dec 2025 16:01:47 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/west-bengal/in-bengal-seats-with-high-muslim-population-have-lowest-number-of-unmapped-voters/article70407921.ece</guid>
-    </item>
-    <item>
-      <title>Delhi restricts vehicles, office attendance in bid to curb pollution</title>
-      <link>https://www.tbsnews.net/bangladesh/environment/delhi-restricts-vehicles-office-attendance-bid-curb-pollution-1312541</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 16:01:39 +0000</pubDate>
-      <guid isPermaLink="true">https://www.tbsnews.net/bangladesh/environment/delhi-restricts-vehicles-office-attendance-bid-curb-pollution-1312541</guid>
-    </item>
-    <item>
-      <title>Watch: Bangladesh’s threats to cut NE off cannot be tolerated | Assam CM</title>
-      <link>https://www.thehindu.com/videos/watch-bangladeshs-threats-to-cut-ne-off-cannot-be-tolerated-assam-cm/article70408478.ece</link>
-      <description>Himanta Biswa Sarma reacted to a Bangladeshi youth leader’s call to shelter Indian separatists and sever the region from India’s mainland</description>
-      <pubDate>Wed, 17 Dec 2025 15:46:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/videos/watch-bangladeshs-threats-to-cut-ne-off-cannot-be-tolerated-assam-cm/article70408478.ece</guid>
-    </item>
-    <item>
-      <title>Watch: Bangladesh’s threats to cut NE off cannot be tolerated | Assam CM</title>
-      <link>https://www.thehindu.com/news/national/watch-bangladeshs-threats-to-cut-ne-off-cannot-be-tolerated-assam-cm/article70408478.ece</link>
-      <description>Himanta Biswa Sarma reacted to a Bangladeshi youth leader’s call to shelter Indian separatists and sever the region from India’s mainland</description>
-      <pubDate>Wed, 17 Dec 2025 15:46:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/watch-bangladeshs-threats-to-cut-ne-off-cannot-be-tolerated-assam-cm/article70408478.ece</guid>
-    </item>
-    <item>
       <title>India summons Bangladesh envoy as diplomatic spat escalates</title>
       <link>https://www.rt.com/india/629555-india-summons-bangladesh-envoy-as/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description>&lt;img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2025.12/thumbnail/6942bf1c85f5401bb81409dd.jpg" style="margin-right: 10px;" /&gt; Ties between India and Bangladesh have hit a low as the latter gears up for polls early next year &lt;br /&gt;&lt;a href="https://www.rt.com/india/629555-india-summons-bangladesh-envoy-as/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS"&gt;Read Full Article at RT.com&lt;/a&gt;</description>
+      <description>&lt;img align=&quot;left&quot; alt=&quot;Preview&quot; src=&quot;https://mf.b37mrtl.ru/files/2025.12/thumbnail/6942bf1c85f5401bb81409dd.jpg&quot; style=&quot;margin-right: 10px;&quot; /&gt; Ties between India and Bangladesh have hit a low as the latter gears up for polls early next year &lt;br /&gt;&lt;a href=&quot;https://www.rt.com/india/629555-india-summons-bangladesh-envoy-as/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS&quot;&gt;Read Full Article at RT.com&lt;/a&gt;</description>
       <pubDate>Wed, 17 Dec 2025 12:51:33 +0000</pubDate>
       <guid isPermaLink="true">https://www.rt.com/india/629555-india-summons-bangladesh-envoy-as/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <media:thumbnail url="https://mf.b37mrtl.ru/files/2025.12/thumbnail/6942bf1c85f5401bb81409dd.jpg" />
@@ -355,52 +323,9 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
       <enclosure url="https://mf.b37mrtl.ru/files/2025.12/thumbnail/6942bf1c85f5401bb81409dd.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Bangladesh Ex PM Khaleda Zia's Son To Return To Country After 18 Years</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-ex-pm-khaleda-zias-son-tarique-rahman-to-return-to-country-after-18-years-9832807#publisher=newsstand</link>
-      <description>Rahman has been living abroad since he left the country with his family in 2008.</description>
-      <pubDate>Wed, 17 Dec 2025 12:35:43 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-ex-pm-khaleda-zias-son-tarique-rahman-to-return-to-country-after-18-years-9832807#publisher=newsstand</guid>
-    </item>
-    <item>
-      <title>51,000 passengers offloaded after failing immigration checks this year, FIA tells NA panel</title>
-      <link>https://www.dawn.com/news/1961655/51000-passengers-offloaded-after-failing-immigration-checks-this-year-fia-tells-na-panel</link>
-      <description>&lt;p&gt;A meeting of the National Assembly Standing Committee on Overseas Pakistanis, chaired by Aga Rafiullah, was informed on Wednesday that 51,000 passengers were offloaded at Pakistani airports this year after failing immigration checks, with a large number of them being offloaded at Lahore and Karachi airports.&lt;/p&gt;
-&lt;p&gt;Over the past few months, numerous incidents have been reported of travellers being &lt;a href="https://www.dawn.com/news/1891979"&gt;offloaded&lt;/a&gt; from flights at various airports, despite possessing valid travel documents. These actions followed a &lt;a href="https://www.dawn.com/news/1885931"&gt;crackdown&lt;/a&gt; on migrant smuggling launched after the 2024 &lt;a href="https://www.dawn.com/news/1878730/5-dead-after-migrant-boat-with-many-pakistanis-capsizes-off-greek-island"&gt;Greece boat tragedy&lt;/a&gt;, which claimed several Pakistani lives.&lt;/p&gt;
-&lt;p&gt;Prime Minister Shehbaz Sharif has also ordered the formation of a &lt;a href="https://www.dawn.com/news/1961398"&gt;committee&lt;/a&gt; to investigate the frequent offloading of passengers from international flights, an issue that has reportedly affected numerous travellers despite them holding valid documents.&lt;/p&gt;
-&lt;p&gt;Director General of the Federal Investigation Agency (FIA) Riffat Mukhtar Raja informed the committee that, “Passengers are offloaded on the basis of document verification, data checks, and online authentication.”&lt;/p&gt;
-&lt;p&gt;Raja told the parliamentary panel that of the 66,000 passengers offloaded this year, 51,000 were stopped by the FIA for insufficient or unverified documentation.&lt;/p&gt;
-&lt;p&gt;He added that many of those offloaded lacked complete information related to their courses, universities or employment details abroad.&lt;/p&gt;
-&lt;p&gt;“In many cases, passengers attempt to travel through agents using incomplete or incorrect information,” DG FIA added.&lt;/p&gt;
-&lt;p&gt;The committee was further informed that 180 FIA officials involved in corruption had been dismissed from service, while all major airports had been connected to NADRA’s online database to strengthen immigration controls.&lt;/p&gt;
-&lt;p&gt;“No passenger was cleared under political influence or VIP pressure,” he stressed.&lt;/p&gt;
-&lt;p&gt;The official further informed the lawmakers that cameras have been installed at immigration counters at airports and that monitoring is being carried out from the control headquarters.&lt;/p&gt;
-&lt;p&gt;“The immigration system is using artificial intelligence to identify suspicious cases in advance.”&lt;/p&gt;
-&lt;p&gt;He added that most offloaded passengers belonged to the visit, Umrah and work visa categories. During the current year, 8.5 million people travelled abroad from Pakistan, while 226 cases were registered for various offences.&lt;/p&gt;
-&lt;p&gt;“Over the past three months, 450 people were arrested while attempting to cross into Iran illegally,” the DG FIA told the committee.&lt;/p&gt;
-&lt;p&gt;He also revealed that several Bangladeshi nationals were found attempting to travel illegally to Europe via Pakistan.&lt;/p&gt;
-&lt;p&gt;“Bangladeshi citizens travelling on Pakistani tourist visas were caught while heading to Europe,” added DG FIA.&lt;/p&gt;
-&lt;p&gt;He further stated that 287 people were deported last year and 170 this year over the use of fake documents.&lt;/p&gt;
-&lt;p&gt;The parliamentary panel was also told that 24,000 accused of begging have been deported from Saudi Arabia this year.&lt;/p&gt;
-&lt;h3&gt;&lt;a class="heading-permalink" href="https://www.dawn.com/feeds/home/#1-trillion-investment-coming-to-saudi-arabia-opportunities-to-increase-for-pakistanis" id="1-trillion-investment-coming-to-saudi-arabia-opportunities-to-increase-for-pakistanis" title="Permalink"&gt;&lt;/a&gt;$1 trillion investment coming to Saudi Arabia; opportunities to increase for Pakistanis&lt;/h3&gt;
-&lt;p&gt;Secretary Ministry of Overseas Pakistanis Nadeem Aslam Chaudhry informed the committee that investment worth $1 trillion is coming to Saudi Arabia under Saudi Vision 2030, creating multiple employment opportunities.&lt;/p&gt;
-&lt;p&gt;“If we can provide better training to skilled manpower, Pakistan can benefit from these opportunities,” he added.&lt;/p&gt;
-&lt;p&gt;The secretary told the committee that 451,000 Pakistanis travelled to Saudi Arabia last year, while more than 500,000 Pakistanis have been sent to Saudi Arabia during the current year.&lt;/p&gt;
-&lt;p&gt;Chairman of the committee Agha Rafiullah said that the National Vocational and Technical Training Commission was “not functioning at all”, adding that officers posted there were temporarily fixing matters instead of resolving them permanently.&lt;/p&gt;
-&lt;p&gt;Committee member Muhammad Ilyas Chaudhry said drivers have been provided to community welfare attachés, questioning how Grade 17–18 officers were being assigned drivers in Europe.&lt;/p&gt;
-&lt;p&gt;He said “more than 50 per cent of community welfare attachés have been provided drivers”, asking whether the ministry was aware of the cost of providing a driver to a Grade 17 officer in Europe.&lt;/p&gt;
-&lt;p&gt;Community welfare attachés are officials of the Ministry of Overseas Pakistanis, posted abroad to assist Pakistani migrant workers, safeguard their interests, and provide legal or financial protection.&lt;/p&gt;
-&lt;p&gt;Earlier this month, Interior Minister Mohsin Naqvi said that “no passenger with &lt;a href="https://www.dawn.com/news/1958147"&gt;complete travel documents&lt;/a&gt; is being stopped from travelling, and they will not be stopped,” adding that, however, passengers in possession of “incomplete or bogus documents will definitely not be allowed to travel”.&lt;/p&gt;
-&lt;p&gt;“No passenger who brings disrepute to the country can be allowed to travel,” he further stated, according to PTV News.&lt;/p&gt;
-&lt;p&gt;In November, the FIA &lt;a href="https://www.dawn.com/news/1957696"&gt;&lt;u&gt;clarified&lt;/u&gt;&lt;/a&gt; that people were only being offloaded or denied boarding if they did not have valid documents or if authorities suspected them of working with migrant smugglers.&lt;/p&gt;
-&lt;p&gt;The same day, the agency also&lt;a href="https://www.dawn.com/news/1957732"&gt;&lt;u&gt; initiated&lt;/u&gt;&lt;/a&gt; legal action against those involved in spreading fabricated information on social media regarding the offloading of passengers.&lt;/p&gt;
-&lt;p&gt;FIA Director General Riffat Mukhtar had also &lt;a href="https://www.dawn.com/news/1953505"&gt;&lt;u&gt;acknowledged &lt;/u&gt;&lt;/a&gt;that incidents of people being offloaded had been reported at Lahore and Karachi airports, and that investigations were underway.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 12:21:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.dawn.com/news/1961655/51000-passengers-offloaded-after-failing-immigration-checks-this-year-fia-tells-na-panel</guid>
-    </item>
-    <item>
       <title>‘Isolate Northeast’s Seven Sisters’: What triggered fresh tensions between India and Bangladesh</title>
       <link>https://indianexpress.com/article/explained/explained-global/seven-sisters-india-bangladesh-10425225/</link>
-      <description />
+      <description></description>
       <pubDate>Wed, 17 Dec 2025 11:49:55 +0000</pubDate>
       <guid isPermaLink="true">https://indianexpress.com/article/explained/explained-global/seven-sisters-india-bangladesh-10425225/</guid>
       <media:thumbnail url="https://images.indianexpress.com/2025/12/Modi-Yunus-Meet.jpg" />
@@ -408,26 +333,12 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
       <enclosure url="https://images.indianexpress.com/2025/12/Modi-Yunus-Meet.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Photos reveal impact of U.S. aid cuts on Rohingya children in camps in Bangladesh</title>
-      <link>https://apnews.com/photo-gallery/usaid-rohingya-exploitation-trump-budget-cuts-photos-fddacef210b7137a424d92b7701ed8bf</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 11:38:16 +0000</pubDate>
-      <guid isPermaLink="true">https://apnews.com/photo-gallery/usaid-rohingya-exploitation-trump-budget-cuts-photos-fddacef210b7137a424d92b7701ed8bf</guid>
-    </item>
-    <item>
-      <title>How Bangladesh leader’s threat to cut off India’s ‘Seven Sisters’ has sparked a diplomatic row</title>
-      <link>https://www.firstpost.com/explainers/bangladesh-leader-threat-cut-off-india-seven-sisters-diplomatic-row-13960623.html</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 11:13:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.firstpost.com/explainers/bangladesh-leader-threat-cut-off-india-seven-sisters-diplomatic-row-13960623.html</guid>
-    </item>
-    <item>
       <title>Chatham House in 2025: A message from the Director</title>
       <link>https://www.chathamhouse.org/2025/12/chatham-house-2025-message-director</link>
       <description>&lt;span&gt;Chatham House in 2025: A message from the Director&lt;/span&gt;
   &lt;span&gt;News release&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;jon.wallace&lt;/span&gt;&lt;/span&gt;
-&lt;span&gt;&lt;time datetime="2025-12-17T10:47:38+00:00" title="Wednesday, 17 December, 2025"&gt;17 December 2025&lt;/time&gt;
+&lt;span&gt;&lt;time datetime=&quot;2025-12-17T10:47:38+00:00&quot; title=&quot;Wednesday, 17 December, 2025&quot;&gt;17 December 2025&lt;/time&gt;
 &lt;/span&gt;
   &lt;p&gt;Institute Director and Chief Executive Bronwen Maddox reviews Chatham House’s response to an extraordinary year of turbulence in international affairs.&lt;/p&gt;
 
@@ -435,8 +346,8 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
 
 
 
-  &lt;div class="media media-teaser_landscape_rss media-image"&gt;
-                        &lt;img alt="People walking outside Chatham House" height="600" src="https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2025-12/ChathamHouseOUTSIDE-0380.jpg?itok=qgfJLvD3" width="1200" /&gt;
+  &lt;div class=&quot;media media-teaser_landscape_rss media-image&quot;&gt;
+                        &lt;img alt=&quot;People walking outside Chatham House&quot; height=&quot;600&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2025-12/ChathamHouseOUTSIDE-0380.jpg?itok=qgfJLvD3&quot; width=&quot;1200&quot; /&gt;
 
   
 
@@ -445,24 +356,24 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
 
             &lt;/div&gt;
   
-  &lt;p&gt;It is fair to say that 2025 was always going to be unsettled and unpredictable, but by any measure, it has been an extraordinary year – a period of geopolitical turbulence in which Chatham House has often found itself at the centre. &amp;nbsp;&lt;/p&gt;&lt;p&gt;We have seen some of the world’s most influential leaders come through our iconic blue front door, keen to debate and engage on the biggest topics of the day at one of the world’s premier discussion venues.&lt;/p&gt;&lt;div class="align-right embedded-entity embed"&gt;
-&lt;figure class="media media-embed media-video"&gt;
+  &lt;p&gt;It is fair to say that 2025 was always going to be unsettled and unpredictable, but by any measure, it has been an extraordinary year – a period of geopolitical turbulence in which Chatham House has often found itself at the centre. &amp;nbsp;&lt;/p&gt;&lt;p&gt;We have seen some of the world’s most influential leaders come through our iconic blue front door, keen to debate and engage on the biggest topics of the day at one of the world’s premier discussion venues.&lt;/p&gt;&lt;div class=&quot;align-right embedded-entity embed&quot;&gt;
+&lt;figure class=&quot;media media-embed media-video&quot;&gt;
   
-        &lt;div class="video-embed-field-lazy"&gt;&lt;img alt="alt" height="422" src="https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/video_thumbnails/dGCujQRYhAg.jpg?h=c673cd1c&amp;amp;itok=gPa2aZ9p" width="750" /&gt;
+        &lt;div class=&quot;video-embed-field-lazy&quot;&gt;&lt;img alt=&quot;alt&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/video_thumbnails/dGCujQRYhAg.jpg?h=c673cd1c&amp;amp;itok=gPa2aZ9p&quot; width=&quot;750&quot; /&gt;
 
-&lt;button class="video-embed-field-lazy-play"&gt;&lt;/button&gt;
+&lt;button class=&quot;video-embed-field-lazy-play&quot;&gt;&lt;/button&gt;
 &lt;/div&gt;
 
   &lt;figcaption&gt;— &lt;p&gt;A review of an extraordinary year&lt;/p&gt;&lt;/figcaption&gt;
 
   &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;They included Ukrainian President Volodymyr Zelenskyy; NATO Secretary General Mark Rutte; Dr Comfort Ero, President of the International Crisis Group; former Vice President of the United States Mike Pence; President of Israel Isaac Herzog; Foreign Minister of Syria Asaad Al-Shaibani and many others. All as part of &lt;a href="https://www.chathamhouse.org/about-us/our-mission-and-values" title="Our mission and values"&gt;Chatham House’s mission&lt;/a&gt; to address geopolitical challenges and international problems, and to convene meetings of the people and organizations that can bring about change.&lt;/p&gt;&lt;p&gt;We have also been proud to see our staff and associates respond to geopolitical turbulence by producing in-depth publications with recommendations and policy impact generated through evidence-based research and discussions with policymakers. &amp;nbsp;&lt;/p&gt;&lt;p&gt;In my Director’s Lecture at the start of this year, I spoke about the importance of finding agreement in this new fluid, contested world. That remains true. &amp;nbsp;&lt;/p&gt;&lt;h2&gt;US foreign policy reversal &amp;nbsp;&lt;/h2&gt;&lt;p&gt;President Donald Trump’s paradigm shift in US foreign policy during his second term has affected almost every aspect of our work and has been the catalyst of many world events.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Sweeping trade tariffs, military strikes on Iranian nuclear facilities and Venezuelan ‘drug cartels’, dismantling US overseas aid and questioning international laws and norms – all these have kept our experts busy analysing what this means for the rest of the world. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Many conversations were hosted at Chatham House on the implications both publicly and privately. As well as Mike Pence, key speakers from the US included former US Secretary of State and Climate Envoy John Kerry and US Principal Deputy National Security Advisor Jon Finer. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Our experts analysed Trump’s second UK state visit and scrutinized other countries’ attempts to gain favour with the president – not least European leaders over the war in Ukraine.&lt;/p&gt;&lt;h2&gt;Future of Europe &amp;nbsp; &amp;nbsp;&lt;/h2&gt;&lt;p&gt;That ongoing war, increased Russian ‘grey zone’ aggression, and the crisis facing European leaders over defence, security and economic competitiveness, have been central themes of our work this year. &amp;nbsp;&lt;/p&gt;&lt;p&gt;In June we were honoured to welcome President Zelenskyy to Chatham House, and other Ukrainian figures such as Ukrainian Ambassador to the UK, Valerii Zaluzhnyi.&amp;nbsp;&lt;/p&gt;&lt;p&gt;European leaders included Elina Valtonen, Finland’s Minister for Foreign Affairs, Alistair Carns, UK Minister for the Armed Forces and more, all warning audiences about the need for Europe to wean itself off dependency on the US and bolster its own defence industries. Our Berlin conference in December on ‘Europe’s Strategic Choices’ analysed Europe’s urgent need to respond to new US policy and to China. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Our renowned security and defence conference convened sober discussions and our Ukraine Forum continues to lead the field in discussions about Ukrainian politics and civil society. Experts dissected key moments such as the White House ‘ambush’ of Zelenskyy in February, Trump and Putin’s surprise Alaska summit, and continuing battlefield clashes. &amp;nbsp;&lt;/p&gt;&lt;h2&gt;Middle East turmoil &amp;nbsp; &amp;nbsp;&lt;/h2&gt;&lt;p&gt;The war in Gaza, its catastrophic humanitarian impact and its domino effect on the region continued to dominate the work of our Middle East programme and beyond.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In June, I called upon the UK government to &lt;a href="https://www.chathamhouse.org/2025/07/uk-should-recognize-palestinian-state-now" title="The UK should recognize a Palestinian state now"&gt;recognize the State of Palestine&lt;/a&gt;, and we received both Husam Zomlot, Palestinian Ambassador to the UK as well as Isaac Herzog, President of Israel, on the Chatham House stage, in addition to numerous private roundtables on the conflict. &amp;nbsp;&lt;/p&gt;&lt;div class="embedded-entity embed"&gt;&lt;figure class="media media-embed media-quote"&gt;
+&lt;p&gt;They included Ukrainian President Volodymyr Zelenskyy; NATO Secretary General Mark Rutte; Dr Comfort Ero, President of the International Crisis Group; former Vice President of the United States Mike Pence; President of Israel Isaac Herzog; Foreign Minister of Syria Asaad Al-Shaibani and many others. All as part of &lt;a href=&quot;https://www.chathamhouse.org/about-us/our-mission-and-values&quot; title=&quot;Our mission and values&quot;&gt;Chatham House’s mission&lt;/a&gt; to address geopolitical challenges and international problems, and to convene meetings of the people and organizations that can bring about change.&lt;/p&gt;&lt;p&gt;We have also been proud to see our staff and associates respond to geopolitical turbulence by producing in-depth publications with recommendations and policy impact generated through evidence-based research and discussions with policymakers. &amp;nbsp;&lt;/p&gt;&lt;p&gt;In my Director’s Lecture at the start of this year, I spoke about the importance of finding agreement in this new fluid, contested world. That remains true. &amp;nbsp;&lt;/p&gt;&lt;h2&gt;US foreign policy reversal &amp;nbsp;&lt;/h2&gt;&lt;p&gt;President Donald Trump’s paradigm shift in US foreign policy during his second term has affected almost every aspect of our work and has been the catalyst of many world events.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Sweeping trade tariffs, military strikes on Iranian nuclear facilities and Venezuelan ‘drug cartels’, dismantling US overseas aid and questioning international laws and norms – all these have kept our experts busy analysing what this means for the rest of the world. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Many conversations were hosted at Chatham House on the implications both publicly and privately. As well as Mike Pence, key speakers from the US included former US Secretary of State and Climate Envoy John Kerry and US Principal Deputy National Security Advisor Jon Finer. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Our experts analysed Trump’s second UK state visit and scrutinized other countries’ attempts to gain favour with the president – not least European leaders over the war in Ukraine.&lt;/p&gt;&lt;h2&gt;Future of Europe &amp;nbsp; &amp;nbsp;&lt;/h2&gt;&lt;p&gt;That ongoing war, increased Russian ‘grey zone’ aggression, and the crisis facing European leaders over defence, security and economic competitiveness, have been central themes of our work this year. &amp;nbsp;&lt;/p&gt;&lt;p&gt;In June we were honoured to welcome President Zelenskyy to Chatham House, and other Ukrainian figures such as Ukrainian Ambassador to the UK, Valerii Zaluzhnyi.&amp;nbsp;&lt;/p&gt;&lt;p&gt;European leaders included Elina Valtonen, Finland’s Minister for Foreign Affairs, Alistair Carns, UK Minister for the Armed Forces and more, all warning audiences about the need for Europe to wean itself off dependency on the US and bolster its own defence industries. Our Berlin conference in December on ‘Europe’s Strategic Choices’ analysed Europe’s urgent need to respond to new US policy and to China. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Our renowned security and defence conference convened sober discussions and our Ukraine Forum continues to lead the field in discussions about Ukrainian politics and civil society. Experts dissected key moments such as the White House ‘ambush’ of Zelenskyy in February, Trump and Putin’s surprise Alaska summit, and continuing battlefield clashes. &amp;nbsp;&lt;/p&gt;&lt;h2&gt;Middle East turmoil &amp;nbsp; &amp;nbsp;&lt;/h2&gt;&lt;p&gt;The war in Gaza, its catastrophic humanitarian impact and its domino effect on the region continued to dominate the work of our Middle East programme and beyond.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In June, I called upon the UK government to &lt;a href=&quot;https://www.chathamhouse.org/2025/07/uk-should-recognize-palestinian-state-now&quot; title=&quot;The UK should recognize a Palestinian state now&quot;&gt;recognize the State of Palestine&lt;/a&gt;, and we received both Husam Zomlot, Palestinian Ambassador to the UK as well as Isaac Herzog, President of Israel, on the Chatham House stage, in addition to numerous private roundtables on the conflict. &amp;nbsp;&lt;/p&gt;&lt;div class=&quot;embedded-entity embed&quot;&gt;&lt;figure class=&quot;media media-embed media-quote&quot;&gt;
   
-  &lt;blockquote class="media__wrapper"&gt;
-          &lt;div class="media__content"&gt;
-        &lt;svg class="icon icon--open-quote" xmlns="http://www.w3.org/2000/svg"&gt;
-          &lt;use xlink:href="#icon-open-quote" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+  &lt;blockquote class=&quot;media__wrapper&quot;&gt;
+          &lt;div class=&quot;media__content&quot;&gt;
+        &lt;svg class=&quot;icon icon--open-quote&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;
+          &lt;use xlink:href=&quot;#icon-open-quote&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
         &lt;/svg&gt;
           &lt;p&gt;Our experts were much in demand to provide analysis about the milestone US air strikes on Iranian nuclear facilities&lt;/p&gt;
 
@@ -471,12 +382,12 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
   &lt;/blockquote&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;Our experts were much in demand to provide analysis about the milestone US air strikes on Iranian nuclear facilities and other significant developments including Israel’s September air strike on Doha, a key US ally in the Middle East, its attacks against Hezbollah in Lebanon, and tackling the threat to shipping from Yemeni Houthis in the Red Sea. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Syrian Foreign Minister Asaad Al-Shaibani drew enormous interest when he spoke at Chatham House, marking his first public appearance in the UK since the fall of the Assad regime, and Iraqi Prime Minister Mohammed Shia Al-Sudani addressed our seventh annual Iraq Initiative Conference during a pivotal election year.&lt;/p&gt;&lt;h2&gt;China &amp;nbsp;&lt;/h2&gt;&lt;p&gt;Our researchers have examined China’s ever-increasing influence on global affairs and what its ambitions for the world might be – particularly in light of the US retreat from multilateralism. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Through events and research, we have explored the China–US rivalry, interrogated China’s regional competition with India, examined Beijing’s desire to establish itself as an AI superpower that sets the global rules in this new technological arena, and made recommendations about how the UK government should engage with China.&lt;/p&gt;&lt;p&gt;Our experts have also looked at China as a ‘reluctant climate leader’ ahead of COP30 and analysed China’s clean tech charm offensive. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Researchers have provided analysis on Chinese espionage in light of the China spy case and the UK’s indecision over approving the Chinese embassy in London. We’ve commented on China’s show of power at its annual Shanghai Cooperation Organization summit, and at the victory parade attended by Russian President Vladimir Putin and North Korean leader Kim Jong Un. &amp;nbsp;&lt;/p&gt;&lt;p&gt;A key part of our work also focused on the West’s and China’s engagement with the Global South.&lt;/p&gt;&lt;h2&gt;Global South and a new order &amp;nbsp;&lt;/h2&gt;&lt;p&gt;It is clear that many nations no longer want to be wholly aligned with superpowers such as the US or China. A new multilateralism is emerging in which emerging nations are seeking the chance to influence rules and alliances. &amp;nbsp;&lt;/p&gt;&lt;p&gt;We hosted key speakers, including Nigerian Minister of Foreign Affairs, Yusuf M. Tuggar; Indian External Affairs Minister, Dr. S Jaishankar; Chief Adviser of Bangladesh, Professor Muhammad Yunus; Philippine Secretary for Foreign Affairs, Enrique A Manalo; Senior Minister of Singapore, Lee Hsien Loong and many more, all to discuss how emerging economies are responding to the turmoil of 2025. &amp;nbsp;&lt;/p&gt;&lt;div class="align-right embedded-entity embed"&gt;&lt;figure class="media media-embed media-quote"&gt;
+&lt;p&gt;Our experts were much in demand to provide analysis about the milestone US air strikes on Iranian nuclear facilities and other significant developments including Israel’s September air strike on Doha, a key US ally in the Middle East, its attacks against Hezbollah in Lebanon, and tackling the threat to shipping from Yemeni Houthis in the Red Sea. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Syrian Foreign Minister Asaad Al-Shaibani drew enormous interest when he spoke at Chatham House, marking his first public appearance in the UK since the fall of the Assad regime, and Iraqi Prime Minister Mohammed Shia Al-Sudani addressed our seventh annual Iraq Initiative Conference during a pivotal election year.&lt;/p&gt;&lt;h2&gt;China &amp;nbsp;&lt;/h2&gt;&lt;p&gt;Our researchers have examined China’s ever-increasing influence on global affairs and what its ambitions for the world might be – particularly in light of the US retreat from multilateralism. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Through events and research, we have explored the China–US rivalry, interrogated China’s regional competition with India, examined Beijing’s desire to establish itself as an AI superpower that sets the global rules in this new technological arena, and made recommendations about how the UK government should engage with China.&lt;/p&gt;&lt;p&gt;Our experts have also looked at China as a ‘reluctant climate leader’ ahead of COP30 and analysed China’s clean tech charm offensive. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Researchers have provided analysis on Chinese espionage in light of the China spy case and the UK’s indecision over approving the Chinese embassy in London. We’ve commented on China’s show of power at its annual Shanghai Cooperation Organization summit, and at the victory parade attended by Russian President Vladimir Putin and North Korean leader Kim Jong Un. &amp;nbsp;&lt;/p&gt;&lt;p&gt;A key part of our work also focused on the West’s and China’s engagement with the Global South.&lt;/p&gt;&lt;h2&gt;Global South and a new order &amp;nbsp;&lt;/h2&gt;&lt;p&gt;It is clear that many nations no longer want to be wholly aligned with superpowers such as the US or China. A new multilateralism is emerging in which emerging nations are seeking the chance to influence rules and alliances. &amp;nbsp;&lt;/p&gt;&lt;p&gt;We hosted key speakers, including Nigerian Minister of Foreign Affairs, Yusuf M. Tuggar; Indian External Affairs Minister, Dr. S Jaishankar; Chief Adviser of Bangladesh, Professor Muhammad Yunus; Philippine Secretary for Foreign Affairs, Enrique A Manalo; Senior Minister of Singapore, Lee Hsien Loong and many more, all to discuss how emerging economies are responding to the turmoil of 2025. &amp;nbsp;&lt;/p&gt;&lt;div class=&quot;align-right embedded-entity embed&quot;&gt;&lt;figure class=&quot;media media-embed media-quote&quot;&gt;
   
-  &lt;blockquote class="media__wrapper"&gt;
-          &lt;div class="media__content"&gt;
-        &lt;svg class="icon icon--open-quote" xmlns="http://www.w3.org/2000/svg"&gt;
-          &lt;use xlink:href="#icon-open-quote" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+  &lt;blockquote class=&quot;media__wrapper&quot;&gt;
+          &lt;div class=&quot;media__content&quot;&gt;
+        &lt;svg class=&quot;icon icon--open-quote&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;
+          &lt;use xlink:href=&quot;#icon-open-quote&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
         &lt;/svg&gt;
           &lt;p&gt;Our experts produced research on topics such as the role of the illicit gold trade in Sudan’s brutal war.&lt;/p&gt;
 
@@ -485,7 +396,7 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
   &lt;/blockquote&gt;
 &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;The Africa programme’s longstanding SNAG project on corruption in Nigeria culminated in a conference in Abuja, and our experts produced research on topics such as the role of the &lt;a href="https://www.chathamhouse.org/2025/03/gold-and-war-sudan" title="Gold and the war in Sudan"&gt;illicit gold trade&lt;/a&gt; in Sudan’s brutal war.&lt;/p&gt;&lt;p&gt;All this is just a small fraction of the vital work carried out by Chatham House this year. &amp;nbsp;&lt;/p&gt;&lt;p&gt;The policy impact that our experts had is also worthy of mention. This included delivering evidence to UK parliamentary select committees on issues from European security to nuclear proliferation; playing a crucial role in pushing through the UN resolution that approved the 5,500-strong ‘Gang Suppression Force’ to restore security in Haiti; and influencing negotiations on the Global Plastics Treaty.&lt;/p&gt;&lt;p&gt;We are grateful for all those who continue to support Chatham House, those speakers who are willing to have their ideas tested and questioned in our forums and for the many people who make our work possible. We look forward to whatever 2026 might bring. &amp;nbsp;&lt;/p&gt;</description>
+&lt;p&gt;The Africa programme’s longstanding SNAG project on corruption in Nigeria culminated in a conference in Abuja, and our experts produced research on topics such as the role of the &lt;a href=&quot;https://www.chathamhouse.org/2025/03/gold-and-war-sudan&quot; title=&quot;Gold and the war in Sudan&quot;&gt;illicit gold trade&lt;/a&gt; in Sudan’s brutal war.&lt;/p&gt;&lt;p&gt;All this is just a small fraction of the vital work carried out by Chatham House this year. &amp;nbsp;&lt;/p&gt;&lt;p&gt;The policy impact that our experts had is also worthy of mention. This included delivering evidence to UK parliamentary select committees on issues from European security to nuclear proliferation; playing a crucial role in pushing through the UN resolution that approved the 5,500-strong ‘Gang Suppression Force’ to restore security in Haiti; and influencing negotiations on the Global Plastics Treaty.&lt;/p&gt;&lt;p&gt;We are grateful for all those who continue to support Chatham House, those speakers who are willing to have their ideas tested and questioned in our forums and for the many people who make our work possible. We look forward to whatever 2026 might bring. &amp;nbsp;&lt;/p&gt;</description>
       <pubDate>Wed, 17 Dec 2025 10:47:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.chathamhouse.org/2025/12/chatham-house-2025-message-director</guid>
       <media:thumbnail url="https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2025-12/ChathamHouseOUTSIDE-0380.jpg?itok=qgfJLvD3" />
@@ -494,55 +405,13 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
     </item>
     <item>
       <title>India summons Bangladesh envoy over security concerns in Dhaka</title>
-      <link>https://www.reuters.com/world/asia-pacific/india-summons-bangladesh-envoy-over-security-concerns-dhaka-2025-12-17/</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 10:42:45 +0000</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/india-summons-bangladesh-envoy-over-security-concerns-dhaka-2025-12-17/</guid>
-    </item>
-    <item>
-      <title>India Shuts Visa Centre In Dhaka Amid Threats From Radical Bangladeshi Leaders</title>
-      <link>https://www.ndtv.com/world-news/india-shuts-visa-centre-in-dhaka-amid-threats-from-radical-bangladeshi-leaders-9831582#publisher=newsstand</link>
-      <description>India has 16 visa application centres spread across Bangladesh.</description>
-      <pubDate>Wed, 17 Dec 2025 10:02:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/india-shuts-visa-centre-in-dhaka-amid-threats-from-radical-bangladeshi-leaders-9831582#publisher=newsstand</guid>
-    </item>
-    <item>
-      <title>India summons Bangladesh envoy over security concerns in Dhaka</title>
       <link>https://www.channelnewsasia.com/asia/india-summons-bangladesh-envoy-security-concerns-dhaka-5623296</link>
-      <description />
+      <description></description>
       <pubDate>Wed, 17 Dec 2025 09:58:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.channelnewsasia.com/asia/india-summons-bangladesh-envoy-security-concerns-dhaka-5623296</guid>
       <media:thumbnail url="https://dam.mediacorp.sg/image/upload/s--q8-8caMh--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-12-17T093525Z_1_LYNXMPELBG0FX_RTROPTP_3_INDIA-BANGLADESH.JPG?itok=4lj4grOo" />
       <media:content url="https://dam.mediacorp.sg/image/upload/s--q8-8caMh--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-12-17T093525Z_1_LYNXMPELBG0FX_RTROPTP_3_INDIA-BANGLADESH.JPG?itok=4lj4grOo" medium="image" />
       <enclosure url="https://dam.mediacorp.sg/image/upload/s--q8-8caMh--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-12-17T093525Z_1_LYNXMPELBG0FX_RTROPTP_3_INDIA-BANGLADESH.JPG?itok=4lj4grOo" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Indian gov't summons Bangladesh envoy over security concerns in Dhaka</title>
-      <link>https://english.news.cn/20251217/cfa671d1a7a44e5a8520f2b3df1de10c/c.html</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 09:54:43 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20251217/cfa671d1a7a44e5a8520f2b3df1de10c/c.html</guid>
-    </item>
-    <item>
-      <title>India summons Bangladesh envoy over security concerns in Dhaka</title>
-      <link>https://www.straitstimes.com/asia/south-asia/india-summons-bangladesh-envoy-over-security-concerns-in-dhaka</link>
-      <description>&lt;p&gt;The move came two ‍days after Bangladesh summoned the Indian High Commissioner in Dhaka.&lt;/p&gt;</description>
-      <pubDate>Wed, 17 Dec 2025 09:40:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.straitstimes.com/asia/south-asia/india-summons-bangladesh-envoy-over-security-concerns-in-dhaka</guid>
-    </item>
-    <item>
-      <title>India Summons Bangladesh High Commissioner After "Seven-Sisters" Remark</title>
-      <link>https://www.ndtv.com/world-news/india-summons-bangladesh-high-commissioner-after-threats-to-embassy-in-dhaka-9830566#publisher=newsstand</link>
-      <description>India has summoned Bangladesh's High Commissioner in New Delhi, Muhammad Riaz Hamidullah, to issue a formal diplomatic protest over recent threats to the Indian High Commission in Dhaka.</description>
-      <pubDate>Wed, 17 Dec 2025 09:17:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/india-summons-bangladesh-high-commissioner-after-threats-to-embassy-in-dhaka-9830566#publisher=newsstand</guid>
-    </item>
-    <item>
-      <title>India's Strong Objection To Bangladesh's Charge Over Pre-Election Shooting</title>
-      <link>https://www.ndtv.com/world-news/indias-strong-objection-to-bangladeshs-change-over-pre-election-shooting-9811508#publisher=newsstand</link>
-      <description>Hadi, known for his provocative statements, is an independent candidate from the Dhaka-8 constituency</description>
-      <pubDate>Wed, 17 Dec 2025 08:57:41 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/indias-strong-objection-to-bangladeshs-change-over-pre-election-shooting-9811508#publisher=newsstand</guid>
     </item>
     <item>
       <title>India summons Bangladesh envoy after radical group calls for march to Indian High Commission</title>
@@ -555,44 +424,9 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
       <enclosure url="https://th-i.thgim.com/public/incoming/seb5p3/article70406615.ece/alternates/LANDSCAPE_1200/PTI12_03_2025_000542B.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>MEA summons Bangladesh envoy after radical group calls for march to Indian High Commission in Dhaka on Dec. 17</title>
-      <link>https://www.thehindu.com/news/national/india-bangladesh-dhaka-march-indian-high-commission-mea-summons-protest/article70406618.ece</link>
-      <description>Soon after the march announcement, Indian visa processing facility in Dhaka announced it will stop all operations at 2 p.m. Wednesday (December 17)</description>
-      <pubDate>Wed, 17 Dec 2025 08:42:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/india-bangladesh-dhaka-march-indian-high-commission-mea-summons-protest/article70406618.ece</guid>
-    </item>
-    <item>
-      <title>Dhaka envoy summoned: India calls out 'extremist elements' in Bangladesh; flags 'security concerns'</title>
-      <link>https://timesofindia.indiatimes.com/india/india-summons-bangladesh-envoy-after-threat-to-indian-high-commission-in-dhaka/articleshow/126033275.cms</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 07:30:36 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/india-summons-bangladesh-envoy-after-threat-to-indian-high-commission-in-dhaka/articleshow/126033275.cms</guid>
-    </item>
-    <item>
-      <title>Takeaways from the AP’s report on the impact of aid cuts on Rohingya children in Bangladesh</title>
-      <link>https://apnews.com/article/usaid-rohingya-exploitation-trump-budget-cuts-takeaways-b87e5175ea38b7905941c05e4c7f8353</link>
-      <description />
-      <pubDate>Wed, 17 Dec 2025 06:18:22 +0000</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/usaid-rohingya-exploitation-trump-budget-cuts-takeaways-b87e5175ea38b7905941c05e4c7f8353</guid>
-    </item>
-    <item>
-      <title>Bangladesh students protest role of Pak Army and their collaborators of 1971 on occasion of Victory Day</title>
-      <link>https://economictimes.indiatimes.com/news/international/world-news/bangladesh-students-protest-role-of-pak-army-and-their-collaborators-of-1971-on-occasion-of-victory-day/articleshow/126031226.cms</link>
-      <description>On Victory Day, Bangladesh students highlighted 1971 atrocities of the Pakistan Army and their local collaborators. At Jahangirnagar University, a "Monument of Hatred" exhibition featured collaborators' photos, with students throwing trash at them. Several photographs of Razakars hung on a pole in front of the university's old arts building on the Victory Day.</description>
-      <pubDate>Wed, 17 Dec 2025 05:17:21 +0000</pubDate>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/world-news/bangladesh-students-protest-role-of-pak-army-and-their-collaborators-of-1971-on-occasion-of-victory-day/articleshow/126031226.cms</guid>
-    </item>
-    <item>
-      <title>EU to deploy observers for national polls</title>
-      <link>https://www.thedailystar.net/news/world/europe/news/eu-deploy-observers-national-polls-4060366</link>
-      <description>The European Union has announced that it will deploy an EU Election Observation Mission (EOM) to monitor Bangladesh’s parliamentary elections scheduled for February 12, 2026.</description>
-      <pubDate>Tue, 16 Dec 2025 21:48:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thedailystar.net/news/world/europe/news/eu-deploy-observers-national-polls-4060366</guid>
-    </item>
-    <item>
       <title>Bangladesh electoral scheduling amid political unrest casts a cloud of doubt</title>
       <link>https://www.thehindu.com/news/international/bangladesh-electoral-scheduling-amid-political-unrest-casts-a-cloud-of-doubt/article70404841.ece</link>
-      <description />
+      <description></description>
       <pubDate>Tue, 16 Dec 2025 21:15:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-electoral-scheduling-amid-political-unrest-casts-a-cloud-of-doubt/article70404841.ece</guid>
     </item>
@@ -606,7 +440,7 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
     <item>
       <title>India sends Victory Day message to Bangladesh</title>
       <link>https://www.rt.com/india/629514-india-sends-victory-day-message/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description>&lt;img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2025.12/thumbnail/6941621385f54064b627c8c0.jpg" style="margin-right: 10px;" /&gt; India has also paid tribute to soldiers who fought in the 1971 war that led to the creation of Bangladesh &lt;br /&gt;&lt;a href="https://www.rt.com/india/629514-india-sends-victory-day-message/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS"&gt;Read Full Article at RT.com&lt;/a&gt;</description>
+      <description>&lt;img align=&quot;left&quot; alt=&quot;Preview&quot; src=&quot;https://mf.b37mrtl.ru/files/2025.12/thumbnail/6941621385f54064b627c8c0.jpg&quot; style=&quot;margin-right: 10px;&quot; /&gt; India has also paid tribute to soldiers who fought in the 1971 war that led to the creation of Bangladesh &lt;br /&gt;&lt;a href=&quot;https://www.rt.com/india/629514-india-sends-victory-day-message/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS&quot;&gt;Read Full Article at RT.com&lt;/a&gt;</description>
       <pubDate>Tue, 16 Dec 2025 16:42:20 +0000</pubDate>
       <guid isPermaLink="true">https://www.rt.com/india/629514-india-sends-victory-day-message/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <media:thumbnail url="https://mf.b37mrtl.ru/files/2025.12/thumbnail/6941621385f54064b627c8c0.jpg" />
@@ -622,13 +456,6 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
       <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2025/12/16/1600x900/logo/New-Delhi-s-approach-must-balance-immediate-pressu_1765899343103.jpg" />
       <media:content url="https://www.hindustantimes.com/ht-img/img/2025/12/16/1600x900/logo/New-Delhi-s-approach-must-balance-immediate-pressu_1765899343103.jpg" medium="image" />
       <enclosure url="https://www.hindustantimes.com/ht-img/img/2025/12/16/1600x900/logo/New-Delhi-s-approach-must-balance-immediate-pressu_1765899343103.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rohingya refugees face food shortages as aid cuts hit: ‘We go to sleep hungry... but I’m scared to go home’</title>
-      <link>https://www.independent.co.uk/asia/south-asia/aid-cuts-rohingya-myanmar-bangladesh-trump-b2885500.html</link>
-      <description>&lt;p&gt;The Rohingya that have fled violence and persecution in Myanmar face deteriorating conditions in the refugee camps of Cox’s Bazar as aid cuts leave supplies short. Lauren Crosby Medlicott reports&lt;/p&gt;</description>
-      <pubDate>Tue, 16 Dec 2025 15:09:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.independent.co.uk/asia/south-asia/aid-cuts-rohingya-myanmar-bangladesh-trump-b2885500.html</guid>
     </item>
     <item>
       <title>Watch | Behind the Scenes: How Indian diplomats made Bangladesh’s liberation possible | Part 2</title>
@@ -653,16 +480,9 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
     <item>
       <title>Bangladesh President Shahabuddin Plans Mid-Term Resignation</title>
       <link>https://moderndiplomacy.eu/2025/12/16/bangladesh-president-shahabuddin-plans-mid-term-resignation/</link>
-      <description />
+      <description></description>
       <pubDate>Tue, 16 Dec 2025 12:58:25 +0000</pubDate>
       <guid isPermaLink="true">https://moderndiplomacy.eu/2025/12/16/bangladesh-president-shahabuddin-plans-mid-term-resignation/</guid>
-    </item>
-    <item>
-      <title>UN peacekeepers killed in Sudan (PHOTOS)</title>
-      <link>https://www.rt.com/africa/629457-un-peacekeepers-killed-sudan-drone-strike/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description>&lt;img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2025.12/thumbnail/693ffbca85f540799f6d2730.jpeg" style="margin-right: 10px;" /&gt; The UN has condemned the killing of six peacekeepers from Bangladesh in Sudan and warned against attacks on its mission &lt;br /&gt;&lt;a href="https://www.rt.com/africa/629457-un-peacekeepers-killed-sudan-drone-strike/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS"&gt;Read Full Article at RT.com&lt;/a&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 12:40:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.rt.com/africa/629457-un-peacekeepers-killed-sudan-drone-strike/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
     </item>
     <item>
       <title>Six peacekeepers laid to rest following deadly drone attack in Sudan</title>
@@ -675,42 +495,14 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-12-2025-UNISFA-Abyei-01.jpg/image560x340cropped.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>India rejects neighbor’s interference allegations</title>
-      <link>https://www.rt.com/india/629460-india-rejects-neighbors-interference-allegations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description>&lt;img align="left" alt="Preview" src="https://mf.b37mrtl.ru/files/2025.12/thumbnail/693fda4d85f540799f6d2714.jpg" style="margin-right: 10px;" /&gt; India says it does not allow its territory to be used for activities against the people of Bangladesh &lt;br /&gt;&lt;a href="https://www.rt.com/india/629460-india-rejects-neighbors-interference-allegations/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS"&gt;Read Full Article at RT.com&lt;/a&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 10:13:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.rt.com/india/629460-india-rejects-neighbors-interference-allegations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-    </item>
-    <item>
-      <title>Changing Bangladesh: Where Women Are Silently Rewriting the Rules of Society</title>
-      <link>https://southasiamonitor.org/spotlight/changing-bangladesh-where-women-are-silently-rewriting-rules-society</link>
-      <description>&lt;p&gt;The expansion of education in Bangladesh has played a key role in this transformation. Girls are now equal to boys in schools, colleges, and universities and sometimes even ahead of them. Women have proven their capabilities as doctors, engineers, teachers, researchers, and even pilots. This achievement is not just personal;  this is the evolution of the mentality of a society.&lt;/p&gt;</description>
-      <pubDate>Mon, 15 Dec 2025 09:21:15 +0000</pubDate>
-      <guid isPermaLink="true">https://southasiamonitor.org/spotlight/changing-bangladesh-where-women-are-silently-rewriting-rules-society</guid>
-    </item>
-    <item>
-      <title>EC demands extra security as unrest grips Bangladesh afresh</title>
-      <link>https://www.thehindu.com/news/international/ec-demands-extra-security-as-unrest-grips-bangladesh-afresh/article70394837.ece</link>
-      <description>The Election commission demanded an additional escort vehicle for the CEC, while one such police escort with a vehicle was currently in place for him</description>
-      <pubDate>Sun, 14 Dec 2025 02:01:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/ec-demands-extra-security-as-unrest-grips-bangladesh-afresh/article70394837.ece</guid>
-    </item>
-    <item>
       <title>Drone strike on UN facility in war-torn Sudan leaves six peacekeepers dead</title>
       <link>https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead</link>
-      <description>&lt;p&gt;UN secretary general António Guterres says ‘unjustifiable’ attack on base in city of Kadugli ‘could be war crime’&lt;/p&gt;&lt;p&gt;A drone strike has hit a United Nations peacekeeping logistics base in war-torn Sudan, killing six peacekeepers, the UN secretary general António Guterres has said.&lt;/p&gt;&lt;p&gt;Eight other peacekeepers were wounded in the strike on Saturday in the city of Kadugli in the central region of Kordofan. All the victims are Bangladeshi nationals, serving in the UN interim security force for Abyei (Unisfa).&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead"&gt;Continue reading...&lt;/a&gt;</description>
+      <description>&lt;p&gt;UN secretary general António Guterres says ‘unjustifiable’ attack on base in city of Kadugli ‘could be war crime’&lt;/p&gt;&lt;p&gt;A drone strike has hit a United Nations peacekeeping logistics base in war-torn Sudan, killing six peacekeepers, the UN secretary general António Guterres has said.&lt;/p&gt;&lt;p&gt;Eight other peacekeepers were wounded in the strike on Saturday in the city of Kadugli in the central region of Kordofan. All the victims are Bangladeshi nationals, serving in the UN interim security force for Abyei (Unisfa).&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead&quot;&gt;Continue reading...&lt;/a&gt;</description>
       <pubDate>Sat, 13 Dec 2025 21:35:30 +0000</pubDate>
       <guid isPermaLink="true">https://www.theguardian.com/world/2025/dec/13/drone-strike-on-un-facility-in-war-torn-sudan-leaves-six-peacekeepers-dead</guid>
       <media:thumbnail url="https://i.guim.co.uk/img/media/02bdc06f2c81e8e12ad13f3b56534eef76d5cac2/1316_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c7950bf48f44995806c60d12348a8d1" />
       <media:content url="https://i.guim.co.uk/img/media/02bdc06f2c81e8e12ad13f3b56534eef76d5cac2/1316_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c7950bf48f44995806c60d12348a8d1" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/02bdc06f2c81e8e12ad13f3b56534eef76d5cac2/1316_0_3840_3072/master/3840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c7950bf48f44995806c60d12348a8d1" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh says peacekeepers killed, injured in Sudan UN base attack</title>
-      <link>https://www.reuters.com/world/asia-pacific/bangladesh-says-peacekeepers-killed-injured-sudan-un-base-attack-2025-12-13/</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 18:41:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/bangladesh-says-peacekeepers-killed-injured-sudan-un-base-attack-2025-12-13/</guid>
     </item>
     <item>
       <title>Sudan: UN strongly condemns deadly drone attack on peacekeeping base in Kordofan</title>
@@ -723,26 +515,12 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/06-11-2023-UN-Photo-UNMIS-peacekeeping.jpg/image560x340cropped.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Exclusive: Bangladesh president wants to quit halfway through term, after February election</title>
-      <link>https://www.reuters.com/world/asia-pacific/bangladesh-president-wants-quit-halfway-through-term-after-february-election-2025-12-11/</link>
-      <description />
-      <pubDate>Thu, 11 Dec 2025 13:50:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/bangladesh-president-wants-quit-halfway-through-term-after-february-election-2025-12-11/</guid>
-    </item>
-    <item>
-      <title>Bangladesh to hold national election on Feb 12</title>
-      <link>https://www.reuters.com/world/asia-pacific/bangladesh-hold-national-election-feb-12-2025-12-11/</link>
-      <description />
-      <pubDate>Thu, 11 Dec 2025 13:07:09 +0000</pubDate>
-      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/bangladesh-hold-national-election-feb-12-2025-12-11/</guid>
-    </item>
-    <item>
       <title>Bangladesh needs a democratic reset. Will the election deliver it?</title>
       <link>https://www.chathamhouse.org/publications/the-world-today/2025-12/bangladesh-needs-democratic-reset-will-election-deliver-it</link>
       <description>&lt;span&gt;Bangladesh needs a democratic reset. Will the election deliver it?&lt;/span&gt;
   &lt;span&gt;The World Today&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;iallan.drupal&lt;/span&gt;&lt;/span&gt;
-&lt;span&gt;&lt;time datetime="2025-12-09T08:49:54+00:00" title="Tuesday, 9 December, 2025"&gt;9 December 2025&lt;/time&gt;
+&lt;span&gt;&lt;time datetime=&quot;2025-12-09T08:49:54+00:00&quot; title=&quot;Tuesday, 9 December, 2025&quot;&gt;9 December 2025&lt;/time&gt;
 &lt;/span&gt;
   &lt;p&gt;In the country’s first electoral test since Sheikh Hasina was ousted from power, a continuing cycle of ‘revenge politics’ and economic instability dampen hopes for democratic reform, writes James Orr.&lt;/p&gt;
 
@@ -750,8 +528,8 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
 
 
 
-  &lt;div class="media media-teaser_landscape_rss media-image"&gt;
-                        &lt;img alt="protestors climb a statue holding the Bangladesh flag" height="600" src="https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2025-12/2025-12-08-twt-winter-2025-bangladesh-hero.jpg?itok=_5m4O7e4" width="1200" /&gt;
+  &lt;div class=&quot;media media-teaser_landscape_rss media-image&quot;&gt;
+                        &lt;img alt=&quot;protestors climb a statue holding the Bangladesh flag&quot; height=&quot;600&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2025-12/2025-12-08-twt-winter-2025-bangladesh-hero.jpg?itok=_5m4O7e4&quot; width=&quot;1200&quot; /&gt;
 
   
 
@@ -760,12 +538,12 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
 
             &lt;/div&gt;
   
-  &lt;p&gt;Bangladesh will go to the polls on 12 February as the country seeks to reconcile a decades-long era of ‘revenge politics’ and return to a more democratic footing. Muhammad Yunus, the Nobel peace laureate who has led an interim government since the ousting of Prime Minister Sheikh Hasina in August 2024, has faced pressure to hold a general election before Ramadan commences in mid-February.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The three-time prime minister was toppled from power after weeks of student-led protests against her Awami League government, which faced accusations of corruption.&amp;nbsp;Analysts believe the most likely outcome of February’s vote will be a return to power for the Bangladesh Nationalist Party (BNP), led by acting chairman&amp;nbsp;Tarique Rahman, 60, who has lived in exile in London for nearly two decades.&lt;/p&gt;&lt;h2&gt;Referendum on the July Charter&lt;/h2&gt;&lt;p&gt;Whether new leadership can implement reform and deliver on promises to restructure the country’s electoral, constitutional and administrative bodies – as 25 parties agreed to in the July Charter in 2025 – is an open question. Public support for ratifying these reforms will be put to the test in a referendum in February.&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘What happened last August – the so-called Monsoon revolution – was referred to as the country’s second liberation, but I think the reality will be more continuity than change,’ said Chietigj Bajpaee, senior research fellow for South Asia at Chatham House’s Asia-Pacific Programme. ‘In terms of the cycle of often violent revenge politics that we’ve witnessed throughout Bangladesh’s history, we haven’t really seen any movement towards a genuine national reconciliation. We merely see the pendulum swinging from one extreme to the other.’ According to the United Nations, up to 1,400 people died during the crackdown on protests last year, the worst violence Bangladesh has seen since its 1971 War of Independence.&lt;/p&gt;&lt;div class="align-right embedded-entity embed"&gt;&lt;figure class="media media-embed media-quote"&gt;
+  &lt;p&gt;Bangladesh will go to the polls on 12 February as the country seeks to reconcile a decades-long era of ‘revenge politics’ and return to a more democratic footing. Muhammad Yunus, the Nobel peace laureate who has led an interim government since the ousting of Prime Minister Sheikh Hasina in August 2024, has faced pressure to hold a general election before Ramadan commences in mid-February.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The three-time prime minister was toppled from power after weeks of student-led protests against her Awami League government, which faced accusations of corruption.&amp;nbsp;Analysts believe the most likely outcome of February’s vote will be a return to power for the Bangladesh Nationalist Party (BNP), led by acting chairman&amp;nbsp;Tarique Rahman, 60, who has lived in exile in London for nearly two decades.&lt;/p&gt;&lt;h2&gt;Referendum on the July Charter&lt;/h2&gt;&lt;p&gt;Whether new leadership can implement reform and deliver on promises to restructure the country’s electoral, constitutional and administrative bodies – as 25 parties agreed to in the July Charter in 2025 – is an open question. Public support for ratifying these reforms will be put to the test in a referendum in February.&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘What happened last August – the so-called Monsoon revolution – was referred to as the country’s second liberation, but I think the reality will be more continuity than change,’ said Chietigj Bajpaee, senior research fellow for South Asia at Chatham House’s Asia-Pacific Programme. ‘In terms of the cycle of often violent revenge politics that we’ve witnessed throughout Bangladesh’s history, we haven’t really seen any movement towards a genuine national reconciliation. We merely see the pendulum swinging from one extreme to the other.’ According to the United Nations, up to 1,400 people died during the crackdown on protests last year, the worst violence Bangladesh has seen since its 1971 War of Independence.&lt;/p&gt;&lt;div class=&quot;align-right embedded-entity embed&quot;&gt;&lt;figure class=&quot;media media-embed media-quote&quot;&gt;
   
-  &lt;blockquote class="media__wrapper"&gt;
-          &lt;div class="media__content"&gt;
-        &lt;svg class="icon icon--open-quote" xmlns="http://www.w3.org/2000/svg"&gt;
-          &lt;use xlink:href="#icon-open-quote" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+  &lt;blockquote class=&quot;media__wrapper&quot;&gt;
+          &lt;div class=&quot;media__content&quot;&gt;
+        &lt;svg class=&quot;icon icon--open-quote&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;
+          &lt;use xlink:href=&quot;#icon-open-quote&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
         &lt;/svg&gt;
           &lt;p&gt;&lt;span&gt;What happened last August was referred to as the country’s second liberation, but I think the reality will be more continuity than change.&lt;/span&gt;&lt;/p&gt;
 
@@ -785,34 +563,19 @@ Hasnat Abdullah, a leader of the newly formed National Citizen Party (NCP), warn
     <item>
       <title>Analysis: Bangladesh’s BNP seeks Hasina’s liberal mantle before elections</title>
       <link>https://www.aljazeera.com/news/2025/12/9/analysis-bangladeshs-bnp-seeks-hasinas-liberal-mantle-before-elections?traffic_source=rss</link>
-      <description />
+      <description></description>
       <pubDate>Tue, 09 Dec 2025 07:25:21 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2025/12/9/analysis-bangladeshs-bnp-seeks-hasinas-liberal-mantle-before-elections?traffic_source=rss</guid>
     </item>
     <item>
       <title>Navy Day 2025: Story of Operation Trident, the 1971 Bangladesh War operation commemorated today</title>
       <link>https://indianexpress.com/article/explained/everyday-explainers/navy-day-2025-history-pakistan-war-1971-trident-10401623/</link>
-      <description />
+      <description></description>
       <pubDate>Thu, 04 Dec 2025 07:40:43 +0000</pubDate>
       <guid isPermaLink="true">https://indianexpress.com/article/explained/everyday-explainers/navy-day-2025-history-pakistan-war-1971-trident-10401623/</guid>
       <media:thumbnail url="https://images.indianexpress.com/2025/12/Navy-Day.jpg" />
       <media:content url="https://images.indianexpress.com/2025/12/Navy-Day.jpg" medium="image" />
       <enclosure url="https://images.indianexpress.com/2025/12/Navy-Day.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>With Hasina sentenced to death, what next for Bangladesh</title>
-      <link>https://indianexpress.com/article/explained/explained-global/with-hasina-sentenced-to-death-what-next-for-bangladesh-10379004/</link>
-      <description />
-      <pubDate>Sat, 22 Nov 2025 02:30:13 +0000</pubDate>
-      <guid isPermaLink="true">https://indianexpress.com/article/explained/explained-global/with-hasina-sentenced-to-death-what-next-for-bangladesh-10379004/</guid>
-    </item>
-    <item>
-      <title>Opinion – Sheikh Hasina’s Conviction and the Weaponization of Justice</title>
-      <link>https://www.e-ir.info/2025/11/18/opinion-sheikh-hasinas-conviction-and-the-weaponization-of-justice/</link>
-      <description>&lt;p&gt;&lt;img alt="Thousands of students and peoples shout slogans during a protest rally as they demand justice for victims arrested and killed in the recent nationwide violence over job quotas, at Central Shaheed Minar in Dhaka, Bangladesh, on August 3, 2024. Student leaders rallied Bangladeshis on August 3 for a nationwide civil disobedience campaign as Prime Minister Sheikh Hasina&amp;#039;s government weathered a worsening backlash over a deadly police crackdown on protesters." class="Thumbnail thumbnail slider " src="https://www.e-ir.info/wp-content/uploads/2025/11/Depositphotos_736645318_S-700x394.jpg" /&gt;&lt;/p&gt;
-						The Hasina case contributes to global perceptions that accountability is selective and confirms the best way for autocrats to escape justice is to never relinquish power.</description>
-      <pubDate>Tue, 18 Nov 2025 00:17:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.e-ir.info/2025/11/18/opinion-sheikh-hasinas-conviction-and-the-weaponization-of-justice/</guid>
     </item>
   </channel>
 </rss>
