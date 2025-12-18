@@ -11,6 +11,8 @@ FEEDS = [
 
 "https://www.dawn.com/feeds/latest-news/",
     "https://evilgodfahim.github.io/csis/rss.xml",
+"https://www.dawn.com/feeds/world/",
+"https://politepaul.com/fd/x2KIPhf4eLsZ.xml",
     "https://politepaul.com/fd/9RMAFvRRGLst.xml",
     "https://www.globalpolicyjournal.com/blog/author/%2A/feed",
     "https://www.e-ir.info/feed/",
