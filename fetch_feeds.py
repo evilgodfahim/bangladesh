@@ -8,6 +8,8 @@ import re
 FEEDS = [
     "https://asiatimes.com/feed/",
     "https://politepaul.com/fd/TefnRxuxFzO0.xml",
+
+"https://www.dawn.com/feeds/latest-news/",
     "https://evilgodfahim.github.io/csis/rss.xml",
     "https://politepaul.com/fd/9RMAFvRRGLst.xml",
     "https://www.globalpolicyjournal.com/blog/author/%2A/feed",
