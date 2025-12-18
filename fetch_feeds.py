@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 import hashlib
 import os
+import re
 
 # List of feed URLs
 FEEDS = [
@@ -202,7 +203,7 @@ def normalize_datetime(dt):
     """Normalize datetime to UTC timezone-aware datetime"""
     if dt is None:
         return datetime.now(timezone.utc)
-    
+
     # If it's already a datetime object
     if isinstance(dt, datetime):
         # If naive, assume UTC
@@ -210,7 +211,7 @@ def normalize_datetime(dt):
             return dt.replace(tzinfo=timezone.utc)
         # If aware, convert to UTC
         return dt.astimezone(timezone.utc)
-    
+
     # If it's something else, return current time
     return datetime.now(timezone.utc)
 
@@ -227,10 +228,61 @@ def get_entry_id(entry):
     unique_str = f"{link}{title}"
     return hashlib.md5(unique_str.encode()).hexdigest()
 
+def extract_image(entry):
+    """Extract thumbnail/preview image from feed entry"""
+    # Try media:content
+    if hasattr(entry, "media_content") and entry.media_content:
+        for media in entry.media_content:
+            if "url" in media:
+                return media["url"]
+    
+    # Try media:thumbnail
+    if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+        for thumb in entry.media_thumbnail:
+            if "url" in thumb:
+                return thumb["url"]
+    
+    # Try enclosures
+    if hasattr(entry, "enclosures") and entry.enclosures:
+        for enc in entry.enclosures:
+            if enc.get("type", "").startswith("image/"):
+                return enc.get("url", "")
+    
+    # Try image dict
+    if hasattr(entry, "image") and isinstance(entry.image, dict):
+        return entry.image.get("href") or entry.image.get("url")
+    
+    # Try links with image type
+    if hasattr(entry, "links"):
+        for l in entry.links:
+            if l.get("type", "").startswith("image/"):
+                return l.get("href") or l.get("url")
+            # Check for rel="enclosure" with image
+            if l.get("rel") == "enclosure" and l.get("type", "").startswith("image/"):
+                return l.get("href") or l.get("url")
+    
+    # Try parsing HTML content for images
+    content = ""
+    if hasattr(entry, "content") and entry.content:
+        content = entry.content[0].get("value", "")
+    elif hasattr(entry, "summary"):
+        content = entry.summary
+    elif hasattr(entry, "description"):
+        content = entry.description
+    
+    if content:
+        # Look for img tags
+        img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content, re.IGNORECASE)
+        if img_match:
+            return img_match.group(1)
+    
+    return None
+
 def fetch_all_feeds():
     """Fetch and filter all feeds for Bangladesh-related content"""
     all_entries = []
     seen_ids = set()
+    total_images = 0
 
     for feed_url in FEEDS:
         try:
@@ -262,12 +314,19 @@ def fetch_all_feeds():
                     else:
                         pub_date = datetime.now(timezone.utc)
 
+                    # Extract image
+                    image = extract_image(entry)
+                    if image:
+                        total_images += 1
+                        print(f"  📸 Image found: {image[:60]}...")
+
                     all_entries.append({
                         'title': title,
                         'link': link,
                         'description': description,
                         'pub_date': pub_date,
-                        'source': feed.feed.get('title', feed_url)
+                        'source': feed.feed.get('title', feed_url),
+                        'image': image
                     })
         except Exception as e:
             print(f"Error fetching {feed_url}: {e}")
@@ -276,6 +335,9 @@ def fetch_all_feeds():
     all_entries.sort(key=lambda x: x['pub_date'], reverse=True)
 
     # Keep only the latest 500 items
+    print(f"\n✅ Found {len(all_entries)} Bangladesh articles")
+    print(f"📸 {total_images} articles have images")
+    
     return all_entries[:500]
 
 def load_existing_feed():
@@ -294,6 +356,16 @@ def load_existing_feed():
             description = item.find('description').text if item.find('description') is not None else ''
             pub_date_str = item.find('pubDate').text if item.find('pubDate') is not None else ''
 
+            # Extract image
+            image = None
+            img_elem = item.find("{http://search.yahoo.com/mrss/}thumbnail")
+            if img_elem is not None:
+                image = img_elem.get("url")
+            else:
+                enc_elem = item.find("enclosure")
+                if enc_elem is not None and enc_elem.get("type", "").startswith("image/"):
+                    image = enc_elem.get("url")
+
             try:
                 pub_date = datetime.strptime(pub_date_str, '%a, %d %b %Y %H:%M:%S %z')
             except:
@@ -309,7 +381,8 @@ def load_existing_feed():
                 'link': link,
                 'description': description,
                 'pub_date': pub_date,
-                'source': ''
+                'source': '',
+                'image': image
             })
 
         return entries
@@ -344,8 +417,14 @@ def merge_entries(existing, new):
     return merged[:500]
 
 def create_rss_feed(entries):
-    """Create RSS 2.0 feed XML"""
-    rss = ET.Element('rss', version='2.0')
+    """Create RSS 2.0 feed XML with image support"""
+    # Register media namespace
+    ET.register_namespace('media', 'http://search.yahoo.com/mrss/')
+    
+    rss = ET.Element('rss', {
+        'version': '2.0',
+        'xmlns:media': 'http://search.yahoo.com/mrss/'
+    })
     channel = ET.SubElement(rss, 'channel')
 
     ET.SubElement(channel, 'title').text = 'Bangladesh News Aggregator'
@@ -361,13 +440,40 @@ def create_rss_feed(entries):
         ET.SubElement(item, 'description').text = entry['description']
         ET.SubElement(item, 'pubDate').text = entry['pub_date'].strftime('%a, %d %b %Y %H:%M:%S +0000')
         ET.SubElement(item, 'guid', isPermaLink='true').text = entry['link']
+        
+        # Add image if available
+        if entry.get('image'):
+            # Use media:thumbnail for best RSS reader support
+            ET.SubElement(
+                item,
+                '{http://search.yahoo.com/mrss/}thumbnail',
+                url=entry['image']
+            )
+            
+            # Also add media:content for compatibility
+            ET.SubElement(
+                item,
+                '{http://search.yahoo.com/mrss/}content',
+                url=entry['image'],
+                medium='image'
+            )
+            
+            # Add enclosure for additional compatibility
+            ET.SubElement(
+                item,
+                'enclosure',
+                url=entry['image'],
+                type='image/jpeg'
+            )
 
     tree = ET.ElementTree(rss)
     ET.indent(tree, space='  ')
     tree.write('feed.xml', encoding='utf-8', xml_declaration=True)
 
 if __name__ == '__main__':
-    print("Starting Bangladesh news aggregation...")
+    print("=" * 70)
+    print("Bangladesh News Aggregation with Image Support")
+    print("=" * 70)
 
     # Load existing entries
     existing_entries = load_existing_feed()
@@ -375,12 +481,13 @@ if __name__ == '__main__':
 
     # Fetch new entries
     new_entries = fetch_all_feeds()
-    print(f"Found {len(new_entries)} new Bangladesh-related articles")
 
     # Merge and deduplicate
     all_entries = merge_entries(existing_entries, new_entries)
-    print(f"Total entries after merge: {len(all_entries)}")
+    print(f"\nTotal entries after merge: {len(all_entries)}")
+    print(f"📸 Entries with images: {sum(1 for e in all_entries if e.get('image'))}")
 
     # Create RSS feed
     create_rss_feed(all_entries)
-    print("RSS feed created successfully!")
+    print("\n✅ RSS feed created successfully (feed.xml)")
+    print("=" * 70)
