@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Dec 2025 12:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 13:36:07 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh: Political unrest casts shadow over elections</title>
+      <link>https://www.dw.com/en/bangladesh-political-unrest-casts-shadow-over-elections/a-75294963?maca=en-rss-en-all-1573-rdf</link>
+      <description>As Bangladesh heads toward a general election in early 2026, internal turmoil and external tensions present a major challenge.</description>
+      <pubDate>Wed, 24 Dec 2025 13:29:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.dw.com/en/bangladesh-political-unrest-casts-shadow-over-elections/a-75294963?maca=en-rss-en-all-1573-rdf</guid>
+    </item>
     <item>
       <title>Bangladesh journalists claim &apos;death threats&apos; are the new normal for Dhaka newsrooms</title>
       <link>https://economictimes.indiatimes.com/news/international/world-news/bangladesh-journalists-claim-death-threats-are-the-new-normal-in-dhaka-newsrooms/articleshow/126158990.cms</link>
@@ -5262,16 +5269,6 @@ Several buildings in the capital, including those housing the country’s two le
       <description>Sharif Osman Bin Hadi was a leading figure during the uprising toppled former prime minister Sheikh Hasina in 2024.</description>
       <pubDate>Thu, 18 Dec 2025 20:06:31 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2025/12/18/leader-of-2024-bangladesh-student-protests-dies-in-singapore-hospital?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>Bangladeshi Student Uprising Leader Osman Hadi Dies Week After Being Shot</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-radical-leader-osman-hadi-dies-of-injuries-week-after-being-shot-9842588#publisher=newsstand</link>
-      <description>Hadi was shot in the head in full public view in Dhaka on December 12.</description>
-      <pubDate>Thu, 18 Dec 2025 19:43:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-radical-leader-osman-hadi-dies-of-injuries-week-after-being-shot-9842588#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/7c23kdb8_sharif-osman-hadi_625x300_15_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-12/7c23kdb8_sharif-osman-hadi_625x300_15_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/7c23kdb8_sharif-osman-hadi_625x300_15_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
