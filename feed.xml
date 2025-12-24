@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Dec 2025 20:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 21:21:40 +0000</lastBuildDate>
     <item>
       <title>Bangladesh opposition leader Tarique Rahman set for historic homecoming</title>
       <link>https://www.aljazeera.com/news/2025/12/24/bangladesh-opposition-leader-tarique-rahman-set-for-historic-homecoming?traffic_source=rss</link>
@@ -72,6 +72,16 @@
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/usa1tilk_naznin-munni_625x300_24_December_25.png?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-12/usa1tilk_naznin-munni_625x300_24_December_25.png?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/usa1tilk_naznin-munni_625x300_24_December_25.png?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Protest continues in Bengal against lynching in Bangladesh</title>
+      <link>https://www.thehindu.com/news/national/west-bengal/protests-held-at-land-ports-along-bangladesh-border-in-west-bengal/article70434550.ece</link>
+      <description>Agitators warn chief adviser Mohammad Yunus that trade will be suspended if anti-Hindu situation in Bangladesh continues</description>
+      <pubDate>Wed, 24 Dec 2025 17:11:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/west-bengal/protests-held-at-land-ports-along-bangladesh-border-in-west-bengal/article70434550.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/pve34q/article70434952.ece/alternates/LANDSCAPE_1200/20251224109L.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/pve34q/article70434952.ece/alternates/LANDSCAPE_1200/20251224109L.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/pve34q/article70434952.ece/alternates/LANDSCAPE_1200/20251224109L.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Protests held at land ports along Bangladesh border in West Bengal</title>
@@ -5247,16 +5257,6 @@ Several buildings in the capital, including those housing the country’s two le
       <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e8c/live/b3fa3080-dc5e-11f0-aae2-2191c0e48a3b.jpg" />
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e8c/live/b3fa3080-dc5e-11f0-aae2-2191c0e48a3b.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e8c/live/b3fa3080-dc5e-11f0-aae2-2191c0e48a3b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh unrest: Protestors set fire to newspaper offices; Yunus calls for calm | 5 key updates</title>
-      <link>https://www.hindustantimes.com/world-news/bangladesh-unrest-protestors-set-fire-to-newspaper-offices-yunus-calls-for-calm-after-osman-hadi-death-5-key-updates-101766092129335.html</link>
-      <description>The protests in Bangladesh comes amid rising tensions caused by the assassination attempt on Osman Hadi. Hadi was shot at during a campaign last week in Dhaka.</description>
-      <pubDate>Thu, 18 Dec 2025 21:28:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/bangladesh-unrest-protestors-set-fire-to-newspaper-offices-yunus-calls-for-calm-after-osman-hadi-death-5-key-updates-101766092129335.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2025/12/18/1600x900/bangladesh_violence_1766093188843_1766093189046.JPG" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2025/12/18/1600x900/bangladesh_violence_1766093188843_1766093189046.JPG" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2025/12/18/1600x900/bangladesh_violence_1766093188843_1766093189046.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
