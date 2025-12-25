@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Dec 2025 21:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 22:19:32 +0000</lastBuildDate>
+    <item>
+      <title>Commentary: An assassination raises the stakes for Bangladesh and India</title>
+      <link>https://www.channelnewsasia.com/commentary/bangladesh-assassination-hadi-died-singapore-india-5708551</link>
+      <description>The danger of an unstable Bangladesh should not be underestimated, says former foreign correspondent Nirmal Ghosh.</description>
+      <pubDate>Thu, 25 Dec 2025 22:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.channelnewsasia.com/commentary/bangladesh-assassination-hadi-died-singapore-india-5708551</guid>
+      <media:thumbnail url="https://dam.mediacorp.sg/image/upload/s--4qsCrMtT--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-12-20T140324Z_1_LYNXMPELBJ06H_RTROPTP_3_BANGLADESH-POLITICS.JPG?itok=peUyv8Pr" />
+      <media:content url="https://dam.mediacorp.sg/image/upload/s--4qsCrMtT--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-12-20T140324Z_1_LYNXMPELBJ06H_RTROPTP_3_BANGLADESH-POLITICS.JPG?itok=peUyv8Pr" medium="image" />
+      <enclosure url="https://dam.mediacorp.sg/image/upload/s--4qsCrMtT--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2025-12-20T140324Z_1_LYNXMPELBJ06H_RTROPTP_3_BANGLADESH-POLITICS.JPG?itok=peUyv8Pr" type="image/jpeg" />
+    </item>
     <item>
       <title>‘Dipu Chandra Das, say his name’: Laura Loomer attacks Islamic hatred after lynching of Hindu man in Bangladesh</title>
       <link>https://timesofindia.indiatimes.com/world/us/dipu-chandra-das-say-his-name-laura-loomer-attacks-islamic-hatred-after-lynching-of-hindu-man-in-bangladesh/articleshow/126178752.cms</link>
@@ -5123,16 +5133,6 @@ The suspension, announced on Sunday, followed protests triggered by the death of
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/qdo5lg/article70416296.ece/alternates/LANDSCAPE_1200/PTI12_16_2024_000342A.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/qdo5lg/article70416296.ece/alternates/LANDSCAPE_1200/PTI12_16_2024_000342A.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/qdo5lg/article70416296.ece/alternates/LANDSCAPE_1200/PTI12_16_2024_000342A.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh Protests LIVE Updates: Border Guard Bangladesh Deployed Across Dhaka Amid Unrest</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand</link>
-      <description>Bangladesh has been rocked by violent protests after the death of student leader Sharif Osman Hadi</description>
-      <pubDate>Fri, 19 Dec 2025 14:16:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-protests-updates-bangladesh-unrest-news-bangladesh-student-leader-sharif-osman-hadi-dies-violence-erupts-in-bangladesh-after-death-of-stude-9843721#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/ip1aemi4_bangladesh-unrest-live-updates_625x300_19_December_25.jpeg" />
-      <media:content url="https://c.ndtvimg.com/2025-12/ip1aemi4_bangladesh-unrest-live-updates_625x300_19_December_25.jpeg" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/ip1aemi4_bangladesh-unrest-live-updates_625x300_19_December_25.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
