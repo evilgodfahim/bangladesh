@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Dec 2025 22:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 23:19:47 +0000</lastBuildDate>
+    <item>
+      <title>Labelled Bangladeshi, youth lynched in Odisha, claim kin; police cite monetary dispute</title>
+      <link>https://timesofindia.indiatimes.com/india/odisha-labelled-bangladeshi-youth-lynched-in-sambalpur-claim-kin-police-cites-monetary-dispute-as-reason/articleshow/126179403.cms</link>
+      <description>A 20-year-old Bengali mason, working in Odisha for the first time, was tragically beaten to death by a mob. While his family claims he was falsely accused of being Bangladeshi, police state the violence erupted from a monetary dispute. Two other migrant workers were critically injured in the attack.</description>
+      <pubDate>Thu, 25 Dec 2025 22:13:41 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/odisha-labelled-bangladeshi-youth-lynched-in-sambalpur-claim-kin-police-cites-monetary-dispute-as-reason/articleshow/126179403.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126179922,imgsize-15102.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126179922,imgsize-15102.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126179922,imgsize-15102.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Commentary: An assassination raises the stakes for Bangladesh and India</title>
       <link>https://www.channelnewsasia.com/commentary/bangladesh-assassination-hadi-died-singapore-india-5708551</link>
@@ -96,7 +106,7 @@
     <item>
       <title>Bangladesh condemns killing of Hindu criminal by mob, says not a communal attack</title>
       <link>https://www.hindustantimes.com/world-news/bangladesh-condemns-killing-of-hindu-criminal-by-mob-says-not-a-communal-attack-101766683617381.html</link>
-      <description>A statement by the interim government said Amrit Mondal had arrived in the area allegedly to extort money and “lost his life during a clash with an angry local crowd”</description>
+      <description>The interim government said that Amrit Mondal had arrived in the area allegedly to extort money and “lost his life during a clash with an angry local crowd”</description>
       <pubDate>Thu, 25 Dec 2025 17:26:57 +0000</pubDate>
       <guid isPermaLink="true">https://www.hindustantimes.com/world-news/bangladesh-condemns-killing-of-hindu-criminal-by-mob-says-not-a-communal-attack-101766683617381.html</guid>
       <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/Law-enforcement-officers-stand-guard-as-supporters_1766683670803.jpg" />
@@ -5123,16 +5133,6 @@ The suspension, announced on Sunday, followed protests triggered by the death of
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/iw93e1/article70420615.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/iw93e1/article70420615.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/iw93e1/article70420615.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tripura CM flags concern over law and order in Bangladesh</title>
-      <link>https://www.thehindu.com/news/national/tripura-cm-flags-concern-over-law-and-order-in-bangladesh/article70416181.ece</link>
-      <description>Chief Minister Manik Saha says State prepared for contingencies along the international border</description>
-      <pubDate>Fri, 19 Dec 2025 14:23:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/tripura-cm-flags-concern-over-law-and-order-in-bangladesh/article70416181.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/qdo5lg/article70416296.ece/alternates/LANDSCAPE_1200/PTI12_16_2024_000342A.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/qdo5lg/article70416296.ece/alternates/LANDSCAPE_1200/PTI12_16_2024_000342A.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/qdo5lg/article70416296.ece/alternates/LANDSCAPE_1200/PTI12_16_2024_000342A.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
