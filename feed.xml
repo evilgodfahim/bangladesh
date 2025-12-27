@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Dec 2025 21:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 22:19:29 +0000</lastBuildDate>
     <item>
       <title>What are India’s diplomatic headwinds in 2026?: Explained</title>
       <link>https://www.thehindu.com/news/national/what-are-indias-diplomatic-headwinds-in-2026-explained/article70443191.ece</link>
@@ -75,6 +75,16 @@
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/ij2o25fk_cwc-meet_160x120_27_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-12/ij2o25fk_cwc-meet_160x120_27_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/ij2o25fk_cwc-meet_160x120_27_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Assam: CM Sarma claims possible annexation attempt if Bangladeshi population exceeds 50%</title>
+      <link>https://timesofindia.indiatimes.com/city/guwahati/identity-at-stake-sarma-claims-possible-annexation-attempt-if-bangladeshi-population-exceeds-50-calls-for-a-civilizational-battle-in-assam/articleshow/126208087.cms</link>
+      <description>In a striking address, Assam Chief Minister Himanta Biswa Sarma raised alarms about the looming risk of Assam merging with Bangladesh, should the population of Bangladeshi descent surpass the 50% mark. He emphasized the importance of preserving Assamese heritage amidst worrying demographic changes and what he sees as appeasement policies.</description>
+      <pubDate>Sat, 27 Dec 2025 18:26:15 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/city/guwahati/identity-at-stake-sarma-claims-possible-annexation-attempt-if-bangladeshi-population-exceeds-50-calls-for-a-civilizational-battle-in-assam/articleshow/126208087.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126208087,imgsize-570353.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126208087,imgsize-570353.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126208087,imgsize-570353.cms" type="image/jpeg" />
     </item>
     <item>
       <title>Protest In London Against Killings Of Hindus In Bangladesh</title>
@@ -5049,16 +5059,6 @@ The suspension, announced on Sunday, followed protests triggered by the death of
       <description>By responding to extremism with openness, consistency, and strategic long-term view, India not only protects its interests but also underscores the contrast between responsible statecraft and performative radicalism</description>
       <pubDate>Sun, 21 Dec 2025 06:19:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.firstpost.com/opinion/india-bangladesh-extremism-strategic-restraint-13961488.html</guid>
-    </item>
-    <item>
-      <title>&apos;No One Saw Or Heard&apos;: Bangladesh Hindu Killed, But No &apos;Blasphemy&apos; Witness</title>
-      <link>https://www.ndtv.com/world-news/dipu-chandra-das-hindu-man-lynched-in-bangladesh-hindu-lynched-in-bangladesh-investigators-find-no-proof-of-his-blasphemy-9857140#publisher=newsstand</link>
-      <description>Dipu Chandra Das was lynched and his body set on fire in the middle of a highway</description>
-      <pubDate>Sun, 21 Dec 2025 05:59:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/dipu-chandra-das-hindu-man-lynched-in-bangladesh-hindu-lynched-in-bangladesh-investigators-find-no-proof-of-his-blasphemy-9857140#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/mkvjfsm4_dipu-chandra-das_625x300_20_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-12/mkvjfsm4_dipu-chandra-das_625x300_20_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/mkvjfsm4_dipu-chandra-das_625x300_20_December_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
