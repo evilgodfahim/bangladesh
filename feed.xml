@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Dec 2025 17:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 18:27:09 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh student leaders &apos;divided over election alliance with Jamaat&apos;</title>
+      <link>https://economictimes.indiatimes.com/news/international/world-news/bangladesh-student-leaders-divided-over-election-alliance-with-jamaat/articleshow/126218379.cms</link>
+      <description>A proposed electoral alliance between Bangladesh&apos;s National Citizen Party and Jamaat-e-Islami is causing divisions. Thirty NCP leaders have protested, citing Jamaat&apos;s controversial past including its role in the 1971 Liberation War. This move comes as seat-sharing talks near completion. Some NCP leaders previously belonged to Jamaat&apos;s student wing. Jamaat sought partnership with NCP over the BNP.</description>
+      <pubDate>Sun, 28 Dec 2025 17:51:18 +0000</pubDate>
+      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/world-news/bangladesh-student-leaders-divided-over-election-alliance-with-jamaat/articleshow/126218379.cms</guid>
+      <media:thumbnail url="https://img.etimg.com/photo/msid-126218379,imgsize-173180.cms" />
+      <media:content url="https://img.etimg.com/photo/msid-126218379,imgsize-173180.cms" medium="image" />
+      <enclosure url="https://img.etimg.com/photo/msid-126218379,imgsize-173180.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh&apos;s student-led NCP allies with Jamaat-e-Islami ahead of February election</title>
       <link>https://www.thehindu.com/news/international/bangladeshs-student-led-ncp-allies-with-jamaat-e-islami-ahead-of-february-election/article70447217.ece</link>
@@ -5040,16 +5050,6 @@ The suspension, announced on Sunday, followed protests triggered by the death of
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/mmtcjti_bsf_625x300_22_December_25.jpeg" />
       <media:content url="https://c.ndtvimg.com/2025-12/mmtcjti_bsf_625x300_22_December_25.jpeg" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/mmtcjti_bsf_625x300_22_December_25.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>India Rejects Delhi Protest &quot;Propaganda&quot;, Bangladesh&apos;s &quot;Scale Back&quot; Threat</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-crisis-dhakas-scale-back-threat-after-india-rejects-propaganda-on-protests-in-delhi-9862997#publisher=newsstand</link>
-      <description>Dipu Chandra Das was lynched and his body set on fire in the middle of a highway</description>
-      <pubDate>Mon, 22 Dec 2025 07:30:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-crisis-dhakas-scale-back-threat-after-india-rejects-propaganda-on-protests-in-delhi-9862997#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/t1af2eok_dipu-das-hindu-man-lynched-in-bangladesh_625x300_20_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-12/t1af2eok_dipu-das-hindu-man-lynched-in-bangladesh_625x300_20_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/t1af2eok_dipu-das-hindu-man-lynched-in-bangladesh_625x300_20_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
