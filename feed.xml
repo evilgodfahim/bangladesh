@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Dec 2025 14:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 15:19:49 +0000</lastBuildDate>
+    <item>
+      <title>Dhaka rejects India’s remarks over hostilities against minorities in Bangladesh</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-india-mea-remarks-reject-atrocities-minorities-dhaka/article70446878.ece</link>
+      <description></description>
+      <pubDate>Sun, 28 Dec 2025 15:04:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-india-mea-remarks-reject-atrocities-minorities-dhaka/article70446878.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/cz7gyi/article70446917.ece/alternates/LANDSCAPE_1200/2025-12-26T110537Z_1531104068_RC28OIA7N5SE_RTRMADP_3_BANGLADESH-ELECTION-BNP.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/cz7gyi/article70446917.ece/alternates/LANDSCAPE_1200/2025-12-26T110537Z_1531104068_RC28OIA7N5SE_RTRMADP_3_BANGLADESH-ELECTION-BNP.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/cz7gyi/article70446917.ece/alternates/LANDSCAPE_1200/2025-12-26T110537Z_1531104068_RC28OIA7N5SE_RTRMADP_3_BANGLADESH-ELECTION-BNP.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh reports 102,562 dengue cases, 412 deaths in 2025</title>
       <link>https://english.news.cn/20251228/e1aeeae58a6047e88e4f45e5e13cf4c8/c.html</link>
@@ -5070,16 +5080,6 @@ The suspension, announced on Sunday, followed protests triggered by the death of
       <description></description>
       <pubDate>Mon, 22 Dec 2025 05:21:02 +0000</pubDate>
       <guid isPermaLink="true">https://www.tbsnews.net/world/south-asia/unruly-elements-running-amok-bangladesh-md-yunus-cant-just-wring-his-hands-indian</guid>
-    </item>
-    <item>
-      <title>‘Strain entirely of Yunus&apos; making’: Sheikh Hasina blames interim government for stressed relations with India</title>
-      <link>https://www.thehindu.com/news/international/strain-entirely-of-yunus-making-sheikh-hasina-blames-interim-government-for-stressed-relations-with-india/article70424836.ece</link>
-      <description>The former Bangladesh PM accused the Yunus government of issuing hostile statements against India and failing to protect religious minorities</description>
-      <pubDate>Mon, 22 Dec 2025 05:13:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/strain-entirely-of-yunus-making-sheikh-hasina-blames-interim-government-for-stressed-relations-with-india/article70424836.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/ihmjca/article70424844.ece/alternates/LANDSCAPE_1200/2025-11-17T010311Z_728478516_RC2946ANL4E1_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG" />
-      <media:content url="https://th-i.thgim.com/public/incoming/ihmjca/article70424844.ece/alternates/LANDSCAPE_1200/2025-11-17T010311Z_728478516_RC2946ANL4E1_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/ihmjca/article70424844.ece/alternates/LANDSCAPE_1200/2025-11-17T010311Z_728478516_RC2946ANL4E1_RTRMADP_3_BANGLADESH-POLITICS-HASINA.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
