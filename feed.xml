@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Dec 2025 23:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 01:11:30 +0000</lastBuildDate>
     <item>
       <title>Now, India, Bangladesh face off over Hadi&apos;s killers</title>
       <link>https://timesofindia.indiatimes.com/india/now-india-bangladesh-face-off-over-hadis-killers/articleshow/126219965.cms</link>
@@ -53,6 +53,13 @@
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/4y9g9f/article70447235.ece/alternates/LANDSCAPE_1200/2025-12-04T030728Z_1764349024_RC2U2IAIKGRJ_RTRMADP_3_BANGLADESH-POLITICS.JPG" />
       <media:content url="https://th-i.thgim.com/public/incoming/4y9g9f/article70447235.ece/alternates/LANDSCAPE_1200/2025-12-04T030728Z_1764349024_RC2U2IAIKGRJ_RTRMADP_3_BANGLADESH-POLITICS.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/4y9g9f/article70447235.ece/alternates/LANDSCAPE_1200/2025-12-04T030728Z_1764349024_RC2U2IAIKGRJ_RTRMADP_3_BANGLADESH-POLITICS.JPG" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh’s student-led party allies with Islamists ahead of election</title>
+      <link>https://www.straitstimes.com/asia/south-asia/bangladeshs-student-led-party-allies-with-islamists-ahead-of-election</link>
+      <description>&lt;p&gt;Some figures deemed the alliance as a pragmatic step in a fragmented political landscape.&lt;/p&gt;</description>
+      <pubDate>Sun, 28 Dec 2025 16:10:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.straitstimes.com/asia/south-asia/bangladeshs-student-led-party-allies-with-islamists-ahead-of-election</guid>
     </item>
     <item>
       <title>Bangladesh&apos;s student-led party allies with Islamists ahead of election</title>
@@ -5041,16 +5048,6 @@ The suspension, announced on Sunday, followed protests triggered by the death of
       <media:thumbnail url="https://img.etimg.com/photo/msid-126118318,imgsize-63442.cms" />
       <media:content url="https://img.etimg.com/photo/msid-126118318,imgsize-63442.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-126118318,imgsize-63442.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh unrest: After Osman Hadi, another youth leader shot in head</title>
-      <link>https://timesofindia.indiatimes.com/world/south-asia/bangladesh-unrest-after-sharif-osman-hadi-another-youth-leader-shot-in-head-who-is-motaleb-sikdar/articleshow/126117982.cms</link>
-      <description>Days after the killing of youth leader Sharif Osman Bin Hadi, another prominent youth leader, Motaleb Sikdar, was shot in head on Monday. He was taken to hospital in critical condition. This incident escalates concerns over political violence amidst heightened tensions following Hadi&apos;s death, which sparked widespread protests demanding justice.</description>
-      <pubDate>Mon, 22 Dec 2025 08:17:47 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/bangladesh-unrest-after-sharif-osman-hadi-another-youth-leader-shot-in-head-who-is-motaleb-sikdar/articleshow/126117982.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126118081,imgsize-104122.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126118081,imgsize-104122.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126118081,imgsize-104122.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
