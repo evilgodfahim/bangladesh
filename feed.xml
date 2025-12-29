@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Dec 2025 14:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 15:21:38 +0000</lastBuildDate>
+    <item>
+      <title>Born Out Of 2024 Bangladesh Protests, Party Loses Leaders Over Jamaat Union</title>
+      <link>https://www.ndtv.com/world-news/born-out-of-2024-bangladesh-protests-party-loses-leaders-over-jamaat-union-10058790#publisher=newsstand</link>
+      <description>The National Citizen Party in Bangladesh has recentlylost prominent faces because of its tie-up with the hardline Jamaat-E-Islami Bangladesh, considered a pro-Pakistan and radical Islamist party.</description>
+      <pubDate>Mon, 29 Dec 2025 14:05:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/born-out-of-2024-bangladesh-protests-party-loses-leaders-over-jamaat-union-10058790#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2024-08/8c86snag_bangladesh-protests-afp-_625x300_04_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2024-08/8c86snag_bangladesh-protests-afp-_625x300_04_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2024-08/8c86snag_bangladesh-protests-afp-_625x300_04_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
     <item>
       <title>After 17-year exile, Tarique Rahman back with a bang in Bangladesh</title>
       <link>https://asiatimes.com/2025/12/after-17-year-exile-tarique-rahman-back-with-a-bang-in-bangladesh/</link>
@@ -5159,16 +5169,6 @@ Accompanied by his wife and daughter, a visibly emotional Rahman took off his sh
       <description>&lt;p&gt;Journalists are being marked for death on social media.&lt;/p&gt;</description>
       <pubDate>Mon, 22 Dec 2025 13:24:39 +0000</pubDate>
       <guid isPermaLink="true">https://www.straitstimes.com/asia/bangladesh-editors-warn-of-fight-for-survival-as-mob-violence-targets-media</guid>
-    </item>
-    <item>
-      <title>&quot;Hindus Being Tortured&quot;: Himanta Biswa Sarma On Fresh Unrest In Bangladesh</title>
-      <link>https://www.ndtv.com/india-news/himanta-biswa-sarma-on-fresh-unrest-in-bangladesh-hindus-being-tortured-9872729#publisher=newsstand</link>
-      <description>Himanta Sarma said that every development across the border was being keenly watched. (FILE)</description>
-      <pubDate>Mon, 22 Dec 2025 13:18:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/india-news/himanta-biswa-sarma-on-fresh-unrest-in-bangladesh-hindus-being-tortured-9872729#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-06/00jsvl18_himanta-biswa-sarma_625x300_10_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-06/00jsvl18_himanta-biswa-sarma_625x300_10_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-06/00jsvl18_himanta-biswa-sarma_625x300_10_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
