@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 19:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 20:24:29 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh unrest: UK condemns murders of Dipu Das and Amrit Mondal; welcomes arrests</title>
+      <link>https://timesofindia.indiatimes.com/world/uk/uk-condemns-murders-of-dipu-das-and-amrit-mondal-in-bangladesh/articleshow/126259006.cms</link>
+      <description></description>
+      <pubDate>Tue, 30 Dec 2025 19:14:35 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/uk/uk-condemns-murders-of-dipu-das-and-amrit-mondal-in-bangladesh/articleshow/126259006.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126259002,imgsize-83988.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126259002,imgsize-83988.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126259002,imgsize-83988.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Former Bangladesh PM Khaleda Zia To Be Buried Beside Her Husband&apos;s Grave</title>
       <link>https://www.ndtv.com/world-news/former-bangladesh-pm-khaleda-zia-to-be-buried-beside-her-husband-ziaur-rahmans-grave-10110600#publisher=newsstand</link>
@@ -5440,16 +5450,6 @@ Accompanied by his wife and daughter, a visibly emotional Rahman took off his sh
       <media:thumbnail url="https://i.guim.co.uk/img/media/5106419dc9d97ff2b589a249d6c48f6e985ef88a/826_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a134c1e39a7b16d3e453e67aa85f8daf" />
       <media:content url="https://i.guim.co.uk/img/media/5106419dc9d97ff2b589a249d6c48f6e985ef88a/826_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a134c1e39a7b16d3e453e67aa85f8daf" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/5106419dc9d97ff2b589a249d6c48f6e985ef88a/826_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a134c1e39a7b16d3e453e67aa85f8daf" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Scuffles break out between police, BJP supporters in Howrah over killing of Hindu Bangladeshi youth</title>
-      <link>https://www.thehindu.com/news/cities/kolkata/scuffles-break-out-between-police-bjp-supporters-in-howrah-over-killing-of-hindu-bangladeshi-youth/article70432981.ece</link>
-      <description>Trouble started after police stopped a procession by the saffron party before it could reach Howrah bridge, triggering heated arguments between protesters and security personnel</description>
-      <pubDate>Wed, 24 Dec 2025 08:35:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/cities/kolkata/scuffles-break-out-between-police-bjp-supporters-in-howrah-over-killing-of-hindu-bangladeshi-youth/article70432981.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/66hp1r/article70433008.ece/alternates/LANDSCAPE_1200/PTI12_24_2025_000120A.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/66hp1r/article70433008.ece/alternates/LANDSCAPE_1200/PTI12_24_2025_000120A.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/66hp1r/article70433008.ece/alternates/LANDSCAPE_1200/PTI12_24_2025_000120A.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
