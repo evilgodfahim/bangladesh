@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 20:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 21:47:31 +0000</lastBuildDate>
     <item>
       <title>Bangladesh unrest: UK condemns murders of Dipu Das and Amrit Mondal; welcomes arrests</title>
       <link>https://timesofindia.indiatimes.com/world/uk/uk-condemns-murders-of-dipu-das-and-amrit-mondal-in-bangladesh/articleshow/126259006.cms</link>
@@ -369,6 +369,13 @@
       <media:thumbnail url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5lh0p7wx/AP25364248668849.jpg" />
       <media:content url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5lh0p7wx/AP25364248668849.jpg" medium="image" />
       <enclosure url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5lh0p7wx/AP25364248668849.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Khaleda Zia, first female prime minister of Bangladesh, dies</title>
+      <link>https://www.washingtonpost.com/obituaries/2025/12/30/khaleda-zia-bangladesh-dies/</link>
+      <description>She rose to power after her husband was killed in an attempted coup, and she had a fierce political rivalry with Sheikh Hasina, who was ousted last year.</description>
+      <pubDate>Tue, 30 Dec 2025 09:14:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.washingtonpost.com/obituaries/2025/12/30/khaleda-zia-bangladesh-dies/</guid>
     </item>
     <item>
       <title>Khaleda Zia, former Bangladeshi prime minister and archrival of a previous premier, dies at 80</title>
@@ -5440,16 +5447,6 @@ Accompanied by his wife and daughter, a visibly emotional Rahman took off his sh
       <media:thumbnail url="https://c.ndtvimg.com/2025-10/1u0l86jg_bangladesh-polls_625x300_29_October_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-10/1u0l86jg_bangladesh-polls_625x300_29_October_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-10/1u0l86jg_bangladesh-polls_625x300_29_October_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>How hope is fading: the mobs bringing violence back to the streets of Bangladesh</title>
-      <link>https://www.theguardian.com/global-development/2025/dec/24/bangladesh-media-newspapers-civil-society-targeted-mobs-sheikh-hasina</link>
-      <description>&lt;p&gt;As crowds attack newspaper offices and violence has killed 184 people, the optimism around Sheikh Hasina’s overthrow has dimmed&lt;/p&gt;&lt;p&gt;The sounds of a mob were already audible when Zyma Islam hit send on her article for Friday’s edition of Bangladesh’s Daily Star newspaper. She quickly headed out, hoping to avoid the crowd that had already burned down the offices of Prothom Alo, another of Bangladesh’s most prestigious newspapers. But when she reached the door, they were already there.&lt;/p&gt;&lt;p&gt;The rioters were a&lt;a href=&quot;https://www.theguardian.com/world/2025/dec/19/sharif-osman-hadi-dead-bangladesh-violence-protests&quot;&gt;ngered by the assassination of Sharif Osman Hadi&lt;/a&gt;, a prominent leader from the pro-democracy movement that unseated the &lt;a href=&quot;https://www.theguardian.com/world/2025/nov/17/ousted-bangladesh-pm-sheikh-hasina-found-guilty-of-crimes-against-humanity&quot;&gt;former prime minister Sheikh Hasina&lt;/a&gt; in August 2024. Hadi’s killers were Hasina loyalists who had escaped to India, according to the authorities. The crowd that had rapidly gathered on the night of 18 December was ready to lash out at anyone they saw as linked to the previous government.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/global-development/2025/dec/24/bangladesh-media-newspapers-civil-society-targeted-mobs-sheikh-hasina&quot;&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Wed, 24 Dec 2025 09:45:36 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/global-development/2025/dec/24/bangladesh-media-newspapers-civil-society-targeted-mobs-sheikh-hasina</guid>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/5106419dc9d97ff2b589a249d6c48f6e985ef88a/826_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a134c1e39a7b16d3e453e67aa85f8daf" />
-      <media:content url="https://i.guim.co.uk/img/media/5106419dc9d97ff2b589a249d6c48f6e985ef88a/826_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a134c1e39a7b16d3e453e67aa85f8daf" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/5106419dc9d97ff2b589a249d6c48f6e985ef88a/826_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a134c1e39a7b16d3e453e67aa85f8daf" type="image/jpeg" />
     </item>
   </channel>
 </rss>
