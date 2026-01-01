@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 12:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 13:35:58 +0000</lastBuildDate>
+    <item>
+      <title>Hindu Man Attacked, Set On Fire In Bangladesh, Escapes By Jumping Into Pond</title>
+      <link>https://www.ndtv.com/world-news/hindu-man-injured-after-being-attacked-by-mob-set-on-fire-in-bangladesh-10167430#publisher=newsstand</link>
+      <description>Khokon Das, another Hindu man, was attacked by a violent group in Bangladesh</description>
+      <pubDate>Thu, 01 Jan 2026 12:49:02 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/hindu-man-injured-after-being-attacked-by-mob-set-on-fire-in-bangladesh-10167430#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/3e3sbi2g_khokon-das_625x300_01_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2026-01/3e3sbi2g_khokon-das_625x300_01_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/3e3sbi2g_khokon-das_625x300_01_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
     <item>
       <title>Hindu Man Injured After Being Attacked By Mob, Set On Fire In Bangladesh</title>
       <link>https://www.ndtv.com/world-news/hindu-man-injured-after-being-attacked-by-mob-set-on-fire-in-bangladesh-10167430#publisher=newsstand</link>
@@ -5519,16 +5529,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <description></description>
       <pubDate>Thu, 25 Dec 2025 11:24:03 +0000</pubDate>
       <guid isPermaLink="true">https://www.hindustantimes.com/world-news/why-is-tarique-rahmans-return-to-bangladesh-after-17-years-crucial-for-the-countrys-politics-101766655990475.html</guid>
-    </item>
-    <item>
-      <title>Why is Tarique Rahman&apos;s return to Bangladesh after 17 years crucial for the country&apos;s politics</title>
-      <link>https://www.hindustantimes.com/world-news/why-is-tarique-rahmans-return-to-bangladesh-after-17-years-crucial-for-the-countrys-politics-101766655990475.html</link>
-      <description>Rahman&apos;s homecoming comes even as Bangladesh is witnessing widespread unrest and political instability.</description>
-      <pubDate>Thu, 25 Dec 2025 11:24:03 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/why-is-tarique-rahmans-return-to-bangladesh-after-17-years-crucial-for-the-countrys-politics-101766655990475.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/Bangladesh-Tarique-Rahman-0_1766659511727_1766659544243.jpg" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/Bangladesh-Tarique-Rahman-0_1766659511727_1766659544243.jpg" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/Bangladesh-Tarique-Rahman-0_1766659511727_1766659544243.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
