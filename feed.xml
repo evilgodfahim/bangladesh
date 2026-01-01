@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 16:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 17:22:18 +0000</lastBuildDate>
+    <item>
+      <title>UP Cop &apos;Scans&apos; Man With Mobile Phone, Calls Him Bangladeshi. Video Viral</title>
+      <link>https://www.ndtv.com/ghaziabad-news/up-cop-scans-man-with-mobile-phone-calls-him-bangladeshi-video-viral-10179465#publisher=newsstand</link>
+      <description>Ghaziabad Police and CRPF conduct search operations to check for illegal immigrants</description>
+      <pubDate>Thu, 01 Jan 2026 16:44:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/ghaziabad-news/up-cop-scans-man-with-mobile-phone-calls-him-bangladeshi-video-viral-10179465#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/t9amepf8_bihar-araia_625x300_01_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2026-01/t9amepf8_bihar-araia_625x300_01_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/t9amepf8_bihar-araia_625x300_01_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
     <item>
       <title>Hindu man attacked in Bangladesh: Mob pours petrol, sets him on fire; victim critical</title>
       <link>https://timesofindia.indiatimes.com/world/south-asia/hindu-man-attacked-in-bangladesh-mob-pours-petrol-sets-him-on-fire-victim-critical/articleshow/126289096.cms</link>
@@ -5654,13 +5664,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <description>Disputes over minority safety and diplomatic security have triggered retaliatory visa freezes between India and Bangladesh, disrupting medical travel and signaling a sharp deterioration in relations.</description>
       <pubDate>Thu, 25 Dec 2025 12:06:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.dw.com/en/testing-times-for-india-bangladesh-ties-amid-deepening-rifts/a-75301893?maca=en-rss-en-all-1573-rdf</guid>
-    </item>
-    <item>
-      <title>India-Bangladesh visa freeze deepens bilateral crisis</title>
-      <link>https://www.dw.com/en/india-bangladesh-visa-freeze-deepens-bilateral-crisis/a-75301893?maca=en-rss-en-all-1573-rdf</link>
-      <description>Disputes over minority safety and diplomatic security have triggered retaliatory visa freezes between India and Bangladesh, disrupting medical travel and signaling a sharp deterioration in bilateral relations.</description>
-      <pubDate>Thu, 25 Dec 2025 12:06:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.dw.com/en/india-bangladesh-visa-freeze-deepens-bilateral-crisis/a-75301893?maca=en-rss-en-all-1573-rdf</guid>
     </item>
   </channel>
 </rss>
