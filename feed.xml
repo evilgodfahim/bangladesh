@@ -5,7 +5,27 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 14:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 15:23:37 +0000</lastBuildDate>
+    <item>
+      <title>Hindu man attacked in Bangladesh: Mob pours petrol, sets him on fire; victim critical</title>
+      <link>https://timesofindia.indiatimes.com/world/south-asia/hindu-man-attacked-in-bangladesh-mob-pours-petrol-sets-him-on-fire-victim-critical/articleshow/126289096.cms</link>
+      <description>The incident took place around 9.30 pm in the Damudya area, near Keurbhanga Bazar in the Koneshwar Union. The victim, 50-year-old Khokon Chandra Das, was reportedly waylaid, beaten and doused with petrol before being set ablaze, reported news agency ANI, citing Prothom Alo. Das was later shifted to Dhaka for advanced treatment as his condition worsened, the report said.</description>
+      <pubDate>Thu, 01 Jan 2026 14:17:20 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/hindu-man-attacked-in-bangladesh-mob-pours-petrol-sets-him-on-fire-victim-critical/articleshow/126289096.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126289252,imgsize-476837.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126289252,imgsize-476837.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126289252,imgsize-476837.cms" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hindu businessman attacked with sharp weapons, set on fire in Bangladesh: Report</title>
+      <link>https://www.hindustantimes.com/world-news/hindu-businessman-attacked-with-sharp-weapons-set-on-fire-in-bangladesh-101767275713817.html</link>
+      <description>According to Seema Das, the wife of injured Khokon Chandra Das, the attackers tried to kill her husband as he had recognised two people from the group.</description>
+      <pubDate>Thu, 01 Jan 2026 14:15:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/hindu-businessman-attacked-with-sharp-weapons-set-on-fire-in-bangladesh-101767275713817.html</guid>
+      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/01/01/1600x900/logo/ANI-20251117012-0_1766669610727_1766669632756_1767276208035.jpg" />
+      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/01/01/1600x900/logo/ANI-20251117012-0_1766669610727_1766669632756_1767276208035.jpg" medium="image" />
+      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/01/01/1600x900/logo/ANI-20251117012-0_1766669610727_1766669632756_1767276208035.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>UK government vows to &apos;defend&apos; decision to strip Shamima Begum of citizenship</title>
       <link>https://www.middleeasteye.net/news/uk-shabana-mahmood-vows-defend-decision-strip-shamima-begum-citizenship</link>
@@ -5641,26 +5661,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <description>Disputes over minority safety and diplomatic security have triggered retaliatory visa freezes between India and Bangladesh, disrupting medical travel and signaling a sharp deterioration in bilateral relations.</description>
       <pubDate>Thu, 25 Dec 2025 12:06:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.dw.com/en/india-bangladesh-visa-freeze-deepens-bilateral-crisis/a-75301893?maca=en-rss-en-all-1573-rdf</guid>
-    </item>
-    <item>
-      <title>Bangladesh police announces reward for information on Hindu household attackers</title>
-      <link>https://economictimes.indiatimes.com/news/international/world-news/bangladesh-police-announces-reward-for-information-on-hindu-household-attackers/articleshow/126173894.cms</link>
-      <description>Bangladesh police have announced a reward for information on attackers who set fire to a Hindu-owned house near Chattogram, amidst a surge in mob violence. This incident follows a series of arson attacks targeting Hindu families in the same area, with five suspects arrested. The violence has sparked widespread protests and international condemnation.</description>
-      <pubDate>Thu, 25 Dec 2025 12:04:01 +0000</pubDate>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/world-news/bangladesh-police-announces-reward-for-information-on-hindu-household-attackers/articleshow/126173894.cms</guid>
-      <media:thumbnail url="https://img.etimg.com/photo/msid-126173894,imgsize-99364.cms" />
-      <media:content url="https://img.etimg.com/photo/msid-126173894,imgsize-99364.cms" medium="image" />
-      <enclosure url="https://img.etimg.com/photo/msid-126173894,imgsize-99364.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Son of former Bangladesh PM returns after 17 years in exile with a chance to lead</title>
-      <link>https://abcnews.go.com/International/wireStory/son-former-bangladesh-prime-minister-returns-after-17-128690701</link>
-      <description>The son of a former Bangladesh prime minister has returned to the country after more than 17 years in exile</description>
-      <pubDate>Thu, 25 Dec 2025 11:57:53 +0000</pubDate>
-      <guid isPermaLink="true">https://abcnews.go.com/International/wireStory/son-former-bangladesh-prime-minister-returns-after-17-128690701</guid>
-      <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_18f3054e735e580d18c41fb04bf5156d_4x3_384.jpg" />
-      <media:content url="https://s.abcnews.com/images/International/wirestory_18f3054e735e580d18c41fb04bf5156d_4x3_384.jpg" medium="image" />
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_18f3054e735e580d18c41fb04bf5156d_4x3_384.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
