@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 21:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 22:20:16 +0000</lastBuildDate>
+    <item>
+      <title>First time in its history, Bangladesh to try postal ballots in 2026 election</title>
+      <link>https://www.thehindu.com/news/international/first-time-in-its-history-bangladesh-to-try-postal-ballots-in-2026-election/article70461338.ece</link>
+      <description>According to the Election Commission of Bangladesh, more than 1.2 million Bangladeshi citizens – both living at home and abroad – have registered already to cast votes through postal ballot system</description>
+      <pubDate>Thu, 01 Jan 2026 21:55:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/first-time-in-its-history-bangladesh-to-try-postal-ballots-in-2026-election/article70461338.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/la2yy4/article70461794.ece/alternates/LANDSCAPE_1200/Bangladesh_Elections_78229.jpg-3871c.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/la2yy4/article70461794.ece/alternates/LANDSCAPE_1200/Bangladesh_Elections_78229.jpg-3871c.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/la2yy4/article70461794.ece/alternates/LANDSCAPE_1200/Bangladesh_Elections_78229.jpg-3871c.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>India, Bangladesh begin talks on Ganges treaty</title>
       <link>https://timesofindia.indiatimes.com/world/south-asia/india-bangladesh-begin-talks-on-ganges-treaty/articleshow/126293965.cms</link>
@@ -5657,16 +5667,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <media:thumbnail url="https://media.newindianexpress.com/newindianexpress/2025-12-25/6ejw73hl/AP12252025000195A.jpg" />
       <media:content url="https://media.newindianexpress.com/newindianexpress/2025-12-25/6ejw73hl/AP12252025000195A.jpg" medium="image" />
       <enclosure url="https://media.newindianexpress.com/newindianexpress/2025-12-25/6ejw73hl/AP12252025000195A.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>In Tarique Rahman&apos;s &apos;I Have A Plan&apos; Speech, An Ode To Martin Luther King</title>
-      <link>https://www.ndtv.com/world-news/in-tarique-rahmans-i-have-a-plan-speech-an-ode-to-martin-luther-king-9956315#publisher=newsstand</link>
-      <description>Tarique Rahman, who is also the son of Ziaur Rahman and Khaleda Zia, returned to Bangladesh</description>
-      <pubDate>Thu, 25 Dec 2025 12:47:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/in-tarique-rahmans-i-have-a-plan-speech-an-ode-to-martin-luther-king-9956315#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/b4jate84_tarique-rahman-afp_625x300_25_December_25.jpeg" />
-      <media:content url="https://c.ndtvimg.com/2025-12/b4jate84_tarique-rahman-afp_625x300_25_December_25.jpeg" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/b4jate84_tarique-rahman-afp_625x300_25_December_25.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
