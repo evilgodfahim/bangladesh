@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 16:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 17:24:52 +0000</lastBuildDate>
+    <item>
+      <title>Actor Shah Rukh Khan buying Bangladeshi cricketer sparks controversy</title>
+      <link>https://www.thehindu.com/sport/cricket/actor-shah-rukh-khan-buying-bangladeshi-cricketer-sparks-controversy/article70465201.ece</link>
+      <description></description>
+      <pubDate>Fri, 02 Jan 2026 16:57:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/sport/cricket/actor-shah-rukh-khan-buying-bangladeshi-cricketer-sparks-controversy/article70465201.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/muk7op/article70179005.ece/alternates/LANDSCAPE_1200/Actor%20Shah%20Rukh%20Khan.jpeg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/muk7op/article70179005.ece/alternates/LANDSCAPE_1200/Actor%20Shah%20Rukh%20Khan.jpeg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/muk7op/article70179005.ece/alternates/LANDSCAPE_1200/Actor%20Shah%20Rukh%20Khan.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Entities in Bangladesh, Bhutan, Nepal can directly buy coal from CIL</title>
       <link>https://www.thehindu.com/business/entities-in-bangladesh-bhutan-nepal-can-directly-buy-coal-from-cil/article70465179.ece</link>
@@ -5705,16 +5715,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/4gd92ras_sheikh-hasina-afp_625x300_25_December_25.jpeg" />
       <media:content url="https://c.ndtvimg.com/2025-12/4gd92ras_sheikh-hasina-afp_625x300_25_December_25.jpeg" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/4gd92ras_sheikh-hasina-afp_625x300_25_December_25.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Another Hindu Man Lynched In Bangladesh, Police Claim Extortion Bid: Report</title>
-      <link>https://www.ndtv.com/world-news/another-hindu-man-beaten-to-death-in-bangladesh-days-after-dipu-dass-lynching-local-reports-9957567#publisher=newsstand</link>
-      <description>The 29-year-old&apos;s killing comes at a time when the atmosphere in Bangladesh is already charged.</description>
-      <pubDate>Thu, 25 Dec 2025 17:02:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/another-hindu-man-beaten-to-death-in-bangladesh-days-after-dipu-dass-lynching-local-reports-9957567#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/mt708bak_bangladesh-man-lynched_625x300_25_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-12/mt708bak_bangladesh-man-lynched_625x300_25_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/mt708bak_bangladesh-man-lynched_625x300_25_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
