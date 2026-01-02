@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 07:25:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 08:25:14 +0000</lastBuildDate>
+    <item>
+      <title>UP Man Scanned With Phone In Viral Video, Family Recounts What Cops Said</title>
+      <link>https://www.ndtv.com/india-news/cops-said-phone-can-detect-bangladeshis-familys-claim-on-viral-up-video-10193065#publisher=newsstand</link>
+      <description>The video showed a police official holding a mobile phone close to the back of a person</description>
+      <pubDate>Fri, 02 Jan 2026 07:07:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/india-news/cops-said-phone-can-detect-bangladeshis-familys-claim-on-viral-up-video-10193065#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/0kltc8i_ghaziabad-cops-video_625x300_02_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2026-01/0kltc8i_ghaziabad-cops-video_625x300_02_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/0kltc8i_ghaziabad-cops-video_625x300_02_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
     <item>
       <title>Under attack from extremists, Bangladesh’s cultural activists fight back with music</title>
       <link>https://www.straitstimes.com/asia/south-asia/under-attack-from-extremists-bangladeshs-cultural-activists-fight-back-with-music</link>
@@ -5666,13 +5676,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <description></description>
       <pubDate>Thu, 25 Dec 2025 13:27:09 +0000</pubDate>
       <guid isPermaLink="true">https://english.news.cn/20251225/21af13b1e9ce4d7d96f0658e6de7ddc8/c.html</guid>
-    </item>
-    <item>
-      <title>A Top Candidate for Prime Minister Returns to Bangladesh After 17 Years in Exile</title>
-      <link>https://archive.is/o/EWuvH/https://www.nytimes.com/2025/12/25/world/asia/bangladesh-tarique-rahman-return-exile.html</link>
-      <description>Tarique Rahman, who had managed his party’s political affairs from Britain, is back in his country to campaign in elections.</description>
-      <pubDate>Thu, 25 Dec 2025 13:18:44 +0000</pubDate>
-      <guid isPermaLink="true">https://archive.is/o/EWuvH/https://www.nytimes.com/2025/12/25/world/asia/bangladesh-tarique-rahman-return-exile.html</guid>
     </item>
   </channel>
 </rss>
