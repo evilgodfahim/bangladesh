@@ -5,11 +5,11 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 10:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 11:22:05 +0000</lastBuildDate>
     <item>
       <title>India’s Bangladesh policy must prioritise strategic restraint, diversified diplomacy</title>
       <link>https://www.firstpost.com/opinion/india-bangladesh-strategic-restraint-siliguri-corridor-13964841.html</link>
-      <description>The coming months are critical for India to recalibrate its Bangladesh policy, emphasising engagement with moderate political actors and addressing security concerns to avert a deeper strategic setback</description>
+      <description></description>
       <pubDate>Fri, 02 Jan 2026 10:14:01 +0000</pubDate>
       <guid isPermaLink="true">https://www.firstpost.com/opinion/india-bangladesh-strategic-restraint-siliguri-corridor-13964841.html</guid>
     </item>
@@ -23,6 +23,16 @@
       <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-01-02/l_642803_024146_updates.jpg" />
       <media:content url="https://www.geo.tv/assets/uploads/updates/2026-01-02/l_642803_024146_updates.jpg" medium="image" />
       <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-01-02/l_642803_024146_updates.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Opinion: Opinion | &apos;Hijab&apos; Policing, Work Diktats: How &apos;New&apos; Bangladesh Is Failing Its Women</title>
+      <link>https://www.ndtv.com/opinion/hijab-policing-diktats-against-work-how-new-bangladesh-is-failing-its-women-10197244#publisher=newsstand</link>
+      <description>From being targeted over &apos;dress codes&apos; to resistance to women&apos;s work, Bangladesh&apos;s political reset has opened the door to forces openly hostile to women.</description>
+      <pubDate>Fri, 02 Jan 2026 09:53:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/opinion/hijab-policing-diktats-against-work-how-new-bangladesh-is-failing-its-women-10197244#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2024-08/8c86snag_bangladesh-protests-afp-_625x300_04_August_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2024-08/8c86snag_bangladesh-protests-afp-_625x300_04_August_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2024-08/8c86snag_bangladesh-protests-afp-_625x300_04_August_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
     <item>
       <title>UP Man Scanned With Phone In Viral Video, Family Recounts What Cops Said</title>
@@ -5667,16 +5677,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <media:thumbnail url="https://media.newindianexpress.com/newindianexpress/2025-12-21/rjltpqgs/202512213614535.jpg" />
       <media:content url="https://media.newindianexpress.com/newindianexpress/2025-12-21/rjltpqgs/202512213614535.jpg" medium="image" />
       <enclosure url="https://media.newindianexpress.com/newindianexpress/2025-12-21/rjltpqgs/202512213614535.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hindu man beaten to death by mob in Bangladesh&apos;s Rajbari over extortion claims</title>
-      <link>https://www.hindustantimes.com/world-news/hindu-man-beaten-to-death-by-mob-in-bangladeshs-rajbari-over-extortion-claims-101766668073932.html</link>
-      <description>The victim, Amrit Mondal, was beaten to death at Hosendanga village in Rajbari&apos;s Pangsha on Wednesday, The Daily Star reported.</description>
-      <pubDate>Thu, 25 Dec 2025 13:35:06 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/hindu-man-beaten-to-death-by-mob-in-bangladeshs-rajbari-over-extortion-claims-101766668073932.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/ANI-20251117012-0_1766669610727_1766669632756.jpg" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/ANI-20251117012-0_1766669610727_1766669632756.jpg" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/ANI-20251117012-0_1766669610727_1766669632756.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
