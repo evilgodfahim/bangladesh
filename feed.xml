@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 13:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 14:24:36 +0000</lastBuildDate>
+    <item>
+      <title>Top news of the day: Trump says President Nicolas Maduro ‘captured and flown out’ of Venezuela; Hindu businessman dies three days after attack in Bangladesh, and more</title>
+      <link>https://www.thehindu.com/news/top-news-of-the-day-january-3-2026/article70467857.ece</link>
+      <description>The major news headlines of the day and more.</description>
+      <pubDate>Sat, 03 Jan 2026 14:08:19 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/top-news-of-the-day-january-3-2026/article70467857.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/2ovdz8/article70468048.ece/alternates/LANDSCAPE_1200/2026-01-03T135341Z_1401585749_RC2OTIANQJSM_RTRMADP_3_USA-VENEZUELA-EXPLOSIONS.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/2ovdz8/article70468048.ece/alternates/LANDSCAPE_1200/2026-01-03T135341Z_1401585749_RC2OTIANQJSM_RTRMADP_3_USA-VENEZUELA-EXPLOSIONS.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/2ovdz8/article70468048.ece/alternates/LANDSCAPE_1200/2026-01-03T135341Z_1401585749_RC2OTIANQJSM_RTRMADP_3_USA-VENEZUELA-EXPLOSIONS.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh: How Yunus regime’s mobocracy has weaponised the persecution of minorities</title>
       <link>https://www.firstpost.com/opinion/bangladesh-how-yunus-regimes-mobocracy-has-weaponised-the-persecution-of-minorities-13965159.html</link>
@@ -5647,13 +5657,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <description></description>
       <pubDate>Fri, 26 Dec 2025 06:55:58 +0000</pubDate>
       <guid isPermaLink="true">https://english.news.cn/20251226/c925a1f977444c1b9feaa42952633e71/c.html</guid>
-    </item>
-    <item>
-      <title>Extortion claim turns fatal: Hindu man, Amrit Mondal, beaten to death in Bangladesh</title>
-      <link>https://economictimes.indiatimes.com/news/international/world-news/extortion-claim-turns-fatal-hindu-man-amrit-mondal-beaten-to-death-in-bangladesh/videoshow/126184881.cms</link>
-      <description></description>
-      <pubDate>Fri, 26 Dec 2025 06:39:29 +0000</pubDate>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/world-news/extortion-claim-turns-fatal-hindu-man-amrit-mondal-beaten-to-death-in-bangladesh/videoshow/126184881.cms</guid>
     </item>
   </channel>
 </rss>
