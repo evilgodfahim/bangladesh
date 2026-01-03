@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 14:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 15:19:14 +0000</lastBuildDate>
     <item>
       <title>Top news of the day: Trump says President Nicolas Maduro ‘captured and flown out’ of Venezuela; Hindu businessman dies three days after attack in Bangladesh, and more</title>
       <link>https://www.thehindu.com/news/top-news-of-the-day-january-3-2026/article70467857.ece</link>
@@ -15,6 +15,16 @@
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/2ovdz8/article70468048.ece/alternates/LANDSCAPE_1200/2026-01-03T135341Z_1401585749_RC2OTIANQJSM_RTRMADP_3_USA-VENEZUELA-EXPLOSIONS.JPG" />
       <media:content url="https://th-i.thgim.com/public/incoming/2ovdz8/article70468048.ece/alternates/LANDSCAPE_1200/2026-01-03T135341Z_1401585749_RC2OTIANQJSM_RTRMADP_3_USA-VENEZUELA-EXPLOSIONS.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/2ovdz8/article70468048.ece/alternates/LANDSCAPE_1200/2026-01-03T135341Z_1401585749_RC2OTIANQJSM_RTRMADP_3_USA-VENEZUELA-EXPLOSIONS.JPG" type="image/jpeg" />
+    </item>
+    <item>
+      <title>T20 WC: Will Bangladesh be allowed to play in India? BCCI breaks silence</title>
+      <link>https://timesofindia.indiatimes.com/sports/cricket/news/will-bangladesh-be-allowed-to-play-in-india-during-t20-world-cup-2026-bcci-chief-breaks-silence/articleshow/126323124.cms</link>
+      <description>The BCCI has asked Kolkata Knight Riders to release Bangladesh pacer Mustafizur Rahman from IPL 2026, a decision limited only to the tournament. Indian cricket board chief Mithun Manhas confirmed no decision has been taken yet on Bangladesh’s matches in the 2026 T20 World Cup in India. The move follows criticism and concerns linked to recent developments in Bangladesh.</description>
+      <pubDate>Sat, 03 Jan 2026 13:54:29 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/news/will-bangladesh-be-allowed-to-play-in-india-during-t20-world-cup-2026-bcci-chief-breaks-silence/articleshow/126323124.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126323295,imgsize-64396.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126323295,imgsize-64396.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126323295,imgsize-64396.cms" type="image/jpeg" />
     </item>
     <item>
       <title>Bangladesh: How Yunus regime’s mobocracy has weaponised the persecution of minorities</title>
@@ -5650,13 +5660,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <description></description>
       <pubDate>Fri, 26 Dec 2025 06:56:02 +0000</pubDate>
       <guid isPermaLink="true">https://www.tbsnews.net/bangladesh/environment/7-quiet-wins-climate-and-nature-2025-1319321</guid>
-    </item>
-    <item>
-      <title>4 dead as ferries collide amid dense fog on Bangladeshi river</title>
-      <link>https://english.news.cn/20251226/c925a1f977444c1b9feaa42952633e71/c.html</link>
-      <description></description>
-      <pubDate>Fri, 26 Dec 2025 06:55:58 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20251226/c925a1f977444c1b9feaa42952633e71/c.html</guid>
     </item>
   </channel>
 </rss>
