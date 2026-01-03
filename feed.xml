@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jan 2026 18:24:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 19:43:41 +0000</lastBuildDate>
+    <item>
+      <title>Hindus &apos;living in fear&apos; after man&apos;s public lynching for alleged blasphemy</title>
+      <link>https://www.abc.net.au/news/2026-01-04/bangladeshi-hindu-minority-fearful-after-lynching-of-worker/106192790</link>
+      <description>Four Hindu men have been killed in Muslim-majority Bangladesh in just over two weeks, and several houses have been burned, leaving the minority community traumatised and fearing for their lives.</description>
+      <pubDate>Sat, 03 Jan 2026 19:17:38 +0000</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-01-04/bangladeshi-hindu-minority-fearful-after-lynching-of-worker/106192790</guid>
+      <media:thumbnail url="https://live-production.wcms.abc-cdn.net.au/9b61a5bfc2b4c572fe2ecda85ed7857c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=165&amp;width=862&amp;height=485" />
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/9b61a5bfc2b4c572fe2ecda85ed7857c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=165&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/9b61a5bfc2b4c572fe2ecda85ed7857c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=165&amp;width=862&amp;height=485" type="image/jpeg" />
+    </item>
     <item>
       <title>Security heightened along Bangladesh border in Tripura</title>
       <link>https://www.thehindu.com/news/national/tripura/security-heightened-along-bangladesh-border-in-tripura/article70468248.ece</link>
@@ -5660,16 +5670,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <description></description>
       <pubDate>Fri, 26 Dec 2025 08:18:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.firstpost.com/explainers/jebu-rahmans-siberian-cat-who-stole-the-spotlight-after-arriving-in-bangladesh-13962995.html</guid>
-    </item>
-    <item>
-      <title>Watch: Hindu group protests in Dhaka; demand action over minority lynchings in Bangladesh</title>
-      <link>https://timesofindia.indiatimes.com/world/south-asia/watch-hindu-group-protests-in-dhaka-demand-action-over-minority-lynchings-in-bangladesh/articleshow/126185989.cms</link>
-      <description></description>
-      <pubDate>Fri, 26 Dec 2025 08:06:38 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/watch-hindu-group-protests-in-dhaka-demand-action-over-minority-lynchings-in-bangladesh/articleshow/126185989.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126185973,imgsize-992012.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126185973,imgsize-992012.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126185973,imgsize-992012.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
