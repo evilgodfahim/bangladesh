@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 2026 04:49:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 05:33:36 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh seeking to move T20 World Cup matches from India: report</title>
+      <link>https://www.channelnewsasia.com/sport/bangladesh-seeking-move-t20-world-cup-matches-india-report-5788626</link>
+      <description></description>
+      <pubDate>Sun, 04 Jan 2026 05:18:58 +0000</pubDate>
+      <guid isPermaLink="true">https://www.channelnewsasia.com/sport/bangladesh-seeking-move-t20-world-cup-matches-india-report-5788626</guid>
+    </item>
     <item>
       <title>Will deport Bangladeshi infiltrators, ensure Marathi-Hindu mayor in Mumbai: Fadnavis</title>
       <link>https://www.thehindu.com/news/national/maharashtra/will-deport-bangladeshi-infiltrators-ensure-marathi-hindu-mayor-in-mumbai-fadnavis/article70470021.ece</link>
@@ -5669,16 +5676,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/tmod0cp8_dhaka-university-protest_625x300_26_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-12/tmod0cp8_dhaka-university-protest_625x300_26_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/tmod0cp8_dhaka-university-protest_625x300_26_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&apos;Unremitting hostility&apos;: India raps B&apos;desh over lynching of 2nd Hindu man; warns Yunus govt</title>
-      <link>https://timesofindia.indiatimes.com/india/cannot-be-brushed-aside-india-responds-to-attacks-on-minorities-in-bangladesh-issues-strong-warning-to-yunus-govt/articleshow/126188916.cms</link>
-      <description>India&apos;s Ministry of External Affairs has strongly condemned the recent violence against minorities in Bangladesh, including the killing of a Hindu man. The MEA stated that over 2,900 incidents against minorities have been documented, dismissing claims of media exaggeration or political violence.</description>
-      <pubDate>Fri, 26 Dec 2025 10:58:26 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/cannot-be-brushed-aside-india-responds-to-attacks-on-minorities-in-bangladesh-issues-strong-warning-to-yunus-govt/articleshow/126188916.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126189036,imgsize-1422080.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126189036,imgsize-1422080.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126189036,imgsize-1422080.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
