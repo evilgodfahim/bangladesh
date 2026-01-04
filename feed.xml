@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jan 2026 18:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 19:17:48 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh&apos;s BNP Thanks PM Modi For Condoling Khaleda Zia&apos;s Death</title>
+      <link>https://www.ndtv.com/world-news/bangladeshs-bnp-thanks-pm-modi-for-condoling-khaleda-zias-death-10287033#publisher=newsstand</link>
+      <description>Bangladesh Nationalist Party (BNP) appreciated Prime Minister Narendra Modi&apos;s condolence message on former prime minister Khaleda Zia&apos;s demise while recalling her contribution to India-Bangladesh ties.</description>
+      <pubDate>Sun, 04 Jan 2026 18:22:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladeshs-bnp-thanks-pm-modi-for-condoling-khaleda-zias-death-10287033#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/0m2lcbjc_modi_625x300_04_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2026-01/0m2lcbjc_modi_625x300_04_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/0m2lcbjc_modi_625x300_04_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
     <item>
       <title>Shiv Sena (UBT) leader says he got death threats after opposing Bangladeshi cricketer in IPL</title>
       <link>https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-leader-says-he-got-death-threats-after-opposing-bangladeshi-cricketer-in-ipl/article70471485.ece</link>
@@ -5754,13 +5764,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <media:thumbnail url="https://img.etimg.com/photo/msid-126199785,imgsize-134604.cms" />
       <media:content url="https://img.etimg.com/photo/msid-126199785,imgsize-134604.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-126199785,imgsize-134604.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>20 injured as mob attack forces cancellation of James’ concert in Bangladesh</title>
-      <link>https://www.thehindu.com/news/international/james-concert-cancelled-after-attack-in-bangladeshs-faridpur/article70442506.ece</link>
-      <description>Just before James was to take the stage, a group of outsiders attempted to force their way into the venue. When they were denied entry, they began pelting bricks and stones and tried to seize control of the stage.</description>
-      <pubDate>Sat, 27 Dec 2025 04:19:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/james-concert-cancelled-after-attack-in-bangladeshs-faridpur/article70442506.ece</guid>
     </item>
   </channel>
 </rss>
