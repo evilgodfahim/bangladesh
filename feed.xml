@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 18:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 19:25:05 +0000</lastBuildDate>
     <item>
       <title>Bangladesh court sets January 21 for charge framing in sedition case against Hasina</title>
       <link>https://www.thehindu.com/news/international/bangladesh-court-sets-january-21-for-charge-framing-in-sedition-case-against-hasina/article70475149.ece</link>
@@ -15,6 +15,16 @@
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/sk96l4/article70475679.ece/alternates/LANDSCAPE_1200/Bangladesh_Protests_58891.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/sk96l4/article70475679.ece/alternates/LANDSCAPE_1200/Bangladesh_Protests_58891.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/sk96l4/article70475679.ece/alternates/LANDSCAPE_1200/Bangladesh_Protests_58891.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh Reaping What Political Leaders Have Been Sowing: Taslima Nasreen</title>
+      <link>https://www.ndtv.com/world-news/bangladesh-reaping-what-political-leaders-have-been-sowing-taslima-nasreen-10356959#publisher=newsstand</link>
+      <description>Bangladesh&apos;s exiled author Taslima Nasreen finds the current situation in her country of birth worsening through time, even compared to the day she was forced to leave over three decades ago.</description>
+      <pubDate>Mon, 05 Jan 2026 17:59:45 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-reaping-what-political-leaders-have-been-sowing-taslima-nasreen-10356959#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2025-12/igqm355_taslima-nasreen_625x300_20_December_25.jpeg" />
+      <media:content url="https://c.ndtvimg.com/2025-12/igqm355_taslima-nasreen_625x300_20_December_25.jpeg" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2025-12/igqm355_taslima-nasreen_625x300_20_December_25.jpeg" type="image/jpeg" />
     </item>
     <item>
       <title>B&apos;desh crisis: Hindu scribe shot in head, throat slit; latest in spate of minority attacks</title>
@@ -5900,16 +5910,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/t1af2eok_dipu-das-hindu-man-lynched-in-bangladesh_625x300_20_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-12/t1af2eok_dipu-das-hindu-man-lynched-in-bangladesh_625x300_20_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/t1af2eok_dipu-das-hindu-man-lynched-in-bangladesh_625x300_20_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Editors Council accuses section in Bangladesh&apos;s interim government of allowing violence</title>
-      <link>https://www.thehindu.com/news/national/editors-council-accuses-section-in-bangladeshs-interim-government-of-allowing-violence/article70445659.ece</link>
-      <description>“We clearly know an announcement came to demolish the Prothom Alo, Daily Star, and the Chhyanat one or two days before the attacks. The people of the country know, and the government, as well, knows who gave the announcement,” says Editors Council President Nurul Kabir</description>
-      <pubDate>Sun, 28 Dec 2025 06:54:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/editors-council-accuses-section-in-bangladeshs-interim-government-of-allowing-violence/article70445659.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/news/national/wmdoar/article70445733.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-12-28%20at%2012.10.20%20PM.jpeg" />
-      <media:content url="https://th-i.thgim.com/public/news/national/wmdoar/article70445733.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-12-28%20at%2012.10.20%20PM.jpeg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/news/national/wmdoar/article70445733.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-12-28%20at%2012.10.20%20PM.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
