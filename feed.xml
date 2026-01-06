@@ -5,7 +5,21 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jan 2026 07:27:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:29:24 +0000</lastBuildDate>
+    <item>
+      <title>Another Hindu man killed in Bangladesh</title>
+      <link>https://www.thehindu.com/news/international/hindu-man-killed-in-bangladesh-violence-death-toll/article70477129.ece</link>
+      <description>Moni Chakraborty was attacked and killed at Charsindhur Bazar in Palash Upazila around 11 p.m. on Monday (January 6, 2026), local media reported</description>
+      <pubDate>Tue, 06 Jan 2026 07:58:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/hindu-man-killed-in-bangladesh-violence-death-toll/article70477129.ece</guid>
+    </item>
+    <item>
+      <title>‘New phase’: India eyes Bangladesh thaw with BNP before elections</title>
+      <link>https://www.aljazeera.com/features/2026/1/6/new-phase-india-eyes-bangladesh-thaw-with-bnp-before-elections?traffic_source=rss</link>
+      <description></description>
+      <pubDate>Tue, 06 Jan 2026 07:03:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/features/2026/1/6/new-phase-india-eyes-bangladesh-thaw-with-bnp-before-elections?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Rs 9.20 cr at stake? Mustafizur set to walk away empty-handed after KKR release</title>
       <link>https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rs-9-20-crore-at-stake-mustafizur-rahman-set-to-walk-away-empty-handed-after-kkr-release/articleshow/126368219.cms</link>
@@ -59,6 +73,16 @@
       <media:thumbnail url="https://static01.nyt.com/images/2026/01/05/multimedia/00int-bangladesh-rohingya-fmtv/00int-bangladesh-rohingya-fmtv-mediumSquareAt3X.jpg" />
       <media:content url="https://static01.nyt.com/images/2026/01/05/multimedia/00int-bangladesh-rohingya-fmtv/00int-bangladesh-rohingya-fmtv-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/01/05/multimedia/00int-bangladesh-rohingya-fmtv/00int-bangladesh-rohingya-fmtv-mediumSquareAt3X.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Landmines destroy limbs and lives on Bangladesh-Myanmar border</title>
+      <link>https://www.japantimes.co.jp/news/2026/01/06/asia-pacific/landmines-bangladesh-myanmar-border/</link>
+      <description>In the dense hill forests along Bangladesh’s border with war-torn Myanmar, villagers are losing limbs to landmines, casualties of a conflict not of their making.</description>
+      <pubDate>Tue, 06 Jan 2026 04:52:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.japantimes.co.jp/news/2026/01/06/asia-pacific/landmines-bangladesh-myanmar-border/</guid>
+      <media:thumbnail url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/06/515495.jpg" />
+      <media:content url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/06/515495.jpg" medium="image" />
+      <enclosure url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/06/515495.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Trump’s overplayed hand</title>
@@ -115,7 +139,7 @@
       <enclosure url="https://i.dawn.com/large/2026/01/06083542f1aee65.webp" type="image/jpeg" />
     </item>
     <item>
-      <title>Another Hindu man killed in Bangladesh, second such incident in 24 hours: Reports</title>
+      <title>Another Hindu man killed in Bangladesh, second such incident in 24 hours</title>
       <link>https://www.hindustantimes.com/world-news/another-hindu-man-sarat-chakraborty-mani-killed-in-bangladesh-second-such-incident-within-24-hours-101767669369592.html</link>
       <description>A prominent social activist claimed that extremist Islamists had demanded a large sum of money from Sarat Chakraborty two days before the incident.&amp;nbsp;</description>
       <pubDate>Tue, 06 Jan 2026 03:29:03 +0000</pubDate>
@@ -125,7 +149,7 @@
       <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/01/06/1600x900/logo/another_hindu_killed_bangladesh_1767669702622_1767669702741.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>Another Hindu man killed in Bangladesh, second such incident in 24 hours</title>
+      <title>Another Hindu man killed in Bangladesh, second such incident in 24 hours: Reports</title>
       <link>https://www.hindustantimes.com/world-news/another-hindu-man-sarat-chakraborty-mani-killed-in-bangladesh-second-such-incident-within-24-hours-101767669369592.html</link>
       <description>A prominent social activist claimed that extremist Islamists had demanded a large sum of money from Sarat Chakraborty two days before the incident.&amp;nbsp;</description>
       <pubDate>Tue, 06 Jan 2026 03:29:03 +0000</pubDate>
@@ -5885,33 +5909,6 @@ Analysts say his return after 17 years in exile could consolidate the BNP’s po
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126215560,imgsize-1916024.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126215560,imgsize-1916024.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126215560,imgsize-1916024.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hadi murder: Police rejects B&apos;desh&apos;s claims of suspects entering India; calls allegations &apos;misleading&apos;</title>
-      <link>https://timesofindia.indiatimes.com/india/osman-hadi-murder-meghalaya-security-agencies-reject-bangladeshs-claims-of-suspects-entering-india-call-allegations-misleading/articleshow/126215525.cms</link>
-      <description>Meghalaya security agencies have refuted claims by Bangladesh Police that killers of student leader Sharif Osman Hadi entered India. Officials stated there is no evidence of any individual crossing the border from the Haluaghat sector into Meghalaya, with the BSF maintaining high alert and constant surveillance.</description>
-      <pubDate>Sun, 28 Dec 2025 12:46:24 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/osman-hadi-murder-meghalaya-security-agencies-reject-bangladeshs-claims-of-suspects-entering-india-call-allegations-misleading/articleshow/126215525.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126215560,imgsize-1916024.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126215560,imgsize-1916024.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126215560,imgsize-1916024.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Clash erupts between Sikh activists and BJP supporters in London</title>
-      <link>https://dailytimes.com.pk/1425498/clash-erupts-between-sikh-activists-and-bjp-supporters-in-london/</link>
-      <description>Tensions escalated outside the Bangladesh Embassy in London as Pro-Khalistan Sikh activists and British Indian Hindu groups aligned with India’s BJP confronted each other during a protest over alleged killings in Bangladesh. The demonstration, initially aimed at supporting minority communities, saw Khalistani flags raised and anti-India slogans chanted by Sikh activists, prompting a tense standoff [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Dec 2025 12:36:42 +0000</pubDate>
-      <guid isPermaLink="true">https://dailytimes.com.pk/1425498/clash-erupts-between-sikh-activists-and-bjp-supporters-in-london/</guid>
-    </item>
-    <item>
-      <title>Top news of the day: Two suspects in Sharif Osman Hadi murder case fled to India, say Bangladesh police; ECI halts hearings for ‘unmapped’ electors in Bengal, and more</title>
-      <link>https://www.thehindu.com/news/top-news-of-the-day-december-28-2025/article70446231.ece</link>
-      <description>The major news headlines of the day and more</description>
-      <pubDate>Sun, 28 Dec 2025 12:35:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/top-news-of-the-day-december-28-2025/article70446231.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/hxzf6k/article70445949.ece/alternates/LANDSCAPE_1200/20251220088L.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/hxzf6k/article70445949.ece/alternates/LANDSCAPE_1200/20251220088L.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/hxzf6k/article70445949.ece/alternates/LANDSCAPE_1200/20251220088L.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
