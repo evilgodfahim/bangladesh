@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 09:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 10:25:55 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh to ‘work with ICC’ on T20 World Cup security concerns in India</title>
+      <link>https://www.aljazeera.com/sports/2026/1/7/bangladesh-to-work-with-icc-on-t20-world-cup-security-concerns-in-india?traffic_source=rss</link>
+      <description>BCB refutes reports saying ICC had issued an ultimatum over Bangladesh&amp;#039;s refusal to play its World Cup games in India.</description>
+      <pubDate>Wed, 07 Jan 2026 09:05:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/1/7/bangladesh-to-work-with-icc-on-t20-world-cup-security-concerns-in-india?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Bangladesh board says ICC considering request to move their World Cup games from India</title>
       <link>https://www.channelnewsasia.com/sport/bangladesh-board-says-icc-considering-request-move-their-world-cup-games-india-5836241</link>
@@ -265,6 +272,16 @@
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126381793,imgsize-703393.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126381793,imgsize-703393.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126381793,imgsize-703393.cms" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BCCI vs BCB: Cricket is collateral damage in a game of political expediency</title>
+      <link>https://www.thehindu.com/opinion/columns/cricket-is-collateral-damage-in-a-game-of-political-expediency/article70477819.ece</link>
+      <description>This Bangladesh issue has not been thought through at a time when India are trying to mend fences with their neighbours</description>
+      <pubDate>Tue, 06 Jan 2026 18:59:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/opinion/columns/cricket-is-collateral-damage-in-a-game-of-political-expediency/article70477819.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/hukaor/article70481245.ece/alternates/LANDSCAPE_1200/11908_6_10_2024_21_49_23_2_DSC_1488.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/hukaor/article70481245.ece/alternates/LANDSCAPE_1200/11908_6_10_2024_21_49_23_2_DSC_1488.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/hukaor/article70481245.ece/alternates/LANDSCAPE_1200/11908_6_10_2024_21_49_23_2_DSC_1488.JPG" type="image/jpeg" />
     </item>
     <item>
       <title>51 Attacks On Minorities In Bangladesh In December, Says Unity Council</title>
@@ -5742,23 +5759,6 @@ Zia’s Bangladesh Nationalist Party...</description>
       <description></description>
       <pubDate>Mon, 29 Dec 2025 12:14:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.firstpost.com/explainers/bangladesh-condoms-shortage-funds-manpower-contraceptives-family-planning-13963712.html</guid>
-    </item>
-    <item>
-      <title>Bangladesh Nationalist Party&apos;s Tarique Rahman&apos;s nomination papers filed</title>
-      <link>https://www.thehindu.com/news/international/bnps-tarique-rahmans-nomination-papers-filed/article70449333.ece</link>
-      <description>On December 28, Bangladesh’s Election Commission approved the inclusion of Mr. Rahman in the voter list weeks ahead of the polls.</description>
-      <pubDate>Mon, 29 Dec 2025 11:17:13 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/bnps-tarique-rahmans-nomination-papers-filed/article70449333.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/lzuz1m/article70449365.ece/alternates/LANDSCAPE_1200/PTI12_25_2025_000503B.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/lzuz1m/article70449365.ece/alternates/LANDSCAPE_1200/PTI12_25_2025_000503B.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/lzuz1m/article70449365.ece/alternates/LANDSCAPE_1200/PTI12_25_2025_000503B.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Direct Karachi–Dhaka flights to resume in January</title>
-      <link>https://dailytimes.com.pk/1426000/direct-karachi-dhaka-flights-to-resume-in-january/</link>
-      <description>Direct flights between Pakistan and Bangladesh will resume in January, officials confirmed. The Karachi–Dhaka route will reconnect the two countries after years of relying on connecting flights. The move reflects improved bilateral relations and growing trade, travel, and cultural exchanges. Pakistan’s High Commissioner to Bangladesh, Imran Haider, announced the development during a meeting with Bangladesh’s [&amp;#8230;]</description>
-      <pubDate>Mon, 29 Dec 2025 11:00:36 +0000</pubDate>
-      <guid isPermaLink="true">https://dailytimes.com.pk/1426000/direct-karachi-dhaka-flights-to-resume-in-january/</guid>
     </item>
   </channel>
 </rss>
