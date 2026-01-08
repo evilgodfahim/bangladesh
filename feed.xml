@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 21:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 22:23:05 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh imam who incited mob to lynch Dipu held</title>
+      <link>https://timesofindia.indiatimes.com/india/bangladesh-imam-who-incited-mob-to-lynch-dipu-held/articleshow/126422505.cms</link>
+      <description></description>
+      <pubDate>Thu, 08 Jan 2026 21:20:11 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/bangladesh-imam-who-incited-mob-to-lynch-dipu-held/articleshow/126422505.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126422506,imgsize-771526.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126422506,imgsize-771526.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126422506,imgsize-771526.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladeshi air chief calls on CNS, discusses regional security</title>
       <link>https://dailytimes.com.pk/1431899/bangladeshi-air-chief-calls-on-cns-discusses-regional-security/</link>
@@ -5637,16 +5647,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5i6efob8/AP25336141230767.jpg" />
       <media:content url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5i6efob8/AP25336141230767.jpg" medium="image" />
       <enclosure url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5i6efob8/AP25336141230767.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh Chief Adviser &quot;deeply saddened&quot; over death of ex-PM Khaleda Zia, calls her a guardian of democracy</title>
-      <link>https://economictimes.indiatimes.com/news/international/world-news/bangladesh-chief-adviser-deeply-saddened-over-death-of-ex-pm-khaleda-zia-calls-her-a-guardian-of-democracy/articleshow/126243913.cms</link>
-      <description>Chief Adviser of the interim government of Bangladesh, Muhammad Yunus, on Tuesday expressed his profound grief over the death of former Prime Minister and Bangladesh Nationalist Party (BNP) Chairperson Begum Khaleda Zia, describing her as a &quot;great guardian&quot; of the nation and a towering figure in Bangladesh&apos;s democratic history.</description>
-      <pubDate>Tue, 30 Dec 2025 04:27:04 +0000</pubDate>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/world-news/bangladesh-chief-adviser-deeply-saddened-over-death-of-ex-pm-khaleda-zia-calls-her-a-guardian-of-democracy/articleshow/126243913.cms</guid>
-      <media:thumbnail url="https://img.etimg.com/photo/msid-126243913,imgsize-126426.cms" />
-      <media:content url="https://img.etimg.com/photo/msid-126243913,imgsize-126426.cms" medium="image" />
-      <enclosure url="https://img.etimg.com/photo/msid-126243913,imgsize-126426.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
