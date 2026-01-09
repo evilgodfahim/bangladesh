@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 22:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 23:22:35 +0000</lastBuildDate>
     <item>
       <title>Don&apos;t be driven by emotion, think about future: Former skipper Tamim Iqbal on Bangladesh’s T20WC stance</title>
       <link>https://www.thehindu.com/sport/cricket/dont-be-driven-by-emotion-think-about-future-former-skipper-tamim-iqbal-on-bangladeshs-t20wc-stance/article70492660.ece</link>
@@ -214,6 +214,16 @@
       <media:thumbnail url="https://i.dawn.com/large/2026/01/0919155666fc87d.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/0919155666fc87d.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/0919155666fc87d.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Taliban diplomat to take charge of Afghan embassy in New Delhi</title>
+      <link>https://www.thehindu.com/news/national/for-the-first-time-taliban-appointed-diplomat-arrives-to-take-charge-of-afghan-embassy-in-india/article70491599.ece</link>
+      <description>Senior Taliban member Mufti Noor Ahmad Noor to take over as Charge d’Affaires; officials say old Afghan flag, staff to remain for now; he visited India in October 2025, Bangladesh in December</description>
+      <pubDate>Fri, 09 Jan 2026 15:59:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/for-the-first-time-taliban-appointed-diplomat-arrives-to-take-charge-of-afghan-embassy-in-india/article70491599.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/latest-news/oorkoi/article70492466.ece/alternates/LANDSCAPE_1200/noorahmad.jpg" />
+      <media:content url="https://th-i.thgim.com/public/latest-news/oorkoi/article70492466.ece/alternates/LANDSCAPE_1200/noorahmad.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/latest-news/oorkoi/article70492466.ece/alternates/LANDSCAPE_1200/noorahmad.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Taliban diplomat to take charge of Afghan embassy</title>
@@ -5833,16 +5843,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/ltsc6en_khaleda-zia_625x300_30_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-12/ltsc6en_khaleda-zia_625x300_30_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/ltsc6en_khaleda-zia_625x300_30_December_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies at 80</title>
-      <link>https://www.theepochtimes.com/world/khaleda-zia-bangladeshs-first-female-prime-minister-dies-at-80-post-5964098</link>
-      <description>Bangladesh Nationalist Party (BNP) Chairperson Begum Khaleda Zia waves to activists as she arrives for a rally in Dhaka, Bangladesh, on Jan. 20, 2014. (Andrew Biraj/Reuters)</description>
-      <pubDate>Tue, 30 Dec 2025 07:43:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theepochtimes.com/world/khaleda-zia-bangladeshs-first-female-prime-minister-dies-at-80-post-5964098</guid>
-      <media:thumbnail url="https://img.theepochtimes.com/assets/uploads/2025/12/30/id5964126-2025-12-30T014545Z_1_LYNXMPELBT02A_RTROPTP_4_BANGLADESH-OPPOSITION-1080x720.jpg" />
-      <media:content url="https://img.theepochtimes.com/assets/uploads/2025/12/30/id5964126-2025-12-30T014545Z_1_LYNXMPELBT02A_RTROPTP_4_BANGLADESH-OPPOSITION-1080x720.jpg" medium="image" />
-      <enclosure url="https://img.theepochtimes.com/assets/uploads/2025/12/30/id5964126-2025-12-30T014545Z_1_LYNXMPELBT02A_RTROPTP_4_BANGLADESH-OPPOSITION-1080x720.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
