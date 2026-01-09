@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 19:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 20:25:14 +0000</lastBuildDate>
     <item>
       <title>&quot;Unacceptable&quot;: UK MP On Killings Of Hindus In Bangladesh</title>
       <link>https://www.ndtv.com/world-news/unacceptable-uk-mp-on-killings-of-hindus-in-bangladesh-10572041#publisher=newsstand</link>
@@ -37,6 +37,16 @@
       <media:thumbnail url="https://i.dawn.com/large/2026/01/0919155666fc87d.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/0919155666fc87d.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/0919155666fc87d.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Taliban diplomat to take charge of Afghan embassy</title>
+      <link>https://www.thehindu.com/news/national/for-the-first-time-taliban-appointed-diplomat-arrives-to-take-charge-of-afghan-embassy-in-india/article70491599.ece</link>
+      <description>Senior Taliban member Mufti Noor Ahmad Noor to take over as Charge d’Affaires; officials say old Afghan flag, staff to remain for now; he visited India in October 2025, Bangladesh in December</description>
+      <pubDate>Fri, 09 Jan 2026 15:59:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/for-the-first-time-taliban-appointed-diplomat-arrives-to-take-charge-of-afghan-embassy-in-india/article70491599.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/latest-news/qce4ye/article70492466.ece/alternates/LANDSCAPE_1200/noorahmad.jpg" />
+      <media:content url="https://th-i.thgim.com/public/latest-news/qce4ye/article70492466.ece/alternates/LANDSCAPE_1200/noorahmad.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/latest-news/qce4ye/article70492466.ece/alternates/LANDSCAPE_1200/noorahmad.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>For the first time, Taliban-appointed diplomat arrives to take charge of Afghan embassy in India</title>
@@ -5689,16 +5699,6 @@ With the polls set to be the first since student-led protests toppled the govern
     </item>
     <item>
       <title>&apos;Treated as infiltrators&apos;: Adhir Ranjan meets PM; flags &apos;violence against migrant workers&apos;</title>
-      <link>https://timesofindia.indiatimes.com/india/treated-as-infiltrators-congress-adhir-ranjan-chowdhary-meets-pm-modi-flags-violence-against-migrant-workers/articleshow/126246634.cms</link>
-      <description>Prime Minister Modi met Congress leader Adhir Ranjan Chowdhury to discuss attacks on Bengali-speaking individuals in BJP-ruled states. Chowdhury highlighted administrative confusion between &quot;Banglabhasi&quot; and &quot;Bangladeshi&quot; people, leading to unjust detentions. This meeting precedes West Bengal&apos;s 2026 assembly elections, while Union Minister Amit Shah is also in the state reviewing BJP&apos;s poll preparedness.</description>
-      <pubDate>Tue, 30 Dec 2025 07:02:59 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/treated-as-infiltrators-congress-adhir-ranjan-chowdhary-meets-pm-modi-flags-violence-against-migrant-workers/articleshow/126246634.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126246668,imgsize-919285.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126246668,imgsize-919285.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126246668,imgsize-919285.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&apos;Treated as infiltrators&apos;: Congress&apos; Adhir Ranjan Chowdhary meets PM Modi; flags &apos;violence against migrant workers&apos;</title>
       <link>https://timesofindia.indiatimes.com/india/treated-as-infiltrators-congress-adhir-ranjan-chowdhary-meets-pm-modi-flags-violence-against-migrant-workers/articleshow/126246634.cms</link>
       <description>Prime Minister Modi met Congress leader Adhir Ranjan Chowdhury to discuss attacks on Bengali-speaking individuals in BJP-ruled states. Chowdhury highlighted administrative confusion between &quot;Banglabhasi&quot; and &quot;Bangladeshi&quot; people, leading to unjust detentions. This meeting precedes West Bengal&apos;s 2026 assembly elections, while Union Minister Amit Shah is also in the state reviewing BJP&apos;s poll preparedness.</description>
       <pubDate>Tue, 30 Dec 2025 07:02:59 +0000</pubDate>
