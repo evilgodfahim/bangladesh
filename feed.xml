@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jan 2026 08:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 09:36:54 +0000</lastBuildDate>
+    <item>
+      <title>Mustafizur row: Sponsors pull back, futures clouded — B&apos;desh cricketers in limbo</title>
+      <link>https://timesofindia.indiatimes.com/sports/cricket/news/sponsors-pull-back-futures-clouded-bangladesh-cricketers-caught-in-india-standoff-after-mustafizur-rahman-row/articleshow/126431175.cms</link>
+      <description>Bangladesh cricket faces uncertainty as Indian sponsorship deals for players like Litton Das are at risk following the Mustafizur Rahman controversy. The Bangladesh Cricket Board has requested the International Cricket Council shift T20 World Cup matches from India to Sri Lanka due to security concerns, impacting players and coaching staff.</description>
+      <pubDate>Fri, 09 Jan 2026 08:30:57 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/news/sponsors-pull-back-futures-clouded-bangladesh-cricketers-caught-in-india-standoff-after-mustafizur-rahman-row/articleshow/126431175.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126431204,imgsize-205230.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126431204,imgsize-205230.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126431204,imgsize-205230.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh closes visa sections at 3 Indian missions over security</title>
       <link>https://dailytimes.com.pk/1432150/bangladesh-closes-visa-sections-at-3-indian-missions-over-security/</link>
@@ -5665,16 +5675,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2025/12/30/1600x900/logo/PEOPLE-KHALEDA-ZIA--3_1767073876136_1767073887515.JPG" />
       <media:content url="https://www.hindustantimes.com/ht-img/img/2025/12/30/1600x900/logo/PEOPLE-KHALEDA-ZIA--3_1767073876136_1767073887515.JPG" medium="image" />
       <enclosure url="https://www.hindustantimes.com/ht-img/img/2025/12/30/1600x900/logo/PEOPLE-KHALEDA-ZIA--3_1767073876136_1767073887515.JPG" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Khaleda Zia: Slain leader&apos;s widow who went on to lead Bangladesh</title>
-      <link>https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>The country&apos;s first female prime minister governed in periods of violent unrest and economic hardship.</description>
-      <pubDate>Tue, 30 Dec 2025 06:12:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c1479kved95o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2b8/live/fba7ce90-e548-11f0-b627-ab7e40138496.jpg" />
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2b8/live/fba7ce90-e548-11f0-b627-ab7e40138496.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2b8/live/fba7ce90-e548-11f0-b627-ab7e40138496.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
