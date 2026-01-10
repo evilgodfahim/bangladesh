@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 05:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 06:28:36 +0000</lastBuildDate>
+    <item>
+      <title>Why US city named a street after Bangladesh’s Khaleda Zia</title>
+      <link>https://www.firstpost.com/explainers/us-city-hamtramck-named-a-street-khaleda-zia-13967155.html</link>
+      <description></description>
+      <pubDate>Sat, 10 Jan 2026 06:04:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.firstpost.com/explainers/us-city-hamtramck-named-a-street-khaleda-zia-13967155.html</guid>
+    </item>
     <item>
       <title>JI emir warns against ‘blocking democratic pathways’</title>
       <link>https://www.dawn.com/news/1966025/ji-emir-warns-against-blocking-democratic-pathways</link>
@@ -5853,16 +5860,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" />
       <media:content url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" medium="image" />
       <enclosure url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Between the Begums, and their parties, a bitter rivalry and vengeful past</title>
-      <link>https://www.thehindu.com/news/international/between-the-begums-and-their-parties-a-bitter-rivalry-and-vengeful-past/article70452466.ece</link>
-      <description>With Khaleda’s death and Hasina’s exile, Bangladesh faces its first election without either of its two former PMs, to the benefit of radicals</description>
-      <pubDate>Tue, 30 Dec 2025 08:59:07 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/between-the-begums-and-their-parties-a-bitter-rivalry-and-vengeful-past/article70452466.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/4osth8/article70452513.ece/alternates/LANDSCAPE_1200/Hasina-Khaleda.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/4osth8/article70452513.ece/alternates/LANDSCAPE_1200/Hasina-Khaleda.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/4osth8/article70452513.ece/alternates/LANDSCAPE_1200/Hasina-Khaleda.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
