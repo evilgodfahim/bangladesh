@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 02:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 04:03:28 +0000</lastBuildDate>
+    <item>
+      <title>Mustafizur controversy: BCCI on Bangladesh&apos;s request to shift T20WC matches</title>
+      <link>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/mustafizur-rahman-controversy-bcci-breaks-silence-on-bangladeshs-request-to-shift-t20-world-cup-matches/articleshow/126446582.cms</link>
+      <description>BCCI officials met in Mumbai to discuss the Centre of Excellence&apos;s operations and future India U-19 and India A tours. Regarding Bangladesh&apos;s T20 World Cup match venue request, the board stated it&apos;s not their domain, as the ICC holds the final decision. Recruitment for vacant technical positions at the CoE is also a priority.</description>
+      <pubDate>Sat, 10 Jan 2026 02:45:22 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/mustafizur-rahman-controversy-bcci-breaks-silence-on-bangladeshs-request-to-shift-t20-world-cup-matches/articleshow/126446582.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126446602,imgsize-34536.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126446602,imgsize-34536.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126446602,imgsize-34536.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>FM Dar to head to Saudi Arabia for extraordinary meeting of OIC Council of Foreign Ministers</title>
       <link>https://www.dawn.com/news/1966008/fm-dar-to-head-to-saudi-arabia-for-extraordinary-meeting-of-oic-council-of-foreign-ministers</link>
@@ -5845,16 +5855,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126247882,imgsize-906764.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126247882,imgsize-906764.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126247882,imgsize-906764.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Khaleda Zia, former Bangladeshi prime minister and archrival of Hasina, dies at 80</title>
-      <link>https://abcnews.go.com/International/wireStory/khaleda-zia-former-bangladeshi-prime-minister-archrival-hasina-128768275</link>
-      <description>Former Bangladeshi Prime Minister Khaleda Zia has died at 80, her political party has announced Tuesday</description>
-      <pubDate>Tue, 30 Dec 2025 08:13:25 +0000</pubDate>
-      <guid isPermaLink="true">https://abcnews.go.com/International/wireStory/khaleda-zia-former-bangladeshi-prime-minister-archrival-hasina-128768275</guid>
-      <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" />
-      <media:content url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" medium="image" />
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
