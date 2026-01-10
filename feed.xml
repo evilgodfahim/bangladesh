@@ -5,7 +5,24 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 12:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 13:34:32 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh cricket ‘affected’ by off-field tensions ahead of T20 World Cup</title>
+      <link>https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss</link>
+      <description>Bangladesh Test captain Najmul Hossain Shanto has spoken of the pressure on teammates as T20 World Cup looms in India.</description>
+      <pubDate>Sat, 10 Jan 2026 12:53:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>Bangladesh players act normal despite controversies, says Shanto</title>
+      <link>https://www.thehindu.com/sport/cricket/bangladesh-players-act-normal-despite-controversies-says-shanto/article70494493.ece</link>
+      <description>Uncertainty looms over Bangladesh&apos;s participation in ‌the T20 World Cup following a request by ​the Bangladesh Cricket Board to the International Cricket Council to move their World Cup matches out of India over safety concerns</description>
+      <pubDate>Sat, 10 Jan 2026 12:27:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/sport/cricket/bangladesh-players-act-normal-despite-controversies-says-shanto/article70494493.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/hys8nx/article70494536.ece/alternates/LANDSCAPE_1200/IMG_TH20_SHANTO_2_1_5DE115FI.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/hys8nx/article70494536.ece/alternates/LANDSCAPE_1200/IMG_TH20_SHANTO_2_1_5DE115FI.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/hys8nx/article70494536.ece/alternates/LANDSCAPE_1200/IMG_TH20_SHANTO_2_1_5DE115FI.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Another Hindu Man Killed In Bangladesh, Was Thrashed, Poisoned</title>
       <link>https://www.ndtv.com/world-news/another-hindu-man-killed-in-bangladesh-was-thrashed-poisoned-10595547#publisher=newsstand</link>
@@ -5834,26 +5851,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <description></description>
       <pubDate>Tue, 30 Dec 2025 09:47:27 +0000</pubDate>
       <guid isPermaLink="true">https://english.news.cn/20251230/3d697a5a9d6d40c2a9eb99ee41ad8f96/c.html</guid>
-    </item>
-    <item>
-      <title>The life and career of Khaleda Zia — from political novice to Bangladesh’s ‘uncompromising leader’</title>
-      <link>https://indianexpress.com/article/explained/explained-global/khaleda-zia-bnp-bangladesh-life-career-india-10446561/</link>
-      <description></description>
-      <pubDate>Tue, 30 Dec 2025 09:44:48 +0000</pubDate>
-      <guid isPermaLink="true">https://indianexpress.com/article/explained/explained-global/khaleda-zia-bnp-bangladesh-life-career-india-10446561/</guid>
-      <media:thumbnail url="https://images.indianexpress.com/2025/12/khaleda-zia-3.jpg" />
-      <media:content url="https://images.indianexpress.com/2025/12/khaleda-zia-3.jpg" medium="image" />
-      <enclosure url="https://images.indianexpress.com/2025/12/khaleda-zia-3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Opinion: Opinion | How A Pak-Friendly BNP Is Now In Pole Position In Bangladesh</title>
-      <link>https://www.ndtv.com/opinion/how-a-pak-friendly-bnp-is-now-in-pole-position-in-bangladesh-10091295#publisher=newsstand</link>
-      <description>Tarique Rahman&apos;s return to Dhaka on Christmas Day, and now the passing away of his mother, Begum Khaleda Zia, have placed the BNP in pole position to win the forthcoming general elections in Bangladesh in February next year.</description>
-      <pubDate>Tue, 30 Dec 2025 09:38:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/opinion/how-a-pak-friendly-bnp-is-now-in-pole-position-in-bangladesh-10091295#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/4d8e3pao_tarique-rahman_625x300_25_December_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-12/4d8e3pao_tarique-rahman_625x300_25_December_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/4d8e3pao_tarique-rahman_625x300_25_December_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
