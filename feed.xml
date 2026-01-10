@@ -5,7 +5,21 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jan 2026 06:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 07:23:19 +0000</lastBuildDate>
+    <item>
+      <title>Tarique Rahman appointed chairman of Bangladesh Nationalist Party</title>
+      <link>https://english.news.cn/20260110/d9deaab0bcb84235bcbf6f21516a5d68/c.html</link>
+      <description></description>
+      <pubDate>Sat, 10 Jan 2026 06:38:32 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260110/d9deaab0bcb84235bcbf6f21516a5d68/c.html</guid>
+    </item>
+    <item>
+      <title>India-Bangladesh tensions rock cricket, as sport turns diplomatic weapon</title>
+      <link>https://www.aljazeera.com/news/2026/1/10/india-bangladesh-tensions-rock-cricket-as-sport-turns-diplomatic-weapon?traffic_source=rss</link>
+      <description></description>
+      <pubDate>Sat, 10 Jan 2026 06:17:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/1/10/india-bangladesh-tensions-rock-cricket-as-sport-turns-diplomatic-weapon?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Why US city named a street after Bangladesh’s Khaleda Zia</title>
       <link>https://www.firstpost.com/explainers/us-city-hamtramck-named-a-street-khaleda-zia-13967155.html</link>
@@ -5843,23 +5857,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5lh0p7wx/AP25364248668849.jpg" />
       <media:content url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5lh0p7wx/AP25364248668849.jpg" medium="image" />
       <enclosure url="https://media.newindianexpress.com/newindianexpress/2025-12-30/5lh0p7wx/AP25364248668849.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Khaleda Zia, first female prime minister of Bangladesh, dies</title>
-      <link>https://www.washingtonpost.com/obituaries/2025/12/30/khaleda-zia-bangladesh-dies/</link>
-      <description>She rose to power after her husband was killed in an attempted coup, and she had a fierce political rivalry with Sheikh Hasina, who was ousted last year.</description>
-      <pubDate>Tue, 30 Dec 2025 09:14:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.washingtonpost.com/obituaries/2025/12/30/khaleda-zia-bangladesh-dies/</guid>
-    </item>
-    <item>
-      <title>Khaleda Zia, former Bangladeshi prime minister and archrival of a previous premier, dies at 80</title>
-      <link>https://abcnews.go.com/International/wireStory/khaleda-zia-former-bangladeshi-prime-minister-archrival-hasina-128768275</link>
-      <description>Former Bangladeshi Prime Minister Khaleda Zia has died at 80, her political party has announced Tuesday</description>
-      <pubDate>Tue, 30 Dec 2025 09:09:24 +0000</pubDate>
-      <guid isPermaLink="true">https://abcnews.go.com/International/wireStory/khaleda-zia-former-bangladeshi-prime-minister-archrival-hasina-128768275</guid>
-      <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" />
-      <media:content url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" medium="image" />
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_07af8a7f28482359a993afa0c6f8db79_4x3_384.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
