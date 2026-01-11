@@ -5,7 +5,24 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 04:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 05:28:55 +0000</lastBuildDate>
+    <item>
+      <title>India’s Ties With Bangladesh Fray as Elections Loom</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html</link>
+      <description>A simmering dispute between the neighbors, who share one of the largest land borders in the world, has escalated with diplomatic protests and a sports boycott.</description>
+      <pubDate>Sun, 11 Jan 2026 05:01:08 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html</guid>
+    </item>
+    <item>
+      <title>India’s Ties With Bangladesh Fray as Elections Loom</title>
+      <link>https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html</link>
+      <description>A simmering dispute between the neighbors, who share one of the largest land borders in the world, has escalated with diplomatic protests and a sports boycott.</description>
+      <pubDate>Sun, 11 Jan 2026 05:01:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html</guid>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/01/11/world/11int-india-bangladesh-top/11int-india-bangladesh-top-mediumSquareAt3X.jpg" />
+      <media:content url="https://static01.nyt.com/images/2026/01/11/world/11int-india-bangladesh-top/11int-india-bangladesh-top-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/01/11/world/11int-india-bangladesh-top/11int-india-bangladesh-top-mediumSquareAt3X.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh seeks to join international force in Gaza</title>
       <link>https://www.tbsnews.net/bangladesh/bangladesh-seeks-join-international-force-gaza-1331111</link>
@@ -5846,23 +5863,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126252080,imgsize-984065.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126252080,imgsize-984065.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126252080,imgsize-984065.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&apos;Shot by his colleague&apos;: Another Hindu man killed in Bangladesh; 3rd incident in two weeks</title>
-      <link>https://timesofindia.indiatimes.com/world/south-asia/shot-by-his-colleague-another-hindu-man-killed-in-bangladesh-3rd-incident-in-two-weeks/articleshow/126252085.cms</link>
-      <description>&lt;img align=&quot;left&quot; border=&quot;0&quot; hspace=&quot;10&quot; src=&quot;https://timesofindia.indiatimes.com/photo/126252085.cms&quot; style=&quot;margin-top: 3px; margin-right: 5px;&quot; /&gt;</description>
-      <pubDate>Tue, 30 Dec 2025 12:00:34 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/shot-by-his-colleague-another-hindu-man-killed-in-bangladesh-3rd-incident-in-two-weeks/articleshow/126252085.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126252080,imgsize-984065.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126252080,imgsize-984065.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126252080,imgsize-984065.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>How Khaleda Zia, Bangladesh’s first woman PM, had a rocky relationship with India</title>
-      <link>https://www.firstpost.com/explainers/khaleda-zia-bangladesh-first-woman-pm-india-rocky-relationship-13964000.html</link>
-      <description></description>
-      <pubDate>Tue, 30 Dec 2025 11:57:38 +0000</pubDate>
-      <guid isPermaLink="true">https://www.firstpost.com/explainers/khaleda-zia-bangladesh-first-woman-pm-india-rocky-relationship-13964000.html</guid>
     </item>
   </channel>
 </rss>
