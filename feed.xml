@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 13:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 14:21:21 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh&apos;s mobile phone users surpass 187 mln</title>
+      <link>https://english.news.cn/20260111/eb5aaf2f73c941369b7dc3edff83f195/c.html</link>
+      <description></description>
+      <pubDate>Sun, 11 Jan 2026 13:43:21 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260111/eb5aaf2f73c941369b7dc3edff83f195/c.html</guid>
+    </item>
     <item>
       <title>Bangladeshi umpire officiates IND vs NZ ODI amid Mustafizur row - who is he?</title>
       <link>https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/bangladeshi-umpire-officiates-india-vs-new-zealand-first-odi-amid-mustafizur-rahman-row-who-is-he/articleshow/126463839.cms</link>
@@ -5918,16 +5925,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/st19nn/article70454480.ece/alternates/LANDSCAPE_1200/CORRECTION_Bangladesh_Obit_Zia_73849.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/st19nn/article70454480.ece/alternates/LANDSCAPE_1200/CORRECTION_Bangladesh_Obit_Zia_73849.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/st19nn/article70454480.ece/alternates/LANDSCAPE_1200/CORRECTION_Bangladesh_Obit_Zia_73849.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Khaleda Zia, Bangladesh’s First Female Prime Minister, Dies</title>
-      <link>https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html</link>
-      <description>In office for three terms, she traded the country’s leadership with Sheikh Hasina, the head of another political dynasty, over decades. She was believed to be 80.</description>
-      <pubDate>Tue, 30 Dec 2025 15:58:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2025/12/29/world/asia/khaleda-zia-bangladesh-dead.html</guid>
-      <media:thumbnail url="https://static01.nyt.com/images/2025/12/01/multimedia/00khaleda-Obit-bkfq/00khaleda-Obit-bkfq-mediumSquareAt3X-v2.jpg" />
-      <media:content url="https://static01.nyt.com/images/2025/12/01/multimedia/00khaleda-Obit-bkfq/00khaleda-Obit-bkfq-mediumSquareAt3X-v2.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2025/12/01/multimedia/00khaleda-Obit-bkfq/00khaleda-Obit-bkfq-mediumSquareAt3X-v2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
