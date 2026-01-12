@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 20:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 21:22:44 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh Hindu politician dies in custody</title>
+      <link>https://timesofindia.indiatimes.com/india/bangladesh-hindu-politician-dies-in-custody/articleshow/126492166.cms</link>
+      <description></description>
+      <pubDate>Mon, 12 Jan 2026 20:53:06 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/bangladesh-hindu-politician-dies-in-custody/articleshow/126492166.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126492167,imgsize-541199.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126492167,imgsize-541199.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126492167,imgsize-541199.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Hindu Auto Driver, 28, Beaten To Death In Bangladesh</title>
       <link>https://www.ndtv.com/world-news/hindu-auto-driver-28-beaten-to-death-in-bangladesh-10736557#publisher=newsstand</link>
@@ -5896,16 +5906,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126268906,imgsize-716507.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126268906,imgsize-716507.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126268906,imgsize-716507.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jaishankar arrives in Dhaka to attend Khaleda Zia&apos;s funeral, hands over letter from Modi to Tarique Rahman</title>
-      <link>https://www.hindustantimes.com/world-news/jaishankar-reaches-dhaka-bangladesh-to-attend-khaleda-zia-funeral-expresses-condolences-101767168970121.html</link>
-      <description>Khaleda Zia died on Tuesday after a prolonged illness. Global leaders, including Prime Minister Narendra Modi, mourned her death.</description>
-      <pubDate>Wed, 31 Dec 2025 08:17:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/jaishankar-reaches-dhaka-bangladesh-to-attend-khaleda-zia-funeral-expresses-condolences-101767168970121.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2025/12/31/1600x900/logo/jaishankar_1767169211821_1767169220853.png" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2025/12/31/1600x900/logo/jaishankar_1767169211821_1767169220853.png" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2025/12/31/1600x900/logo/jaishankar_1767169211821_1767169220853.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
