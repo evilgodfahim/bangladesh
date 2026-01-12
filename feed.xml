@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 05:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 06:35:08 +0000</lastBuildDate>
+    <item>
+      <title>UN top court set to open Myanmar Rohingya genocide case</title>
+      <link>https://www.aljazeera.com/news/2026/1/12/un-top-court-set-to-open-myanmar-rohingya-genocide-case?traffic_source=rss</link>
+      <description>Rohingya refugees in Bangladesh hope for justice as the ICJ begins its first full genocide case in more than a decade.</description>
+      <pubDate>Mon, 12 Jan 2026 05:16:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/1/12/un-top-court-set-to-open-myanmar-rohingya-genocide-case?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Pakistan’s struggle to scale its exports</title>
       <link>https://www.dawn.com/news/1966540/pakistans-struggle-to-scale-its-exports</link>
@@ -5944,16 +5951,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126259781,imgsize-734658.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126259781,imgsize-734658.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126259781,imgsize-734658.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh unrest: UK condemns murders of Dipu Das and Amrit Mondal; welcomes arrests</title>
-      <link>https://timesofindia.indiatimes.com/world/uk/uk-condemns-murders-of-dipu-das-and-amrit-mondal-in-bangladesh/articleshow/126259006.cms</link>
-      <description></description>
-      <pubDate>Tue, 30 Dec 2025 19:14:35 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/uk/uk-condemns-murders-of-dipu-das-and-amrit-mondal-in-bangladesh/articleshow/126259006.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126259002,imgsize-83988.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126259002,imgsize-83988.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126259002,imgsize-83988.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
