@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 21:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 22:22:52 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh: Hindu politician dies in custody; family alleges denial of medical care</title>
+      <link>https://timesofindia.indiatimes.com/india/bangladesh-hindu-politician-dies-in-custody/articleshow/126492166.cms</link>
+      <description></description>
+      <pubDate>Mon, 12 Jan 2026 20:53:06 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/bangladesh-hindu-politician-dies-in-custody/articleshow/126492166.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-126492167,imgsize-541199.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-126492167,imgsize-541199.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-126492167,imgsize-541199.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh Hindu politician dies in custody</title>
       <link>https://timesofindia.indiatimes.com/india/bangladesh-hindu-politician-dies-in-custody/articleshow/126492166.cms</link>
@@ -5896,16 +5906,6 @@ With the polls set to be the first since student-led protests toppled the govern
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/bkmjojkc_khaleda-zia-funeral-live_625x300_31_December_25.jpeg" />
       <media:content url="https://c.ndtvimg.com/2025-12/bkmjojkc_khaleda-zia-funeral-live_625x300_31_December_25.jpeg" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/bkmjojkc_khaleda-zia-funeral-live_625x300_31_December_25.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Khaleda Zia’s funeral: Thousands gather in Dhaka to pay last respects — live updates</title>
-      <link>https://timesofindia.indiatimes.com/world/south-asia/khaleda-zias-funeral-thousands-gather-in-dhaka-to-pay-last-respects-live-updates/articleshow/126267035.cms</link>
-      <description>&lt;img align=&quot;left&quot; border=&quot;0&quot; hspace=&quot;10&quot; src=&quot;https://timesofindia.indiatimes.com/photo/126267035.cms&quot; style=&quot;margin-top: 3px; margin-right: 5px;&quot; /&gt;Bangladesh mourns the passing of former Prime Minister Khaleda Zia, a pivotal political figure, with a public holiday and three days of state mourning. Thousands gathered for her funeral in Dhaka, attended by regional leaders including India&apos;s external affairs minister S Jaishankar. Her death marks the end of an era for the influential BNP chairperson.</description>
-      <pubDate>Wed, 31 Dec 2025 08:19:49 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/khaleda-zias-funeral-thousands-gather-in-dhaka-to-pay-last-respects-live-updates/articleshow/126267035.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126268906,imgsize-716507.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126268906,imgsize-716507.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126268906,imgsize-716507.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
