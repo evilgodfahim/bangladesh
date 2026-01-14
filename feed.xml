@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 06:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 07:28:59 +0000</lastBuildDate>
+    <item>
+      <title>2 Bangladeshi Women Re-Enter India After Deportation, Arrested In Mumbai</title>
+      <link>https://www.ndtv.com/india-news/2-bangladeshi-women-re-enter-india-after-deportation-arrested-in-mumbai-10747141#publisher=newsstand</link>
+      <description>Zulekha Jamal Sheikh (seen in this photo) said she was living on a footpath in the Kamathipura.</description>
+      <pubDate>Wed, 14 Jan 2026 06:30:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/india-news/2-bangladeshi-women-re-enter-india-after-deportation-arrested-in-mumbai-10747141#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/2vff9t68_bangladesh-deportation_625x300_14_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
+      <media:content url="https://c.ndtvimg.com/2026-01/2vff9t68_bangladesh-deportation_625x300_14_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/2vff9t68_bangladesh-deportation_625x300_14_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh stays firm in its stand not to play T20 World Cup matches in India</title>
       <link>https://apnews.com/article/bangladesh-icc-t20-world-cup-50012cca873d7bb47dcf2a3a57398121</link>
@@ -5966,16 +5976,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <description></description>
       <pubDate>Wed, 31 Dec 2025 13:02:34 +0000</pubDate>
       <guid isPermaLink="true">https://apnews.com/article/bangladesh-khaleda-zia-hasina-yunus-funeral-prayers-3373c392c0bcfdfcdbd72d9254c7bc57</guid>
-    </item>
-    <item>
-      <title>Highlights: Ex-Bangladesh PM Khaleda Zia Laid To Rest Next To Husband In Dhaka</title>
-      <link>https://www.ndtv.com/world-news/khaleda-zia-funeral-live-updates-bangladesh-violence-bangladesh-unrest-khaleda-zia-dies-former-bangladesh-pm-khaleda-zias-funeral-to-take-place-today-10124438#publisher=newsstand</link>
-      <description>Former Bangladesh PM Khaleda Zia, was buried with full state honours beside her husband</description>
-      <pubDate>Wed, 31 Dec 2025 12:59:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/khaleda-zia-funeral-live-updates-bangladesh-violence-bangladesh-unrest-khaleda-zia-dies-former-bangladesh-pm-khaleda-zias-funeral-to-take-place-today-10124438#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-12/s8eke4ng_khaleda-zia_625x300_31_December_25.png?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-12/s8eke4ng_khaleda-zia_625x300_31_December_25.png?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-12/s8eke4ng_khaleda-zia_625x300_31_December_25.png?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
