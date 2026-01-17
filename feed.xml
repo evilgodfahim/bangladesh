@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jan 2026 02:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 04:01:19 +0000</lastBuildDate>
+    <item>
+      <title>Myanmar denies &apos;genocidal intent&apos; against Rohingya people</title>
+      <link>https://www.abc.net.au/news/2026-01-17/myanmar-denies-deadly-rohingya-campaign-amounts-to-genocide/106240468</link>
+      <description>The South-East Asian country&apos;s armed forces launched an offensive in 2017 that forced over 700,000 ethnic Rohingya from their homes into neighbouring Bangladesh.</description>
+      <pubDate>Sat, 17 Jan 2026 03:09:18 +0000</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-01-17/myanmar-denies-deadly-rohingya-campaign-amounts-to-genocide/106240468</guid>
+      <media:thumbnail url="https://live-production.wcms.abc-cdn.net.au/d3fc014e8767b19351d7590a5d6e2e55?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485" />
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/d3fc014e8767b19351d7590a5d6e2e55?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/d3fc014e8767b19351d7590a5d6e2e55?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=386&amp;width=862&amp;height=485" type="image/jpeg" />
+    </item>
     <item>
       <title>Visa troubles! After Pakistan-origin USA players, England players caught in similar situation</title>
       <link>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/after-pakistan-origin-usa-players-england-face-visa-trouble-for-t20-world-cup-in-india/articleshow/126571136.cms</link>
@@ -6416,16 +6426,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <media:thumbnail url="https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2022-12/0htt5beg_india-police-generic_625x300_23_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Demoralised Bangladesh police appreciated by Tarique Rahman for handling massive events</title>
-      <link>https://www.thehindu.com/news/international/demoralised-bangladesh-police-appreciated-by-tarique-rahman-for-handling-massive-events/article70465127.ece</link>
-      <description>After the fall of the government of Sheikh Hasina, who was recognised for her “zero tolerance of terror” policy, the Bangladesh police continued to be handicapped because of the lingering stain of the crackdown</description>
-      <pubDate>Fri, 02 Jan 2026 21:16:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/demoralised-bangladesh-police-appreciated-by-tarique-rahman-for-handling-massive-events/article70465127.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/p3nh3w/article70465507.ece/alternates/LANDSCAPE_1200/2025-12-26T123026Z_1371024124_RC2AOIAO16YM_RTRMADP_3_BANGLADESH-ELECTION-BNP.JPG" />
-      <media:content url="https://th-i.thgim.com/public/incoming/p3nh3w/article70465507.ece/alternates/LANDSCAPE_1200/2025-12-26T123026Z_1371024124_RC2AOIAO16YM_RTRMADP_3_BANGLADESH-ELECTION-BNP.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/p3nh3w/article70465507.ece/alternates/LANDSCAPE_1200/2025-12-26T123026Z_1371024124_RC2AOIAO16YM_RTRMADP_3_BANGLADESH-ELECTION-BNP.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
