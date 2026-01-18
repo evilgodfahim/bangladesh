@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jan 2026 10:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 11:20:10 +0000</lastBuildDate>
+    <item>
+      <title>Hindu businessman beaten to death in Bangladesh over bananas, 3 detained</title>
+      <link>https://economictimes.indiatimes.com/news/international/world-news/hindu-businessman-beaten-to-death-in-bangladesh-over-bananas-3-detained/articleshow/126641900.cms</link>
+      <description>A Hindu businessman was killed in Bangladesh&apos;s Gazipur district. Liton Chandra Ghosh died after a dispute over bananas. Three family members are detained for his death. The incident occurred at his hotel. Police are investigating the matter. It is unclear if this is linked to wider violence against Hindus.</description>
+      <pubDate>Sun, 18 Jan 2026 10:38:41 +0000</pubDate>
+      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/world-news/hindu-businessman-beaten-to-death-in-bangladesh-over-bananas-3-detained/articleshow/126641900.cms</guid>
+      <media:thumbnail url="https://img.etimg.com/photo/msid-126641900,imgsize-47730.cms" />
+      <media:content url="https://img.etimg.com/photo/msid-126641900,imgsize-47730.cms" medium="image" />
+      <enclosure url="https://img.etimg.com/photo/msid-126641900,imgsize-47730.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Hindu businessman beaten to death in Bangladesh over bananas, three detained</title>
       <link>https://www.thehindu.com/news/international/hindu-businessman-beaten-to-death-in-bangladesh-over-bananas-three-detained/article70521534.ece</link>
@@ -6581,13 +6591,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126330551,imgsize-33980.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126330551,imgsize-33980.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126330551,imgsize-33980.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh: Let’s not get blinded by Pak shadow</title>
-      <link>https://timesofindia.indiatimes.com/blogs/toi-edit-page/bangladesh-lets-not-get-blinded-by-pak-shadow/</link>
-      <description>For many in Pakistan, 2025 marked the end of a long period of its strategic isolation. The reasons are evident: an unexpected turnaround in US-Pakistan relations in the early months of the Trump presidency; a...</description>
-      <pubDate>Sat, 03 Jan 2026 23:30:50 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/blogs/toi-edit-page/bangladesh-lets-not-get-blinded-by-pak-shadow/</guid>
     </item>
   </channel>
 </rss>
