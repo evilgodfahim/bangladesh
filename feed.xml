@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jan 2026 17:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:36:13 +0000</lastBuildDate>
+    <item>
+      <title>India withdraws families, dependents of diplomats and officials from all missions in Bangladesh</title>
+      <link>https://www.thehindu.com/news/national/india-bangladesh-withdraws-families-dependents-diplomats-officials-missions-election-february/article70530755.ece</link>
+      <description>A source says the evacuation was carried out “given the security situation, as a precautionary measure”</description>
+      <pubDate>Tue, 20 Jan 2026 17:35:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/india-bangladesh-withdraws-families-dependents-diplomats-officials-missions-election-february/article70530755.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/ir8ylk/article70530940.ece/alternates/LANDSCAPE_1200/IMG_GnnXY1LbcAAiNPW_2_1_NFE71VO4.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/ir8ylk/article70530940.ece/alternates/LANDSCAPE_1200/IMG_GnnXY1LbcAAiNPW_2_1_NFE71VO4.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/ir8ylk/article70530940.ece/alternates/LANDSCAPE_1200/IMG_GnnXY1LbcAAiNPW_2_1_NFE71VO4.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh says no to T20 World Cup India games</title>
       <link>https://dailytimes.com.pk/1438503/bangladesh-says-no-to-t20-world-cup-india-games/</link>
@@ -4024,7 +4034,7 @@ The Bangladesh Meteorological Department (BMD) said the cold conditions are expe
 
 
   &lt;div class=&quot;media media-teaser_landscape media-image aspect-ratio-16:9&quot;&gt;
-                        &lt;img alt=&quot;Narendra Modi at the first session of the G20 Summit 2024. &quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2025-07/2025-07-04-brics-quad-india-2185418426.jpg?h=aad6e3f9&amp;amp;itok=XkQfDXXc&quot; width=&quot;750&quot; /&gt;
+                        &lt;img alt=&quot;alt&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2025-07/2025-07-04-brics-quad-india-2185418426.jpg?h=aad6e3f9&amp;amp;itok=XkQfDXXc&quot; width=&quot;750&quot; /&gt;
 
   
 
@@ -6551,16 +6561,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126335997,imgsize-50700.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126335997,imgsize-50700.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126335997,imgsize-50700.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&apos;If they release me&apos;: Mustafizur Rahim breaks silence after IPL release</title>
-      <link>https://timesofindia.indiatimes.com/sports/cricket/news/if-they-release-me-mustafizur-rahim-breaks-silence-after-ipl-release/articleshow/126336652.cms</link>
-      <description>Bangladesh&apos;s national cricket team will not travel to India for the T20 World Cup due to concerns over player safety and security, following pacer Mustafizur Rahman&apos;s release from the IPL by Kolkata Knight Riders. The Bangladesh Cricket Board requested the ICC to relocate all of Bangladesh&apos;s matches outside India.</description>
-      <pubDate>Sun, 04 Jan 2026 23:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/news/if-they-release-me-mustafizur-rahim-breaks-silence-after-ipl-release/articleshow/126336652.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126336731,imgsize-39454.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126336731,imgsize-39454.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126336731,imgsize-39454.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
