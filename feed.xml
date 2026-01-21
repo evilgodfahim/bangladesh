@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jan 2026 23:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 01:09:22 +0000</lastBuildDate>
+    <item>
+      <title>Morning Digest: E.U. vows ‘unflinching’ response to Trump’s Greenland gambit; India withdraws kin of diplomats from Bangladesh, and more</title>
+      <link>https://www.thehindu.com/news/morning-digest-january-21-2026/article70531221.ece</link>
+      <description>Here is a select list of stories to start the day</description>
+      <pubDate>Wed, 21 Jan 2026 00:50:22 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/morning-digest-january-21-2026/article70531221.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/5azuat/article70531235.ece/alternates/LANDSCAPE_1200/2025-07-28T023713Z_890284951_RC2DVFA41VAS_RTRMADP_3_USA-TRUMP-COLUMN-RUSSELL.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/5azuat/article70531235.ece/alternates/LANDSCAPE_1200/2025-07-28T023713Z_890284951_RC2DVFA41VAS_RTRMADP_3_USA-TRUMP-COLUMN-RUSSELL.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/5azuat/article70531235.ece/alternates/LANDSCAPE_1200/2025-07-28T023713Z_890284951_RC2DVFA41VAS_RTRMADP_3_USA-TRUMP-COLUMN-RUSSELL.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Will not bow to ICC pressure on T20 WC participation: Bangladesh government adviser</title>
       <link>https://www.thehindu.com/sport/cricket/will-not-bow-to-icc-pressure-on-t20-wc-participation-bangladesh-government-adviser/article70531202.ece</link>
@@ -6554,16 +6564,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126344096,imgsize-40590.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126344096,imgsize-40590.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126344096,imgsize-40590.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>T20 WC: Bangladesh wants its games shifted out of India; BCB cites player safety</title>
-      <link>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bangladesh-wants-its-t20-world-cup-games-shifted-out-of-india-bcb-says-decision-is-to-safeguard-players/articleshow/126344017.cms</link>
-      <description>Bangladesh Cricket Board has decided not to travel to India for the T20 World Cup, citing security concerns and requesting a venue change. This decision follows the exclusion of star bowler Mustafizur Rahman from the IPL, sparking outrage and calls for relocation to Sri Lanka.</description>
-      <pubDate>Mon, 05 Jan 2026 03:54:03 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/bangladesh-wants-its-t20-world-cup-games-shifted-out-of-india-bcb-says-decision-is-to-safeguard-players/articleshow/126344017.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126344047,imgsize-32416.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126344047,imgsize-32416.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126344047,imgsize-32416.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
