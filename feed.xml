@@ -5,7 +5,18 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 14:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 15:31:07 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh launches campaigns for first post-Hasina elections</title>
+      <link>https://www.geo.tv/latest/646626-bangladesh-launches-campaigns-for-first-post-hasina-elections</link>
+      <description>&lt;img src=&quot;https://www.geo.tv/assets/uploads/updates/2026-01-22/l_646626_075401_updates.jpg&quot; /&gt;
+	            	Members of the Islami Andolan Bangladesh, a political party, join in a mass protest march towards the Election Commission, ahead of the election schedule declaration, in Dhaka, Bangladesh. &amp;mdash; Reuters/File &lt;p&gt;Bangladesh began official campaigning on Thursday for the hugely...</description>
+      <pubDate>Thu, 22 Jan 2026 15:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.geo.tv/latest/646626-bangladesh-launches-campaigns-for-first-post-hasina-elections</guid>
+      <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-01-22/l_646626_075401_updates.jpg" />
+      <media:content url="https://www.geo.tv/assets/uploads/updates/2026-01-22/l_646626_075401_updates.jpg" medium="image" />
+      <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-01-22/l_646626_075401_updates.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Telenor sells its stake in Thailand’s True Corporation for $3.9 billion</title>
       <link>https://www.dawn.com/news/1968445/telenor-sells-its-stake-in-thailands-true-corporation-for-39-billion</link>
@@ -6631,16 +6642,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <media:thumbnail url="https://i.dawn.com/large/2026/01/062234429381bac.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/062234429381bac.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/062234429381bac.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Chased Over Theft Suspicion, Bangladeshi Hindu Man Jumps Into Canal, Dies</title>
-      <link>https://www.ndtv.com/world-news/chased-over-theft-suspicion-bangladeshi-hindu-man-jumps-into-canal-dies-10420480#publisher=newsstand</link>
-      <description>A Hindu man jumped into a canal after being chased by a mob in Bangladesh.</description>
-      <pubDate>Tue, 06 Jan 2026 16:42:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/chased-over-theft-suspicion-bangladeshi-hindu-man-jumps-into-canal-dies-10420480#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-01/n5p1r2ho_hindu-man-drowns-in-bangladesh_625x300_06_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2026-01/n5p1r2ho_hindu-man-drowns-in-bangladesh_625x300_06_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-01/n5p1r2ho_hindu-man-drowns-in-bangladesh_625x300_06_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
