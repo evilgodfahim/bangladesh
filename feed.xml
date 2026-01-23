@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jan 2026 20:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:25:06 +0000</lastBuildDate>
+    <item>
+      <title>Gen Z led the revolution in Bangladesh — can they win the election?</title>
+      <link>https://www.abc.net.au/news/2026-01-24/bangladesh-election-gen-z-revolution-will-they-win/106204040</link>
+      <description>After toppling Sheikh Hasina, Bangladesh&apos;s newest political party faces its first election next month, testing a newly formed alliance.</description>
+      <pubDate>Fri, 23 Jan 2026 21:16:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-01-24/bangladesh-election-gen-z-revolution-will-they-win/106204040</guid>
+      <media:thumbnail url="https://live-production.wcms.abc-cdn.net.au/958af927cb89f1c6d6b255b35c02706c?impolicy=wcms_crop_resize&amp;cropH=2062&amp;cropW=3665&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485" />
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/958af927cb89f1c6d6b255b35c02706c?impolicy=wcms_crop_resize&amp;cropH=2062&amp;cropW=3665&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/958af927cb89f1c6d6b255b35c02706c?impolicy=wcms_crop_resize&amp;cropH=2062&amp;cropW=3665&amp;xPos=0&amp;yPos=344&amp;width=862&amp;height=485" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh appeal can&apos;t be heard by ICC&apos;s DRC; Scotland to be named as replacement by January 24</title>
       <link>https://www.thehindu.com/sport/cricket/bangladesh-appeal-cant-be-heard-by-iccs-drc-scotland-to-be-named-as-replacement-by-january-24/article70544129.ece</link>
@@ -6640,16 +6650,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <media:thumbnail url="https://i.dawn.com/large/2026/01/07163246b93a8d6.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/07163246b93a8d6.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/07163246b93a8d6.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>T20 World Cup | ICC and BCB likely to thrash out impasse by this weekend</title>
-      <link>https://www.thehindu.com/sport/cricket/t20-world-cup-icc-and-bcb-likely-to-thrash-out-impasse-by-this-weekend/article70482024.ece</link>
-      <description>CRICKET | In a statement, the Bangladesh board says that the ICC has responded favourably to its request to relocate its matches outside India</description>
-      <pubDate>Wed, 07 Jan 2026 11:53:48 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/sport/cricket/t20-world-cup-icc-and-bcb-likely-to-thrash-out-impasse-by-this-weekend/article70482024.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/sport/k0h34r/article70482156.ece/alternates/LANDSCAPE_1200/1.-MD-AMINUL-ISLAM.jpg" />
-      <media:content url="https://th-i.thgim.com/public/sport/k0h34r/article70482156.ece/alternates/LANDSCAPE_1200/1.-MD-AMINUL-ISLAM.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/sport/k0h34r/article70482156.ece/alternates/LANDSCAPE_1200/1.-MD-AMINUL-ISLAM.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
