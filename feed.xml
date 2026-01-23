@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jan 2026 04:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 05:30:32 +0000</lastBuildDate>
+    <item>
+      <title>&quot;Horrible Than A Horror Movie&quot;: Bangladesh Ex-Minister On Attacks On Hindus</title>
+      <link>https://www.ndtv.com/world-news/bangladesh-now-ruled-by-fanatics-former-foreign-minister-hasan-mahmud-jabs-muhammad-yunus-10848460#publisher=newsstand</link>
+      <description>Bangladesh&apos;s former Minister of Foreign Affairs Mohammed Hasan Mahmud (File)</description>
+      <pubDate>Fri, 23 Jan 2026 04:46:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-now-ruled-by-fanatics-former-foreign-minister-hasan-mahmud-jabs-muhammad-yunus-10848460#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/hatkm9pc_-bangladeshs-mohammed-hasan-mahmud_625x300_23_January_26.jpeg" />
+      <media:content url="https://c.ndtvimg.com/2026-01/hatkm9pc_-bangladeshs-mohammed-hasan-mahmud_625x300_23_January_26.jpeg" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/hatkm9pc_-bangladeshs-mohammed-hasan-mahmud_625x300_23_January_26.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Campaigning starts for Bangladesh’s first election after Hasina’s ouster</title>
       <link>https://dailytimes.com.pk/1439802/campaigning-starts-for-bangladeshs-first-election-after-hasinas-ouster/</link>
@@ -6621,16 +6631,6 @@ The talks in Islamabad come as Pakistan looks to capit</description>
       <media:thumbnail url="https://i.dawn.com/large/2026/01/07072956052036d.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/07072956052036d.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/07072956052036d.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mustafizur row: &apos;He is completely chill&apos; - Ex Bangladesh captain drops big revelation</title>
-      <link>https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mustafizur-rahman-row-he-is-completely-chill-former-bangladesh-captain-drops-big-revelation/articleshow/126375680.cms</link>
-      <description>Mohammad Ashraful states Mustafizur Rahman is unfazed by his IPL release due to India-Bangladesh tensions.  The pacer is focused on his BPL commitments, impressing in Rangpur Riders&apos; recent win. Meanwhile, the BCB has formally requested the ICC to move Bangladesh&apos;s 2026 T20 World Cup matches out of India citing security concerns.</description>
-      <pubDate>Tue, 06 Jan 2026 23:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/mustafizur-rahman-row-he-is-completely-chill-former-bangladesh-captain-drops-big-revelation/articleshow/126375680.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126375672,imgsize-110248.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126375672,imgsize-110248.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126375672,imgsize-110248.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
