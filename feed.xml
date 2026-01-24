@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jan 2026 07:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 08:28:03 +0000</lastBuildDate>
+    <item>
+      <title>US Seeks Closer Ties With Bangladesh Hardliners Ahead Of Polls: Report</title>
+      <link>https://www.ndtv.com/world-news/us-seeks-closer-ties-with-bangladesh-jamaat-e-islami-ahead-of-polls-10876933#publisher=newsstand</link>
+      <description>The Jamaat-e-Islamic party was founded in 1941</description>
+      <pubDate>Sat, 24 Jan 2026 06:46:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/us-seeks-closer-ties-with-bangladesh-jamaat-e-islami-ahead-of-polls-10876933#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/in7k3ns_jamaateislami-bangladesh-afp_625x300_24_January_26.jpeg" />
+      <media:content url="https://c.ndtvimg.com/2026-01/in7k3ns_jamaateislami-bangladesh-afp_625x300_24_January_26.jpeg" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/in7k3ns_jamaateislami-bangladesh-afp_625x300_24_January_26.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>2 foreign litterbugs first to be charged under Malaysia&apos;s new law</title>
       <link>https://www.channelnewsasia.com/asia/malaysia-foreign-nationals-littering-first-charged-new-law-5880481</link>
@@ -6677,16 +6687,6 @@ Officials from both sides have started joint measurements of water levels in the
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/32z2mt/article70484189.ece/alternates/LANDSCAPE_1200/PTI01_07_2026_000386A.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/32z2mt/article70484189.ece/alternates/LANDSCAPE_1200/PTI01_07_2026_000386A.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/32z2mt/article70484189.ece/alternates/LANDSCAPE_1200/PTI01_07_2026_000386A.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh Interested In Procuring JF-17 Jets Developed With China: Pakistan</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-interested-in-procuring-jf-17-jets-developed-with-china-pakistan-10490855#publisher=newsstand</link>
-      <description>Pakistan claims that the jet has proved its capabilities during the conflict with India.</description>
-      <pubDate>Wed, 07 Jan 2026 19:07:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-interested-in-procuring-jf-17-jets-developed-with-china-pakistan-10490855#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-01/ohu8csfk_-jf17-fighter-jets-pakistan_625x300_07_January_26.jpg" />
-      <media:content url="https://c.ndtvimg.com/2026-01/ohu8csfk_-jf17-fighter-jets-pakistan_625x300_07_January_26.jpg" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-01/ohu8csfk_-jf17-fighter-jets-pakistan_625x300_07_January_26.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
