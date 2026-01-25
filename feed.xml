@@ -5,13 +5,20 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Jan 2026 16:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 17:21:12 +0000</lastBuildDate>
     <item>
       <title>Sir Mark Tully: The voice that brought Bangladesh Liberation War to the world</title>
       <link>https://www.tbsnews.net/world/sir-mark-tully-voice-brought-bangladesh-liberation-war-world-1343491</link>
       <description></description>
       <pubDate>Sun, 25 Jan 2026 16:16:36 +0000</pubDate>
       <guid isPermaLink="true">https://www.tbsnews.net/world/sir-mark-tully-voice-brought-bangladesh-liberation-war-world-1343491</guid>
+    </item>
+    <item>
+      <title>Bangladesh slams India over fugitive ex-PM Hasina’s first public address</title>
+      <link>https://www.aljazeera.com/news/2026/1/25/bangladesh-slams-india-over-fugitive-ex-pm-hasinas-first-public-address?traffic_source=rss</link>
+      <description>Dhaka says it is &amp;#039;shocked&amp;#039; the ousted leader was allowed to speak at a news conference, her first since the 2024 ouster.</description>
+      <pubDate>Sun, 25 Jan 2026 15:59:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/1/25/bangladesh-slams-india-over-fugitive-ex-pm-hasinas-first-public-address?traffic_source=rss</guid>
     </item>
     <item>
       <title>&quot;Surprised, Shocked&quot;: Bangladesh On Sheikh Hasina&apos;s Speech In India</title>
@@ -6613,16 +6620,6 @@ The Bangladesh Meteorological Department (BMD) said the cold conditions are expe
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126435496,imgsize-1350764.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126435496,imgsize-1350764.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126435496,imgsize-1350764.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The four elections across the world that could redefine democracy this year</title>
-      <link>https://www.independent.co.uk/news/world/politics/election-us-midterms-brazil-bangladesh-quebec-b2897407.html</link>
-      <description>&lt;p&gt;The US midterms will be a test for Trump in 2026, while Bangladesh could see it’s first fair election in 15 years&lt;/p&gt;</description>
-      <pubDate>Fri, 09 Jan 2026 10:51:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.independent.co.uk/news/world/politics/election-us-midterms-brazil-bangladesh-quebec-b2897407.html</guid>
-      <media:thumbnail url="https://static.independent.co.uk/2026/01/09/4/00/Trump.jpeg?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" />
-      <media:content url="https://static.independent.co.uk/2026/01/09/4/00/Trump.jpeg?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" medium="image" />
-      <enclosure url="https://static.independent.co.uk/2026/01/09/4/00/Trump.jpeg?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" />
     </item>
   </channel>
 </rss>
