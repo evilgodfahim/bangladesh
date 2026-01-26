@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jan 2026 08:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 09:35:28 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh panel flags Adani power deal as overpriced, cites procedural flaws</title>
+      <link>https://dailytimes.com.pk/1441547/bangladesh-panel-flags-adani-power-deal-as-overpriced-cites-procedural-flaws/</link>
+      <description>DHAKA: A government-appointed review committee in Bangladesh has flagged the Adani Power coal-fired plant’s electricity supply deal as overpriced, citing serious procedural anomalies in the contract award. The National Review Committee (NRC) report, dated January 20, found that the Godda plant in Jharkhand, India, charged Bangladesh electricity at a 39.7% premium over the nearest private-sector [&amp;#8230;]</description>
+      <pubDate>Mon, 26 Jan 2026 09:20:39 +0000</pubDate>
+      <guid isPermaLink="true">https://dailytimes.com.pk/1441547/bangladesh-panel-flags-adani-power-deal-as-overpriced-cites-procedural-flaws/</guid>
+    </item>
     <item>
       <title>Bangladesh panel says Adani power deal overpriced, flags procedural flaws</title>
       <link>https://www.geo.tv/latest/647237-bangladesh-panel-says-adani-power-deal-overpriced-flags-procedural-flaws</link>
@@ -6677,16 +6684,6 @@ The Bangladesh Meteorological Department (BMD) said the cold conditions are expe
       <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/01/09/1600x900/logo/ANI-20251231095-0_1767988774232_1767988781602.jpg" />
       <media:content url="https://www.hindustantimes.com/ht-img/img/2026/01/09/1600x900/logo/ANI-20251231095-0_1767988774232_1767988781602.jpg" medium="image" />
       <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/01/09/1600x900/logo/ANI-20251231095-0_1767988774232_1767988781602.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&quot;Unacceptable&quot;: UK MP On Killings Of Hindus In Bangladesh</title>
-      <link>https://www.ndtv.com/world-news/unacceptable-uk-mp-on-killings-of-hindus-in-bangladesh-10572041#publisher=newsstand</link>
-      <description>Bangladesh has witnessed escalating violence against minorities</description>
-      <pubDate>Fri, 09 Jan 2026 16:04:51 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/unacceptable-uk-mp-on-killings-of-hindus-in-bangladesh-10572041#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2024-12/0jqco7ss_british-mp-priti-patel_625x300_04_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2024-12/0jqco7ss_british-mp-priti-patel_625x300_04_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2024-12/0jqco7ss_british-mp-priti-patel_625x300_04_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
