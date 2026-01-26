@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jan 2026 21:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 22:27:15 +0000</lastBuildDate>
+    <item>
+      <title>&apos;Crimes against humanity&apos;: Bangladesh sentences ex-Dhaka police chief, 2 officers to death</title>
+      <link>https://timesofindia.indiatimes.com/world/south-asia/death-sentences-for-former-dhaka-top-cop-2-others/articleshow/127576161.cms</link>
+      <description>Former Dhaka police chief and two ex-deputies have been sentenced to death by Bangladesh&apos;s International Crimes Tribunal for crimes against humanity. Convicted in absentia, they were found guilty of leading a brutal crackdown on 2024 protests that led to hundreds of deaths and the ouster of then-PM Sheikh Hasina.</description>
+      <pubDate>Mon, 26 Jan 2026 21:31:42 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/death-sentences-for-former-dhaka-top-cop-2-others/articleshow/127576161.cms</guid>
+      <media:thumbnail url="https://static.toiimg.com/photo/msid-127576341,imgsize-1053826.cms" />
+      <media:content url="https://static.toiimg.com/photo/msid-127576341,imgsize-1053826.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-127576341,imgsize-1053826.cms" type="image/jpeg" />
+    </item>
     <item>
       <title>Nearly 3.8 billion people may face extreme heat by 2050: Study</title>
       <link>https://economictimes.indiatimes.com/news/international/world-news/nearly-3-8-billion-people-may-face-extreme-heat-by-2050-study/articleshow/127569869.cms</link>
@@ -6608,13 +6618,6 @@ The Bangladesh Meteorological Department (BMD) said the cold conditions are expe
       <media:thumbnail url="https://i.dawn.com/large/2026/01/101858144e3a80e.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/101858144e3a80e.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/101858144e3a80e.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh cricket ‘affected’ by off-field tensions ahead of T20 World Cup</title>
-      <link>https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss</link>
-      <description>Bangladesh Test captain Najmul Hossain Shanto has spoken of the pressure on teammates as T20 World Cup looms in India.</description>
-      <pubDate>Sat, 10 Jan 2026 12:53:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss</guid>
     </item>
   </channel>
 </rss>
