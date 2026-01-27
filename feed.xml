@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 12:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 13:50:03 +0000</lastBuildDate>
     <item>
       <title>Nipah Virus Could Spread Further Due to Bat Reservoir, WHO Says</title>
       <link>https://english.pravda.ru/news/society/165598-nipah-virus-risk-south-asia-who-warning/</link>
@@ -17,6 +17,16 @@ WHO official representative in Geneva Tarik Jasarevic told RIA Novosti that the 
       <media:thumbnail url="https://english.pravda.ru/image/preview/article/5/9/8/165598_amp.jpeg" />
       <media:content url="https://english.pravda.ru/image/preview/article/5/9/8/165598_amp.jpeg" medium="image" />
       <enclosure url="https://english.pravda.ru/image/preview/article/5/9/8/165598_amp.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How Bangladesh&apos;s Jamaat-e-Islami Is Undergoing Image Makeover Ahead Of Polls</title>
+      <link>https://www.ndtv.com/world-news/us-reaches-out-to-bangladeshs-once-banned-pro-pakistan-party-ahead-of-polls-10893069#publisher=newsstand</link>
+      <description>Bangladesh&apos;s Jamaat-e-Islami leader Shafiqur Rahman addresses his supporters during a rally (AFP)</description>
+      <pubDate>Tue, 27 Jan 2026 11:27:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/us-reaches-out-to-bangladeshs-once-banned-pro-pakistan-party-ahead-of-polls-10893069#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-01/ja0niso8_shafiqur-rahman-afp_625x300_27_January_26.jpeg" />
+      <media:content url="https://c.ndtvimg.com/2026-01/ja0niso8_shafiqur-rahman-afp_625x300_27_January_26.jpeg" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-01/ja0niso8_shafiqur-rahman-afp_625x300_27_January_26.jpeg" type="image/jpeg" />
     </item>
     <item>
       <title>&apos;Can&apos;t accommodate ... &apos;: ICC on 80–90 Bangladeshi applications for T20 World Cup</title>
@@ -6795,16 +6805,6 @@ China is not included in the list, which has countries like Thailand, a US ally,
       <media:thumbnail url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/12/516514.jpg" />
       <media:content url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/12/516514.jpg" medium="image" />
       <enclosure url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/12/516514.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&quot;Baseless&quot;: Sheikh Hasina Trashes Dhaka&apos;s India Claim Over Leader&apos;s Murder</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-news-osman-hadis-killing-tragic-but-not-linked-to-india-sheikh-hasina-to-ndtv-10511573#publisher=newsstand</link>
-      <description>On August 5, 2024, Hasina fled to India.</description>
-      <pubDate>Mon, 12 Jan 2026 03:59:19 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-news-osman-hadis-killing-tragic-but-not-linked-to-india-sheikh-hasina-to-ndtv-10511573#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-04/5t4820q4_sheikh-hasina_625x300_08_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-04/5t4820q4_sheikh-hasina_625x300_08_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-04/5t4820q4_sheikh-hasina_625x300_08_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
