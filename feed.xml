@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 13:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 14:31:53 +0000</lastBuildDate>
+    <item>
+      <title>23 Indian fishermen freed after three months in Bangladesh custody</title>
+      <link>https://www.thehindu.com/news/cities/Visakhapatnam/23-indian-fishermen-freed-after-three-months-in-bangladesh-custody/article70556873.ece</link>
+      <description>Detained after inadvertently drifting into Bangladeshi waters in October, fishermen from Andhra Pradesh and West Bengal are scheduled to be handed over at the maritime boundary on January 29</description>
+      <pubDate>Tue, 27 Jan 2026 13:51:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/cities/Visakhapatnam/23-indian-fishermen-freed-after-three-months-in-bangladesh-custody/article70556873.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/ihgn1j/article70557104.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-27%20at%2017.52.23.jpeg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/ihgn1j/article70557104.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-27%20at%2017.52.23.jpeg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/ihgn1j/article70557104.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-01-27%20at%2017.52.23.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>Nipah Virus Could Spread Further Due to Bat Reservoir, WHO Says</title>
       <link>https://english.pravda.ru/news/society/165598-nipah-virus-risk-south-asia-who-warning/</link>
@@ -6795,16 +6805,6 @@ China is not included in the list, which has countries like Thailand, a US ally,
       <media:thumbnail url="https://i.dawn.com/large/2026/01/69647410e9d67.jpg" />
       <media:content url="https://i.dawn.com/large/2026/01/69647410e9d67.jpg" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/69647410e9d67.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>In grim camps, Rohingya hope U.N. genocide hearing can bring justice</title>
-      <link>https://www.japantimes.co.jp/news/2026/01/12/asia-pacific/politics/rohingya-un-genocide-hearing/</link>
-      <description>Hope is a fragile but persistent force in Bangladesh&apos;s Rohingya camps of Cox&apos;s Bazar, where more than a million refugees forced to flee Myanmar live in squalid conditions.</description>
-      <pubDate>Mon, 12 Jan 2026 04:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.japantimes.co.jp/news/2026/01/12/asia-pacific/politics/rohingya-un-genocide-hearing/</guid>
-      <media:thumbnail url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/12/516514.jpg" />
-      <media:content url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/12/516514.jpg" medium="image" />
-      <enclosure url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/01/12/516514.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
