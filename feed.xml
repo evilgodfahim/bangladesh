@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 09:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 10:28:43 +0000</lastBuildDate>
+    <item>
+      <title>Bangladeshis seeking jobs in Russia forced to join war on Ukraine: Report</title>
+      <link>https://www.aljazeera.com/news/2026/1/27/bangladeshis-seeking-jobs-in-russia-forced-to-join-war-with-ukraine-report?traffic_source=rss</link>
+      <description>Associated Press investigation finds workers lured to Russia under promise of civilian work are thrust into the war.</description>
+      <pubDate>Tue, 27 Jan 2026 09:28:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/1/27/bangladeshis-seeking-jobs-in-russia-forced-to-join-war-with-ukraine-report?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Workers from Bangladesh sought jobs in Russia but got sent to combat in Ukraine</title>
       <link>https://abcnews.go.com/International/wireStory/workers-bangladesh-sought-jobs-russia-combat-ukraine-129588588</link>
@@ -6796,13 +6803,6 @@ China is not included in the list, which has countries like Thailand, a US ally,
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126464994,imgsize-28694.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126464994,imgsize-28694.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126464994,imgsize-28694.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>India’s Ties With Bangladesh Fray as Elections Loom</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html</link>
-      <description></description>
-      <pubDate>Sun, 11 Jan 2026 22:27:37 +0000</pubDate>
-      <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/2026/01/11/world/asia/india-bangladesh-tensions.html</guid>
     </item>
   </channel>
 </rss>
