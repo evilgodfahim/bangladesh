@@ -5,7 +5,19 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 11:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:39:17 +0000</lastBuildDate>
+    <item>
+      <title>Nipah Virus Could Spread Further Due to Bat Reservoir, WHO Says</title>
+      <link>https://english.pravda.ru/news/society/165598-nipah-virus-risk-south-asia-who-warning/</link>
+      <description>Further spread of the Nipah virus remains possible due to insufficient understanding of the pathogen and the presence of a natural reservoir in South Asia, according to the World Health Organization.
+WHO official representative in Geneva Tarik Jasarevic told RIA Novosti that the virus continues to pose a risk because it circulates among bat populations in certain regions of India and Bangladesh.
+&quot;Further Nipah virus infections are possible, given the known Nipah virus reservoir in bat populations in parts of India and Bangladesh, including West Bengal,”</description>
+      <pubDate>Tue, 27 Jan 2026 12:08:00 +0000</pubDate>
+      <guid isPermaLink="true">https://english.pravda.ru/news/society/165598-nipah-virus-risk-south-asia-who-warning/</guid>
+      <media:thumbnail url="https://english.pravda.ru/image/preview/article/5/9/8/165598_amp.jpeg" />
+      <media:content url="https://english.pravda.ru/image/preview/article/5/9/8/165598_amp.jpeg" medium="image" />
+      <enclosure url="https://english.pravda.ru/image/preview/article/5/9/8/165598_amp.jpeg" type="image/jpeg" />
+    </item>
     <item>
       <title>&apos;Can&apos;t accommodate ... &apos;: ICC on 80–90 Bangladeshi applications for T20 World Cup</title>
       <link>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/cant-accommodate-icc-on-8090-bangladeshi-media-accreditation-applications-for-t20-world-cup/articleshow/127613180.cms</link>
@@ -6793,16 +6805,6 @@ China is not included in the list, which has countries like Thailand, a US ally,
       <media:thumbnail url="https://c.ndtvimg.com/2025-04/5t4820q4_sheikh-hasina_625x300_08_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-04/5t4820q4_sheikh-hasina_625x300_08_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-04/5t4820q4_sheikh-hasina_625x300_08_April_25.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>India, SL or Pak? ICC–BCB impasse deepens as B&apos;desh venues remain unresolved</title>
-      <link>https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-in-deadlock-iccbcb-impasse-continues-as-bangladesh-venues-remain-unresolved/articleshow/126474761.cms</link>
-      <description>Bangladesh&apos;s T20 World Cup venue remains uncertain as the BCB seeks a shift to Sri Lanka due to security concerns. The ICC and BCCI are exploring Indian alternatives like Chennai and Thiruvananthapuram. This impasse follows a dispute over a player&apos;s IPL release, escalating tensions and impacting broadcast rights. Pakistan has also offered to host.</description>
-      <pubDate>Mon, 12 Jan 2026 03:42:02 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-in-deadlock-iccbcb-impasse-continues-as-bangladesh-venues-remain-unresolved/articleshow/126474761.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126474840,imgsize-84554.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126474840,imgsize-84554.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126474840,imgsize-84554.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
