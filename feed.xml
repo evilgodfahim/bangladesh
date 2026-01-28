@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 11:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 12:37:42 +0000</lastBuildDate>
+    <item>
+      <title>Exclusive: Bangladesh’s Prodigal Son</title>
+      <link>https://time.com/7358216/bangladesh-elections-tarique-rahman-profile/</link>
+      <description>After years in exile, Tarique Rahman returns home to a nation in flux.</description>
+      <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://time.com/7358216/bangladesh-elections-tarique-rahman-profile/</guid>
+      <media:thumbnail url="https://api.time.com/wp-content/uploads/2026/01/bangladesh-Tarique-Rahman-01.jpg" />
+      <media:content url="https://api.time.com/wp-content/uploads/2026/01/bangladesh-Tarique-Rahman-01.jpg" medium="image" />
+      <enclosure url="https://api.time.com/wp-content/uploads/2026/01/bangladesh-Tarique-Rahman-01.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Why Bangladesh’s China-backed drone factory is raising alarm bells in India</title>
       <link>https://www.firstpost.com/explainers/bangladesh-china-drone-manufacturing-deal-why-india-is-concerned-13973346.html</link>
@@ -6858,13 +6868,6 @@ China is not included in the list, which has countries like Thailand, a US ally,
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126487086,imgsize-46926.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126487086,imgsize-46926.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126487086,imgsize-46926.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh relaxes rules for LPG imports</title>
-      <link>https://english.news.cn/20260112/0f006c60d74245c6baec53666329f793/c.html</link>
-      <description></description>
-      <pubDate>Mon, 12 Jan 2026 13:23:53 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260112/0f006c60d74245c6baec53666329f793/c.html</guid>
     </item>
   </channel>
 </rss>
