@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Jan 2026 07:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 08:46:48 +0000</lastBuildDate>
+    <item>
+      <title>Exiled leader Hasina denounces upcoming Bangladesh polls after party ban</title>
+      <link>https://www.aljazeera.com/news/2026/1/29/exiled-leader-hasina-denounces-upcoming-bangladesh-polls-after-party-ban?traffic_source=rss</link>
+      <description>Ousted premier says the exclusion of her Awami League party &amp;quot;deepens resentment&amp;quot; on Muhammad Yunus&amp;#039;s interim government.</description>
+      <pubDate>Thu, 29 Jan 2026 07:00:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/1/29/exiled-leader-hasina-denounces-upcoming-bangladesh-polls-after-party-ban?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Sri Lanka boosts T20 World Cup security with eye on India-Pakistan matches</title>
       <link>https://www.dawn.com/news/1969712/sri-lanka-boosts-t20-world-cup-security-with-eye-on-india-pakistan-matches</link>
@@ -6913,17 +6920,6 @@ China is not included in the list, which has countries like Thailand, a US ally,
       <media:thumbnail url="https://i.dawn.com/large/2026/01/131655100ad2cf3.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/131655100ad2cf3.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/131655100ad2cf3.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Will not play World Cup matches in India, Bangladesh tells ICC</title>
-      <link>https://www.geo.tv/latest/644873-bangladesh-tells-icc-not-playing-in-india-for-world-cup</link>
-      <description>&lt;img src=&quot;https://www.geo.tv/assets/uploads/updates/2026-01-13/l_644873_045811_updates.jpg&quot; /&gt;
-	            	Bangladesh&apos;s Shakib Al Hasan celebrates with teammates after taking the wicket of South Africa&apos;s Aiden Markram during ICC Cricket World Cup 2023. &amp;mdash; ReutersBangladesh scheduled to play their four group matches in India.BCB requests ICC to consider relocating Bangladesh&amp;rsquo;s...</description>
-      <pubDate>Tue, 13 Jan 2026 12:14:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.geo.tv/latest/644873-bangladesh-tells-icc-not-playing-in-india-for-world-cup</guid>
-      <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-01-13/l_644873_045811_updates.jpg" />
-      <media:content url="https://www.geo.tv/assets/uploads/updates/2026-01-13/l_644873_045811_updates.jpg" medium="image" />
-      <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-01-13/l_644873_045811_updates.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
