@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 11:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 12:43:18 +0000</lastBuildDate>
+    <item>
+      <title>US embassy issues security alert for violence ahead of Bangladesh elections</title>
+      <link>https://www.hindustantimes.com/world-news/us-embassy-in-dhaka-issues-security-alert-for-violence-ahead-bangladesh-elections-referendum-101769769792856.html</link>
+      <description>US Embassy in Bangladesh advised citizens to avoid demonstrations and practice caution near large gatherings, citing the possibility of violence and attacks.</description>
+      <pubDate>Fri, 30 Jan 2026 11:31:51 +0000</pubDate>
+      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/us-embassy-in-dhaka-issues-security-alert-for-violence-ahead-bangladesh-elections-referendum-101769769792856.html</guid>
+      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/01/30/1600x900/logo/BANGLADESH-ELECTION--2_1769771288383_1769771304232.JPG" />
+      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/01/30/1600x900/logo/BANGLADESH-ELECTION--2_1769771288383_1769771304232.JPG" medium="image" />
+      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/01/30/1600x900/logo/BANGLADESH-ELECTION--2_1769771288383_1769771304232.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Flight from Bangladesh lands in Pakistan’s Karachi for first time in 14 years</title>
       <link>https://www.thehindu.com/news/international/flight-from-bangladesh-lands-in-pakistans-karachi-for-first-time-in-14-years/article70568647.ece</link>
@@ -6754,16 +6764,6 @@ Bangladesh Cricket Board  Finance Committee Chairman Najmul Islam  gestures duri
       <description></description>
       <pubDate>Thu, 15 Jan 2026 05:37:18 +0000</pubDate>
       <guid isPermaLink="true">https://unb.com.bd/category/World/us-to-suspend-immmigrant-visa-processing-from-bangladesh-74-other-countries/177377</guid>
-    </item>
-    <item>
-      <title>US Freezes Immigrant Visa Processing For 75 Countries: Check Full List</title>
-      <link>https://www.ndtv.com/world-news/pak-bangladesh-iran-russia-list-of-75-nations-facing-us-immigrant-visa-pause-10752819#publisher=newsstand</link>
-      <description>The freeze has no set time for it to end, a US official said.</description>
-      <pubDate>Thu, 15 Jan 2026 04:20:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/pak-bangladesh-iran-russia-list-of-75-nations-facing-us-immigrant-visa-pause-10752819#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-01/b9tdp5rk_donald-trump-reuters_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2026-01/b9tdp5rk_donald-trump-reuters_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-01/b9tdp5rk_donald-trump-reuters_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
