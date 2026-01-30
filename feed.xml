@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 07:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 08:38:09 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh appoints UK law firm to arbitrate coal pricing with Adani Group</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-appoints-uk-law-firm-to-arbitrate-coal-pricing-with-adani-group/article70569442.ece</link>
+      <description>Previously Bangladesh had struggled to pay dues, which had caused Adani to reduce supply, but full supply has been restored since the payments were settled</description>
+      <pubDate>Fri, 30 Jan 2026 07:56:28 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-appoints-uk-law-firm-to-arbitrate-coal-pricing-with-adani-group/article70569442.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/uop93k/article70569451.ece/alternates/LANDSCAPE_1200/2025-08-26T112545Z_1838013628_RC2GFBAX3RQ6_RTRMADP_3_INDIA-POWER.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/uop93k/article70569451.ece/alternates/LANDSCAPE_1200/2025-08-26T112545Z_1838013628_RC2GFBAX3RQ6_RTRMADP_3_INDIA-POWER.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/uop93k/article70569451.ece/alternates/LANDSCAPE_1200/2025-08-26T112545Z_1838013628_RC2GFBAX3RQ6_RTRMADP_3_INDIA-POWER.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>India continues to monitor attacks on minorities in Bangladesh: Indian State minister for External Affairs</title>
       <link>https://www.tbsnews.net/bangladesh/india-continues-monitor-attacks-minorities-bangladesh-indian-state-minister-external</link>
@@ -6754,16 +6764,6 @@ Bangladesh Cricket Board  Finance Committee Chairman Najmul Islam  gestures duri
       <media:thumbnail url="https://c.ndtvimg.com/2026-01/b9tdp5rk_donald-trump-reuters_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2026-01/b9tdp5rk_donald-trump-reuters_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2026-01/b9tdp5rk_donald-trump-reuters_625x300_15_January_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>US Visa: Pakistan, Bangladesh and more: Full list of countries hit by US visa pause</title>
-      <link>https://www.hindustantimes.com/world-news/pakistan-bangladesh-more-full-list-of-75-countries-us-immigrant-visas-pause-101768449289212.html</link>
-      <description>US Visa: In an official statement, the Department of State has said that the visa pause will be in effect from January 21 onwards.</description>
-      <pubDate>Thu, 15 Jan 2026 04:19:14 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/pakistan-bangladesh-more-full-list-of-75-countries-us-immigrant-visas-pause-101768449289212.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/01/15/1600x900/logo/h1bapplication_1768430796561_1768430803672_1768450710048.jpg" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/01/15/1600x900/logo/h1bapplication_1768430796561_1768430803672_1768450710048.jpg" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/01/15/1600x900/logo/h1bapplication_1768430796561_1768430803672_1768450710048.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
