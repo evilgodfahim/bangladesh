@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 19:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 20:28:26 +0000</lastBuildDate>
+    <item>
+      <title>A soldier few know, a record few can match: Brigadier Henry Bhaskar’s journey through two wars and beyond</title>
+      <link>https://www.thehindu.com/news/national/telangana/a-soldier-few-know-a-record-few-can-match-brigadier-henry-bhaskars-journey-through-two-wars-and-beyond/article70569402.ece</link>
+      <description>A frontline officer in the 1965 and 1971 wars, Brigadier Bhaskar went on to become the first chairman of the Chittagong Port Trust in newly liberated Bangladesh after leading Indian troops into the strategic harbour city</description>
+      <pubDate>Fri, 30 Jan 2026 19:40:11 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/telangana/a-soldier-few-know-a-record-few-can-match-brigadier-henry-bhaskars-journey-through-two-wars-and-beyond/article70569402.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/hes77b/article70571983.ece/alternates/LANDSCAPE_1200/DSC2351.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/hes77b/article70571983.ece/alternates/LANDSCAPE_1200/DSC2351.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/hes77b/article70571983.ece/alternates/LANDSCAPE_1200/DSC2351.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>IMF projects Bangladesh&apos;s GDP to rebound to 4.7% in fiscal 2026</title>
       <link>https://www.channelnewsasia.com/business/imf-projects-bangladeshs-gdp-rebound-47-in-fiscal-2026-5897366</link>
@@ -6943,16 +6953,6 @@ Bangladesh Cricket Board  Finance Committee Chairman Najmul Islam  gestures duri
       <media:thumbnail url="https://i.dawn.com/large/2026/01/1515204532ab296.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/1515204532ab296.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/1515204532ab296.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh cricket in crisis: BCB sacks director after players boycott BPL</title>
-      <link>https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-in-crisis-amid-mustafizur-row-bcb-sacks-director-m-nazmul-islam-after-players-boycott-bpl-match/articleshow/126543648.cms</link>
-      <description>Bangladesh Cricket Board director M Nazmul Islam has been removed from all his duties. This decision came after cricketers demanded his resignation. The controversy erupted over his remarks regarding player remuneration and the country&apos;s potential withdrawal from the T20 World Cup. Players threatened to boycott cricket if he did not step down.</description>
-      <pubDate>Thu, 15 Jan 2026 10:15:57 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/sports/cricket/news/bangladesh-cricket-in-crisis-amid-mustafizur-row-bcb-sacks-director-m-nazmul-islam-after-players-boycott-bpl-match/articleshow/126543648.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126543668,imgsize-46926.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126543668,imgsize-46926.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126543668,imgsize-46926.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
