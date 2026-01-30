@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 16:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 17:35:30 +0000</lastBuildDate>
+    <item>
+      <title>Bangladeshi national arrested in Agartala allegedly involved in human trafficking</title>
+      <link>https://www.thehindu.com/news/national/bangladeshi-national-arrested-in-agartala-allegedly-involved-in-human-trafficking/article70570437.ece</link>
+      <description>The detainee reportedly confessed to his involvement in trafficking Bangladeshi nationals through different border routes</description>
+      <pubDate>Fri, 30 Jan 2026 16:53:06 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/bangladeshi-national-arrested-in-agartala-allegedly-involved-in-human-trafficking/article70570437.ece</guid>
+    </item>
     <item>
       <title>Breakdown in cricket relations with Bangladesh rings alarm bells for India’s Olympic bid</title>
       <link>https://www.theguardian.com/sport/2026/jan/30/breakdown-in-cricket-relations-with-bangladesh-rings-alarm-bells-for-indias-olympic-bid</link>
@@ -6736,17 +6743,6 @@ Bangladesh Cricket Board  Finance Committee Chairman Najmul Islam  gestures duri
       <media:thumbnail url="https://static.toiimg.com/photo/msid-126541462,imgsize-76066.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-126541462,imgsize-76066.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-126541462,imgsize-76066.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh players&apos; boycott delays BPL match amid row with BCB</title>
-      <link>https://www.geo.tv/latest/645205-bangladesh-cricketers-threaten-boycott-unless-bcb-director-nazmul-resigns</link>
-      <description>&lt;img src=&quot;https://www.geo.tv/assets/uploads/updates/2026-01-15/l_645205_121949_updates.jpg&quot; /&gt;
-	            	BCB director M Nazmul Islam and Bangladeshi former international cricketer can be seen in this photo collage. &amp;mdash; BCB/Facebook/@Tamim IqbalPlayers say remarks undermine dignity, professionalism.BCB dissociates itself, expresses regret over comments.Board warns disciplinary...</description>
-      <pubDate>Thu, 15 Jan 2026 07:37:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.geo.tv/latest/645205-bangladesh-cricketers-threaten-boycott-unless-bcb-director-nazmul-resigns</guid>
-      <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-01-15/l_645205_121949_updates.jpg" />
-      <media:content url="https://www.geo.tv/assets/uploads/updates/2026-01-15/l_645205_121949_updates.jpg" medium="image" />
-      <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-01-15/l_645205_121949_updates.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
