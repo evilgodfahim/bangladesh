@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Feb 2026 07:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 08:31:36 +0000</lastBuildDate>
+    <item>
+      <title>‘Deeply insecure’: Why Bangladeshi minorities are scared ahead of elections</title>
+      <link>https://www.aljazeera.com/features/2026/2/1/deeply-insecure-why-bangladeshi-minorities-are-scared-ahead-of-elections?traffic_source=rss</link>
+      <description>A spate of recent attacks has amplified fears among the country&amp;#039;s religious minorities ahead of the February 12 vote.</description>
+      <pubDate>Sun, 01 Feb 2026 07:22:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/features/2026/2/1/deeply-insecure-why-bangladeshi-minorities-are-scared-ahead-of-elections?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Farhan keeps faith as Pakistan face India in must-win clash</title>
       <link>https://www.dawn.com/news/1970279/farhan-keeps-faith-as-pakistan-face-india-in-must-win-clash</link>
@@ -6912,16 +6919,6 @@ Dhaka has been drawing closer to Islamabad following the downfall in 2024 of its
       <media:thumbnail url="https://img.etimg.com/photo/msid-126550953,imgsize-109296.cms" />
       <media:content url="https://img.etimg.com/photo/msid-126550953,imgsize-109296.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-126550953,imgsize-109296.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh’s interim government approves law to protect ‘July warriors’ from prosecution</title>
-      <link>https://www.thehindu.com/news/international/bangladeshs-interim-government-approves-law-to-protect-july-warriors-from-prosecution/article70512994.ece</link>
-      <description>Law Adviser Asif Nazrul said “the July revolutionists” were indemnified for the acts they committed with an aim of “political resistance” during the uprising under the “July Mass Uprising Protection and Accountability Ordinance”</description>
-      <pubDate>Thu, 15 Jan 2026 17:22:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladeshs-interim-government-approves-law-to-protect-july-warriors-from-prosecution/article70512994.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/qx9klw/article70513008.ece/alternates/LANDSCAPE_1200/Muhammad_Yunus_8.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/qx9klw/article70513008.ece/alternates/LANDSCAPE_1200/Muhammad_Yunus_8.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/qx9klw/article70513008.ece/alternates/LANDSCAPE_1200/Muhammad_Yunus_8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
