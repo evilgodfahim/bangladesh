@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 09:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 10:45:39 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh’s ex-leader Hasina and her UK lawmaker niece sentenced in graft case</title>
+      <link>https://abcnews.go.com/International/wireStory/bangladeshs-leader-hasina-uk-lawmaker-niece-sentenced-graft-129774461</link>
+      <description>Bangladesh&apos;s exiled former Prime Minister Sheikh Hasina has been sentenced to 10 years in jail and her niece, the British lawmaker Tulip Siddiq, to four years in connection with two cases involving a government township project</description>
+      <pubDate>Mon, 02 Feb 2026 09:41:46 +0000</pubDate>
+      <guid isPermaLink="true">https://abcnews.go.com/International/wireStory/bangladeshs-leader-hasina-uk-lawmaker-niece-sentenced-graft-129774461</guid>
+      <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_b05ea6f6b8080c43b2a35621ccf05ff2_4x3_384.jpg" />
+      <media:content url="https://s.abcnews.com/images/International/wirestory_b05ea6f6b8080c43b2a35621ccf05ff2_4x3_384.jpg" medium="image" />
+      <enclosure url="https://s.abcnews.com/images/International/wirestory_b05ea6f6b8080c43b2a35621ccf05ff2_4x3_384.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Sheikh Hasina sentenced to 10 years in jail by Bangladesh court in two corruption cases</title>
       <link>https://www.thehindu.com/news/international/sheikh-hasina-sentenced-to-10-years-in-jail-by-bangladesh-court-in-two-corruption-cases/article70582297.ece</link>
@@ -6756,16 +6766,6 @@ Under the agreement, the student-led...</description>
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/2vbhj3/article70518100.ece/alternates/LANDSCAPE_1200/6607_6_12_2025_16_41_37_4_IMG_20251206_163729.JPG" />
       <media:content url="https://th-i.thgim.com/public/incoming/2vbhj3/article70518100.ece/alternates/LANDSCAPE_1200/6607_6_12_2025_16_41_37_4_IMG_20251206_163729.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/2vbhj3/article70518100.ece/alternates/LANDSCAPE_1200/6607_6_12_2025_16_41_37_4_IMG_20251206_163729.JPG" type="image/jpeg" />
-    </item>
-    <item>
-      <title>R-Day alert: Intel flags terror threat from Bangladeshi, Khalistani outfits; Delhi among targets</title>
-      <link>https://timesofindia.indiatimes.com/india/republic-day-alert-intel-flags-terror-threat-from-bangladeshi-khalistani-outfits-delhi-among-targets/articleshow/126606555.cms</link>
-      <description>Delhi and other major cities are on high alert for Republic Day due to intelligence warnings of potential attacks by Khalistani and Bangladesh-based terror groups.  These outfits are reportedly using Punjab-based gangsters as operatives, with increasing links to criminal networks across North India. Security forces are enhancing surveillance to counter these threats.</description>
-      <pubDate>Sat, 17 Jan 2026 07:35:30 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/india/republic-day-alert-intel-flags-terror-threat-from-bangladeshi-khalistani-outfits-delhi-among-targets/articleshow/126606555.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-126606887,imgsize-897519.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-126606887,imgsize-897519.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-126606887,imgsize-897519.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
