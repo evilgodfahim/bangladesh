@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 14:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 14:52:35 +0000</lastBuildDate>
     <item>
       <title>Opinion: Opinion | &apos;Women Unfit For Leadership&apos;: On Bangladesh Jamaat&apos;s Ban On Women Candidates</title>
       <link>https://www.ndtv.com/opinion/women-unfit-for-leadership-why-bangladesh-jamaats-ban-on-women-candidates-must-raise-alarm-10938939#publisher=newsstand</link>
@@ -631,6 +631,16 @@ Saudi Arabia and Libya were also exploring the aircraft, Reuters reported separa
       <media:thumbnail url="https://i.dawn.com/large/2026/02/02160916c2e4922.webp" />
       <media:content url="https://i.dawn.com/large/2026/02/02160916c2e4922.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/02/02160916c2e4922.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh had a grievance, Pakistan’s World Cup protest is only theatre</title>
+      <link>https://indianexpress.com/article/opinion/columns/india-pakistan-bangladesh-cricket-politics-t20-world-cup-boycott-10509324/</link>
+      <description></description>
+      <pubDate>Mon, 02 Feb 2026 11:31:33 +0000</pubDate>
+      <guid isPermaLink="true">https://indianexpress.com/article/opinion/columns/india-pakistan-bangladesh-cricket-politics-t20-world-cup-boycott-10509324/</guid>
+      <media:thumbnail url="https://images.indianexpress.com/2025/09/india-vs-pakistan-asia-cup-final-1.jpg" />
+      <media:content url="https://images.indianexpress.com/2025/09/india-vs-pakistan-asia-cup-final-1.jpg" medium="image" />
+      <enclosure url="https://images.indianexpress.com/2025/09/india-vs-pakistan-asia-cup-final-1.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Bangladesh had a grievance. Pakistan’s world cup protest is only theatre</title>
@@ -6711,13 +6721,6 @@ Under the agreement, the student-led...</description>
       <media:thumbnail url="https://img.etimg.com/photo/msid-126641900,imgsize-47730.cms" />
       <media:content url="https://img.etimg.com/photo/msid-126641900,imgsize-47730.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-126641900,imgsize-47730.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Hindu businessman beaten to death in Bangladesh over bananas, three detained</title>
-      <link>https://www.thehindu.com/news/international/hindu-businessman-beaten-to-death-in-bangladesh-over-bananas-three-detained/article70521534.ece</link>
-      <description>It has not been confirmed whether the incident that occurred in the Kaliganj area of Gazipur district is related to the recent spate of violence against Hindus in Bangladesh</description>
-      <pubDate>Sun, 18 Jan 2026 07:56:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/hindu-businessman-beaten-to-death-in-bangladesh-over-bananas-three-detained/article70521534.ece</guid>
     </item>
   </channel>
 </rss>
