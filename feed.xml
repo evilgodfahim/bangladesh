@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Feb 2026 06:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 07:48:14 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh invites India as an election observer. How does this work?</title>
+      <link>https://www.firstpost.com/explainers/bangladesh-invites-india-as-an-election-observer-how-does-this-work-13975772.html</link>
+      <description></description>
+      <pubDate>Wed, 04 Feb 2026 06:40:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.firstpost.com/explainers/bangladesh-invites-india-as-an-election-observer-how-does-this-work-13975772.html</guid>
+    </item>
     <item>
       <title>Spin-heavy Pakistan hit form, but India boycott risks early T20 exit</title>
       <link>https://www.dawn.com/news/1971007/spin-heavy-pakistan-hit-form-but-india-boycott-risks-early-t20-exit</link>
@@ -6752,16 +6759,6 @@ Under the agreement, the student-led...</description>
       <media:thumbnail url="https://img.etimg.com/photo/msid-126669811,imgsize-181424.cms" />
       <media:content url="https://img.etimg.com/photo/msid-126669811,imgsize-181424.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-126669811,imgsize-181424.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Final call on Bangladesh’s T20 World Cup participation to be taken on January 21</title>
-      <link>https://www.thehindu.com/sport/cricket/final-call-on-bangladeshs-t20-world-cup-participation-to-be-taken-on-january-21/article70524245.ece</link>
-      <description>If Bangladesh refuses to send their team to India, ICC is likely to name a replacement, and as per current rankings, it could be Scotland</description>
-      <pubDate>Mon, 19 Jan 2026 04:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/sport/cricket/final-call-on-bangladeshs-t20-world-cup-participation-to-be-taken-on-january-21/article70524245.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/news/national/6sl0cp/article70524273.ece/alternates/LANDSCAPE_1200/T20WorldCup.jpg" />
-      <media:content url="https://th-i.thgim.com/public/news/national/6sl0cp/article70524273.ece/alternates/LANDSCAPE_1200/T20WorldCup.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/news/national/6sl0cp/article70524273.ece/alternates/LANDSCAPE_1200/T20WorldCup.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
