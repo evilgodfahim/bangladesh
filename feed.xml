@@ -5,16 +5,24 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 07:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 08:29:42 +0000</lastBuildDate>
+    <item>
+      <title>Nipah virus claims one life in Bangladesh: WHO</title>
+      <link>https://www.geo.tv/latest/649527-who-says-one-person-dead-from-nipah-virus-in-bangladesh</link>
+      <description>&lt;img src=&quot;https://www.geo.tv/assets/uploads/updates/2026-02-07/l_649527_121519_updates.jpg&quot; /&gt;
+	            	Representational image shows doctors and relatives wearing protective gear digging a grave to bury the body of a victim, who lost his battle against the brain-damaging Nipah virus, during his funeral at a burial ground in Kozhikode, in the southern Indian state of Kerala, May 24, 2018....</description>
+      <pubDate>Sat, 07 Feb 2026 07:14:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.geo.tv/latest/649527-who-says-one-person-dead-from-nipah-virus-in-bangladesh</guid>
+      <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-02-07/l_649527_121519_updates.jpg" />
+      <media:content url="https://www.geo.tv/assets/uploads/updates/2026-02-07/l_649527_121519_updates.jpg" medium="image" />
+      <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-02-07/l_649527_121519_updates.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Who can vote in Bangladesh? Voter eligibility rules explained</title>
       <link>https://www.thehindu.com/news/international/bangladesh-elections-voter-eligibility-rules-explained-february-12/article70602841.ece</link>
-      <description>A significant reform for the upcoming Bangladesh general election is the implementation of postal voting for expatriates</description>
+      <description></description>
       <pubDate>Sat, 07 Feb 2026 07:05:51 +0000</pubDate>
       <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-elections-voter-eligibility-rules-explained-february-12/article70602841.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/y2jfbz/article69744230.ece/alternates/LANDSCAPE_1200/Bangladesh_Election.JPEG-0a44b.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/y2jfbz/article69744230.ece/alternates/LANDSCAPE_1200/Bangladesh_Election.JPEG-0a44b.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/y2jfbz/article69744230.ece/alternates/LANDSCAPE_1200/Bangladesh_Election.JPEG-0a44b.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>WHO says one person dead from Nipah virus in Bangladesh</title>
@@ -7287,16 +7295,6 @@ The offence was framed under Section 77A(1) of the Solid Waste and Public Cleans
       <media:thumbnail url="https://i.dawn.com/large/2026/01/22122529a6e00af.webp" />
       <media:content url="https://i.dawn.com/large/2026/01/22122529a6e00af.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/01/22122529a6e00af.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Campaigning starts for Bangladesh&apos;s first national election after Hasina&apos;s ouster</title>
-      <link>https://abcnews.go.com/International/wireStory/campaigning-starts-bangladeshs-national-election-after-hasinas-ouster-129444573</link>
-      <description>Campaigning has begun for Bangladesh&amp;rsquo;s elections next month</description>
-      <pubDate>Thu, 22 Jan 2026 07:09:34 +0000</pubDate>
-      <guid isPermaLink="true">https://abcnews.go.com/International/wireStory/campaigning-starts-bangladeshs-national-election-after-hasinas-ouster-129444573</guid>
-      <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_b71a45ce5046ceb3577dad8854f7f176_4x3_384.jpg" />
-      <media:content url="https://s.abcnews.com/images/International/wirestory_b71a45ce5046ceb3577dad8854f7f176_4x3_384.jpg" medium="image" />
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_b71a45ce5046ceb3577dad8854f7f176_4x3_384.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
