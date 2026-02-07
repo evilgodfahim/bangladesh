@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 22:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 23:34:11 +0000</lastBuildDate>
+    <item>
+      <title>WHO says one person dead from Nipah virus in Bangladesh</title>
+      <link>https://www.abc.net.au/news/2026-02-08/who-says-one-person-dead-from-nipah-virus-in-bangladesh/106318702</link>
+      <description>A woman dies in northern Bangladesh after contracting the deadly Nipah virus infection.</description>
+      <pubDate>Sat, 07 Feb 2026 22:24:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.abc.net.au/news/2026-02-08/who-says-one-person-dead-from-nipah-virus-in-bangladesh/106318702</guid>
+      <media:thumbnail url="https://live-production.wcms.abc-cdn.net.au/3013db75d47f52c133ad0ea24861c0bc?impolicy=wcms_crop_resize&amp;cropH=2511&amp;cropW=4463&amp;xPos=270&amp;yPos=367&amp;width=862&amp;height=485" />
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/3013db75d47f52c133ad0ea24861c0bc?impolicy=wcms_crop_resize&amp;cropH=2511&amp;cropW=4463&amp;xPos=270&amp;yPos=367&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/3013db75d47f52c133ad0ea24861c0bc?impolicy=wcms_crop_resize&amp;cropH=2511&amp;cropW=4463&amp;xPos=270&amp;yPos=367&amp;width=862&amp;height=485" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh PM front-runner rejects unity government offer, says his party set to win</title>
       <link>https://www.channelnewsasia.com/asia/bangladesh-pm-front-runner-rejects-unity-government-offer-says-his-party-set-win-5913536</link>
@@ -7321,13 +7331,6 @@ The offence was framed under Section 77A(1) of the Solid Waste and Public Cleans
       <description>The Bangladesh Cricket Board (BCB) has confirmed that its team will not travel to India for the T20 World Cup. The decision comes amid ongoing security concerns and unresolved issues with the Indian authorities. Officials said the board’s position will not change. Bangladesh Sports Advisor Dr. Asif Nazrul met with players before announcing the decision. [&amp;#8230;]</description>
       <pubDate>Thu, 22 Jan 2026 12:00:38 +0000</pubDate>
       <guid isPermaLink="true">https://dailytimes.com.pk/1439590/bangladesh-refuses-to-play-t20-world-cup-in-india/</guid>
-    </item>
-    <item>
-      <title>Fire at Cox’s Bazar refugee camp in Bangladesh destroyed homes and displaced thousands of Rohingya</title>
-      <link>https://apnews.com/article/coxs-bazar-bangladesh-fire-refugee-rohingya-214f605c498f3487f4a0b4fec7263561</link>
-      <description></description>
-      <pubDate>Thu, 22 Jan 2026 11:56:06 +0000</pubDate>
-      <guid isPermaLink="true">https://apnews.com/article/coxs-bazar-bangladesh-fire-refugee-rohingya-214f605c498f3487f4a0b4fec7263561</guid>
     </item>
   </channel>
 </rss>
