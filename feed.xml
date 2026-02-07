@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Feb 2026 19:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 20:27:54 +0000</lastBuildDate>
     <item>
       <title>After the uprising, Bangladesh returns to the ballot with its wounds still open</title>
       <link>https://www.abc.net.au/news/2026-02-08/bangladesh-returns-to-the-ballot-with-its-wounds-still-open/106296274</link>
@@ -15,6 +15,16 @@
       <media:thumbnail url="https://live-production.wcms.abc-cdn.net.au/264764b2ac8f258db0a040eb34491208?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485" />
       <media:content url="https://live-production.wcms.abc-cdn.net.au/264764b2ac8f258db0a040eb34491208?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/264764b2ac8f258db0a040eb34491208?impolicy=wcms_crop_resize&amp;cropH=2385&amp;cropW=4240&amp;xPos=0&amp;yPos=223&amp;width=862&amp;height=485" type="image/jpeg" />
+    </item>
+    <item>
+      <title>All About Muhammad Yunus, The Nobel Laureate Leading Bangladesh&apos;s Interim Government</title>
+      <link>https://www.ndtv.com/world-news/all-about-muhammad-yunus-the-nobel-laureate-leading-bangladeshs-interim-government-10952243#publisher=newsstand</link>
+      <description>Muhammad Yunus was awarded the Nobel Peace Prize in 2006 for his efforts to combat poverty</description>
+      <pubDate>Sat, 07 Feb 2026 18:45:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ndtv.com/world-news/all-about-muhammad-yunus-the-nobel-laureate-leading-bangladeshs-interim-government-10952243#publisher=newsstand</guid>
+      <media:thumbnail url="https://c.ndtvimg.com/2026-02/dgigehmg_yunus-_625x300_08_February_26.jpeg" />
+      <media:content url="https://c.ndtvimg.com/2026-02/dgigehmg_yunus-_625x300_08_February_26.jpeg" medium="image" />
+      <enclosure url="https://c.ndtvimg.com/2026-02/dgigehmg_yunus-_625x300_08_February_26.jpeg" type="image/jpeg" />
     </item>
     <item>
       <title>Shepherd takes hat-trick as West Indies beat Scotland in T20 World Cup</title>
@@ -7319,16 +7329,6 @@ The offence was framed under Section 77A(1) of the Solid Waste and Public Cleans
       <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-01-22/l_646593_043940_updates.jpg" />
       <media:content url="https://www.geo.tv/assets/uploads/updates/2026-01-22/l_646593_043940_updates.jpg" medium="image" />
       <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-01-22/l_646593_043940_updates.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>12 sailors rescued from sinking Bangladeshi vessel in West Bengal river</title>
-      <link>https://www.thehindu.com/news/national/west-bengal/12-sailors-rescued-from-sinking-bangladeshi-vessel-in-west-bengal-river/article70537595.ece</link>
-      <description>Officials said they are examining whether poor visibility due to fog or a mechanical fault led to the mishap</description>
-      <pubDate>Thu, 22 Jan 2026 11:37:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/west-bengal/12-sailors-rescued-from-sinking-bangladeshi-vessel-in-west-bengal-river/article70537595.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/rfjwli/article70537643.ece/alternates/LANDSCAPE_1200/IMG_Preparations_for_lan_2_1_75CRFF2F.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/rfjwli/article70537643.ece/alternates/LANDSCAPE_1200/IMG_Preparations_for_lan_2_1_75CRFF2F.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/rfjwli/article70537643.ece/alternates/LANDSCAPE_1200/IMG_Preparations_for_lan_2_1_75CRFF2F.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
