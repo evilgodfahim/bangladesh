@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 22:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 23:41:23 +0000</lastBuildDate>
     <item>
       <title>‘Only purpose was to get B’desh respect’</title>
       <link>https://dailytimes.com.pk/1449348/only-purpose-was-to-get-bdesh-respect/</link>
@@ -22,6 +22,16 @@
       <media:thumbnail url="https://static.toiimg.com/photo/msid-128176479,imgsize-1684399.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-128176479,imgsize-1684399.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-128176479,imgsize-1684399.cms" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh plans to shift from Indian to U.S. cotton</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-will-replace-indian-cotton-with-us-cotton-interim-government/article70615448.ece</link>
+      <description>Information adviser says ‘game changer’ trade deal can provide Bangladesh greater access to U.S. market; experts caution it will prevent Dhaka from exploring other cotton-producing countries</description>
+      <pubDate>Tue, 10 Feb 2026 20:53:24 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-will-replace-indian-cotton-with-us-cotton-interim-government/article70615448.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/s1nifs/article70617182.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%203.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/s1nifs/article70617182.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%203.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/s1nifs/article70617182.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design%203.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Bangladesh Has Exposed Democracy’s Deeper Problem</title>
@@ -4894,7 +4904,7 @@ Saudi Arabia and Libya were also exploring the aircraft, Reuters reported separa
 
 
   &lt;div class=&quot;media media-teaser_landscape_rss media-image&quot;&gt;
-                        &lt;img alt=&quot;Prime Minister Narendra Modi, waits to welcome his Bangladeshi counterpart Sheikh Hasina at the Hyderabad House on 22 June 2024 in New Delhi, India.&quot; height=&quot;600&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-02/2026-02-02-india-bangladesh-2158192560.jpg?itok=uKGpDpPc&quot; width=&quot;1200&quot; /&gt;
+                        &lt;img alt=&quot;alt&quot; height=&quot;600&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-02/2026-02-02-india-bangladesh-2158192560.jpg?itok=uKGpDpPc&quot; width=&quot;1200&quot; /&gt;
 
   
 
@@ -7412,16 +7422,6 @@ WHO official representative in Geneva Tarik Jasarevic told RIA Novosti that the 
       <media:thumbnail url="https://dims.apnews.com/dims4/default/fe8bd08/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F1e%2Ff481c65ed68676e6a54c23de5b59%2Fa3fdb7a89dd54a43959940abb4562d75" />
       <media:content url="https://dims.apnews.com/dims4/default/fe8bd08/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F1e%2Ff481c65ed68676e6a54c23de5b59%2Fa3fdb7a89dd54a43959940abb4562d75" medium="image" />
       <enclosure url="https://dims.apnews.com/dims4/default/fe8bd08/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F1e%2Ff481c65ed68676e6a54c23de5b59%2Fa3fdb7a89dd54a43959940abb4562d75" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladeshi workers lured to Russia for jobs tricked into fighting brutal war in Ukraine</title>
-      <link>https://www.independent.co.uk/news/world/europe/bangladesh-russia-jobs-war-ukraine-b2908245.html</link>
-      <description>&lt;p&gt;Workers claim they were threatened with 10-year jail terms and beaten&lt;/p&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 07:06:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.independent.co.uk/news/world/europe/bangladesh-russia-jobs-war-ukraine-b2908245.html</guid>
-      <media:thumbnail url="https://static.independent.co.uk/2026/01/27/05/Russia_Ukraine_War_Bangladesh_Workers_73530.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" />
-      <media:content url="https://static.independent.co.uk/2026/01/27/05/Russia_Ukraine_War_Bangladesh_Workers_73530.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" medium="image" />
-      <enclosure url="https://static.independent.co.uk/2026/01/27/05/Russia_Ukraine_War_Bangladesh_Workers_73530.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" />
     </item>
   </channel>
 </rss>
