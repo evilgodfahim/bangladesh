@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2026 20:25:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 21:26:59 +0000</lastBuildDate>
     <item>
       <title>&apos;Bangladesh 1st&apos;: Tarique Rahman&apos;s Reply To Query On Ties With India</title>
       <link>https://www.ndtv.com/world-news/bangladesh-comes-first-bnp-chief-tarique-rahman-on-his-foreign-policy-11004456#publisher=newsstand</link>
@@ -42,6 +42,16 @@
       <media:thumbnail url="https://img.etimg.com/photo/msid-128357792,imgsize-75866.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128357792,imgsize-75866.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128357792,imgsize-75866.cms" type="image/jpeg" />
+    </item>
+    <item>
+      <title>What’s in store for garment exporters to the U.S.? | Explained</title>
+      <link>https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece</link>
+      <description>What has the U.S. promised Bangladesh with respect to textiles? What are the conditions laid down by the U.S. to give Bangladeshi exporters unprecedented access to American markets? What is the assurance that Union Commerce Minister Piyush Goyal gave Indian textile exporters?</description>
+      <pubDate>Sat, 14 Feb 2026 18:13:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/business/Industry/whats-in-store-for-garment-exporters-to-the-us-explained/article70633290.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/nx6l09/article70633332.ece/alternates/LANDSCAPE_1200/2025-08-07T145208Z_1044761173_RC2H3EACZ6XW_RTRMADP_3_USA-TRUMP-TARIFFS-INDIA-GARMENTS-PIX.JPG" type="image/jpeg" />
     </item>
     <item>
       <title>Bangladesh’s new cabinet to take oath on February 17</title>
@@ -5845,16 +5855,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <description></description>
       <pubDate>Thu, 12 Feb 2026 00:09:46 +0000</pubDate>
       <guid isPermaLink="true">https://www.hindustantimes.com/world-news/bangladesh-election-2026-live-updates-voting-results-bnp-tarique-rahman-jamaat-sheikh-hasina-yunus-parliamentary-dhaka-101770854350046.html</guid>
-    </item>
-    <item>
-      <title>Bangladesh polls highlights: BNP inches towards majority, Jamaat bags 34; Tarique Rahman wins 2 seats</title>
-      <link>https://www.hindustantimes.com/world-news/bangladesh-election-2026-live-updates-voting-results-bnp-tarique-rahman-jamaat-sheikh-hasina-yunus-parliamentary-dhaka-101770854350046.html</link>
-      <description>Bangladesh polls highlights: Bangladesh&apos;s parliament, called the Jatiya Sangsad, has 300 seats, with 151 required for a simple majority.</description>
-      <pubDate>Thu, 12 Feb 2026 00:09:46 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/bangladesh-election-2026-live-updates-voting-results-bnp-tarique-rahman-jamaat-sheikh-hasina-yunus-parliamentary-dhaka-101770854350046.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/02/12/1600x900/logo/BANGLADESH-ELECTION--69_1770913548969_1770913560601.JPG" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/02/12/1600x900/logo/BANGLADESH-ELECTION--69_1770913548969_1770913560601.JPG" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/02/12/1600x900/logo/BANGLADESH-ELECTION--69_1770913548969_1770913560601.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
