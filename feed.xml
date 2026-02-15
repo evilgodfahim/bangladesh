@@ -5,7 +5,44 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 20:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 21:28:07 +0000</lastBuildDate>
+    <item>
+      <title>Gisèle Pelicot Speaks</title>
+      <link>https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</link>
+      <description>She was repeatedly drugged by her husband and raped in a series of crimes that shocked the world. Pelicot talked to us about her new memoir.</description>
+      <pubDate>Sun, 15 Feb 2026 21:15:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</guid>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" />
+      <media:content url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hindus among four from minority communities elected to Bangladesh parliament</title>
+      <link>https://www.thehindu.com/news/international/hindus-among-four-from-minority-communities-elected-to-bangladesh-parliament/article70636475.ece</link>
+      <description>Goyeshwar Chandra Roy and Nitai Roy Chowdhury are the two Hindu candidates who won on a Bangladesh Nationalist Party (BNP) ticket</description>
+      <pubDate>Sun, 15 Feb 2026 20:30:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/hindus-among-four-from-minority-communities-elected-to-bangladesh-parliament/article70636475.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/wowadn/article70636479.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000121B.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/wowadn/article70636479.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000121B.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/wowadn/article70636479.ece/alternates/LANDSCAPE_1200/PTI02_13_2026_000121B.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two Hindus among four from minority communities elected to Bangladesh parliament</title>
+      <link>https://www.hindustantimes.com/world-news/two-hindus-among-four-from-minority-communities-elected-to-bangladesh-parliament-101771184860985.html</link>
+      <description>Hindus make up about eight per cent of the population in the Muslim-majority country of 170 million people.</description>
+      <pubDate>Sun, 15 Feb 2026 19:56:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/two-hindus-among-four-from-minority-communities-elected-to-bangladesh-parliament-101771184860985.html</guid>
+      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/02/15/1600x900/logo/BANGLADESH-POLITICS-VOTE-28_1771185266993_1771185301147.jpg" />
+      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/02/15/1600x900/logo/BANGLADESH-POLITICS-VOTE-28_1771185266993_1771185301147.jpg" medium="image" />
+      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/02/15/1600x900/logo/BANGLADESH-POLITICS-VOTE-28_1771185266993_1771185301147.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How Bangladesh Went From Revolution to Elections</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/video/world/100000010700965/how-bangladesh-went-from-revolution-to-fresh-elections.html</link>
+      <description></description>
+      <pubDate>Sun, 15 Feb 2026 19:54:44 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/video/world/100000010700965/how-bangladesh-went-from-revolution-to-fresh-elections.html</guid>
+    </item>
     <item>
       <title>How Bangladesh Went From Revolution to Elections</title>
       <link>https://www.nytimes.com/video/world/100000010700965/how-bangladesh-went-from-revolution-to-fresh-elections.html</link>
@@ -1983,13 +2020,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <description>Bangladesh Nationalist Party wins in a landslide two years after student-led revolt.</description>
       <pubDate>Fri, 13 Feb 2026 20:02:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/inside-story/2026/2/13/what-are-the-challenges-facing-bangladeshs-election-winners?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>How Bangladesh Went From Revolution to Elections</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/video/world/100000010700965/how-bangladesh-went-from-revolution-to-fresh-elections.html</link>
-      <description></description>
-      <pubDate>Fri, 13 Feb 2026 19:05:10 +0000</pubDate>
-      <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/video/world/100000010700965/how-bangladesh-went-from-revolution-to-fresh-elections.html</guid>
     </item>
     <item>
       <title>Bangladesh ends its authoritarian chapter as BNP wins parliamentary majority</title>
@@ -6052,85 +6082,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://c.ndtvimg.com/2026-02/mnrrn1sc_bangladesh-election-2026_625x300_11_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2026-02/mnrrn1sc_bangladesh-election-2026_625x300_11_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2026-02/mnrrn1sc_bangladesh-election-2026_625x300_11_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh polls LIVE: Democracy is reborn in the country today, says Mohammed Yunus</title>
-      <link>https://www.thehindu.com/news/international/bangladesh-elections-live-updates-thursday-february-12-2026/article70622357.ece</link>
-      <description>The contest pits two coalitions led by former allies, ‌the Bangladesh Nationalist Party (BNP) and the Islamist Jamaat-e-Islami, with opinion polls giving an edge to the ‌BNP</description>
-      <pubDate>Thu, 12 Feb 2026 05:37:25 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-elections-live-updates-thursday-february-12-2026/article70622357.ece</guid>
-    </item>
-    <item>
-      <title>Bangladesh votes in landmark election after Gen Z revolution</title>
-      <link>https://www.dawn.com/news/1972693/bangladesh-votes-in-landmark-election-after-gen-z-revolution</link>
-      <description>&lt;p&gt;Bangladeshis lined up outside polling booths on Thursday as voting began for what many say is a pivotal election for the South Asian nation, marking a return to democracy after the 2024 ouster of long-time premier Sheikh Hasina in a Gen Z-driven uprising.&lt;/p&gt;
-&lt;p&gt;Analysts say a decisive result is crucial for steady governance in the nation of 175 million, as the deadly anti-Hasina protests triggered months of unrest and disrupted key industries, including the garments sector, the worlds second-largest exporter.&lt;/p&gt;
-&lt;p&gt;It is the world’s first election after a revolution led by under-30s, or Gen Z, to be followed by Nepal next month.&lt;/p&gt;
-    &lt;figure class=&quot;media  w-full  sm:w-full  media--left  &quot;&gt;
-        &lt;div class=&quot;media__item  &quot;&gt;&lt;img alt=&quot;Bangladesh Jamaat-e-Islami party leader Shafiqur Rahman reacts after casting his vote at a polling station during Bangladesh&amp;rsquo;s general election in Dhaka on February 12, 2026. &amp;mdash; AFP&quot; src=&quot;https://i.dawn.com/large/2026/02/12093305ef40384.webp&quot; /&gt;&lt;/div&gt;
-        &lt;figcaption class=&quot;media__caption  &quot;&gt;Bangladesh Jamaat-e-Islami party leader Shafiqur Rahman reacts after casting his vote at a polling station during Bangladesh’s general election in Dhaka on February 12, 2026. — AFP&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;p&gt;The contest pits two coalitions led by former allies, the Bangladesh Nationalist Party (BNP) and the Jamaat-e-Islami, with opinion polls giving an edge to the BNP.&lt;/p&gt;
-&lt;p&gt;In Dhaka, the capital, people queued up outside voting booths before polls opened at 7:30am local time (0130 GMT), including eager participants like Mohammed Jobair Hossain, 39, who said he last voted in 2008.&lt;/p&gt;
-&lt;p&gt;“I am feeling excited because we are voting in a free manner after 17 years,” Hossain said as he waited in line. “Our votes will matter and have meaning.”&lt;/p&gt;
-&lt;p&gt;Hasina’s Awami League is banned, and she remains in self-imposed exile in long-term ally India, opening the window for China to expand its influence in Bangladesh as Dhaka’s ties with New Delhi deteriorate.&lt;/p&gt;
-&lt;p&gt;Unlike previous elections marred by opposition boycotts and intimidation, more than 2,000 candidates, including many independents, are vying for 300 seats in the Jatiya Sangsad, or House of the Nation.&lt;/p&gt;
-    &lt;figure class=&quot;media  w-full  sm:w-full  media--left  &quot;&gt;
-        &lt;div class=&quot;media__item  &quot;&gt;&lt;img alt=&quot;Bangladeshi soldiers stand guard as people line up outside a polling station ahead of the polls opening for Bangladesh&amp;rsquo;s general election in Dhaka on February 12, 2026. &amp;mdash;AFP&quot; src=&quot;https://i.dawn.com/large/2026/02/12093506b2efeee.webp&quot; /&gt;&lt;/div&gt;
-        &lt;figcaption class=&quot;media__caption  &quot;&gt;Bangladeshi soldiers stand guard as people line up outside a polling station ahead of the polls opening for Bangladesh’s general election in Dhaka on February 12, 2026. —AFP&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;p&gt;Voting in one constituency has been postponed due to the death of a candidate. At least 50 parties are contesting in total, a national record.&lt;/p&gt;
-&lt;p&gt;“This election is not just another routine vote, Nobel laureate Muhammad Yunus, head of an interim government installed after Hasinas ouster, said this week.&lt;/p&gt;
-&lt;p&gt;The public awakening we witnessed against long-standing anger, inequality, deprivation and injustice finds its constitutional expression in this election.&lt;/p&gt;
-&lt;p&gt;In parallel, there will be a referendum on a set of constitutional reforms, including establishing a neutral interim government for election periods, restructuring parliament into a bicameral legislature, increasing women’s representation, strengthening judicial independence and imposing a two-term limit on the prime minister.&lt;/p&gt;
-&lt;p&gt;Despite the crowded field and expectations of a close race, the campaign period remained largely peaceful, barring a few incidents.&lt;/p&gt;
-    &lt;figure class=&quot;media  w-full  sm:w-full  media--left  &quot;&gt;
-        &lt;div class=&quot;media__item  &quot;&gt;&lt;img alt=&quot;Voters stand in the queue to cast their vote at a polling station during the 13th general election in Dhaka, Bangladesh, February 12, 2026. &amp;mdash; Reuters&quot; src=&quot;https://i.dawn.com/large/2026/02/120937507c64221.webp&quot; /&gt;&lt;/div&gt;
-        &lt;figcaption class=&quot;media__caption  &quot;&gt;Voters stand in the queue to cast their vote at a polling station during the 13th general election in Dhaka, Bangladesh, February 12, 2026. — Reuters&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;p&gt;The crucial test for Bangladesh now will be to ensure the election is conducted fairly and impartially, and for all parties to then accept the result, said Thomas Kean, a senior consultant with the International Crisis Group.&lt;/p&gt;
-&lt;p&gt;If that happens, it will be the strongest evidence yet that Bangladesh has indeed embarked on a period of democratic renewal.&lt;/p&gt;
-&lt;p&gt;On election day, more than 100,000 soldiers from the army, navy and air force will assist nearly 200,000 police in maintaining law and order.&lt;/p&gt;
-&lt;h2&gt;&lt;a class=&quot;heading-permalink&quot; href=&quot;https://www.dawn.com/feeds/latest-news/#early-start-late-finish&quot; id=&quot;early-start-late-finish&quot; title=&quot;Permalink&quot;&gt;&lt;/a&gt;Early start, late finish&lt;/h2&gt;
-&lt;p&gt;Polling opened at 7:30am (0230 GMT) and closes at 4:30pm. Counting will begin soon after, with early trends expected around midnight and results likely to be clear by Friday morning, Election Commission officials said.&lt;/p&gt;
-&lt;p&gt;Nearly 128 million people are registered to vote, 49% of them women. But only 83 female candidates are contesting.&lt;/p&gt;
-    &lt;figure class=&quot;media  w-full  sm:w-full  media--left  &quot;&gt;
-        &lt;div class=&quot;media__item  &quot;&gt;&lt;img alt=&quot;Members of the army patrol outside the polling station during the 13th general election in Dhaka, Bangladesh, February 12, 2026. &amp;mdash;Reuters&quot; src=&quot;https://i.dawn.com/large/2026/02/1209400984f2aa7.webp&quot; /&gt;&lt;/div&gt;
-        &lt;figcaption class=&quot;media__caption  &quot;&gt;Members of the army patrol outside the polling station during the 13th general election in Dhaka, Bangladesh, February 12, 2026. —Reuters&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;p&gt;Corruption and inflation are the biggest issues among voters, a recent survey found.&lt;/p&gt;
-&lt;p&gt;The two prime ministerial candidates are the BNP’s Tarique Rahman and Jamaat chief Shafiqur Rahman. They are not related.&lt;/p&gt;
-&lt;p&gt;Several voters are conflicted about participating in the election.&lt;/p&gt;
-&lt;p&gt;Some, like rickshaw puller Chan Mia, say they cannot afford to travel to their villages to vote and lose their daily income in Dhaka. Others, such as gatekeeper Mohammad Sabuj, feel disillusioned because Hasina’s party is barred.&lt;/p&gt;
-&lt;p&gt;But some are determined to cast their ballots.&lt;/p&gt;
-&lt;p&gt;“During Hasina’s time, we couldn’t cast our votes,” said Shakil Ahmed, a driver. “Its my right to vote. This time, I won’t miss it.”&lt;/p&gt;
-&lt;h2&gt;&lt;a class=&quot;heading-permalink&quot; href=&quot;https://www.dawn.com/feeds/latest-news/#president-zardari-hopes-for-peaceful-process&quot; id=&quot;president-zardari-hopes-for-peaceful-process&quot; title=&quot;Permalink&quot;&gt;&lt;/a&gt;President Zardari hopes for peaceful process&lt;/h2&gt;
-&lt;p&gt;President Asif Ali Zardari said he hoped for a peaceful election process in Bangladesh, according to a post by the president’s official account on social media platform X on Thursday morning.&lt;/p&gt;
-&lt;p&gt;“President Asif Ali Zardari extends best wishes to the people of Bangladesh as over 127 million voters head to the polls today to elect representatives to 300 seats,” the statement said.&lt;/p&gt;
-&lt;p&gt;He expressed hope for “a peaceful process that strengthens democracy and stability”, the post added.&lt;/p&gt;
-    &lt;figure class=&quot;media  w-full  w-full  media--left  media--embed  media--uneven media--tweet&quot;&gt;
-        &lt;div class=&quot;media__item  media__item--twitter  &quot;&gt;&lt;span&gt;
-    &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;
-        &lt;a href=&quot;https://twitter.com/PresOfPakistan/status/2021771177405165962&quot;&gt;&lt;/a&gt;
-    &lt;/blockquote&gt;
-&lt;/span&gt;&lt;/div&gt;
-        
-    &lt;/figure&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 05:37:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.dawn.com/news/1972693/bangladesh-votes-in-landmark-election-after-gen-z-revolution</guid>
-      <media:thumbnail url="https://i.dawn.com/large/2026/02/12090647900eadf.webp" />
-      <media:content url="https://i.dawn.com/large/2026/02/12090647900eadf.webp" medium="image" />
-      <enclosure url="https://i.dawn.com/large/2026/02/12090647900eadf.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Polls open for Bangladesh’s first election since the 2024 uprising that ousted Hasina</title>
-      <link>https://abcnews.go.com/International/wireStory/polls-open-bangladeshs-election-2024-uprising-ousted-hasina-130084536</link>
-      <description>Polls have opened across Bangladesh for voters to cast ballots in a parliamentary election seen as a critical test of the country&amp;rsquo;s democracy after years of political turmoil</description>
-      <pubDate>Thu, 12 Feb 2026 05:33:31 +0000</pubDate>
-      <guid isPermaLink="true">https://abcnews.go.com/International/wireStory/polls-open-bangladeshs-election-2024-uprising-ousted-hasina-130084536</guid>
-      <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_3662258dc5c44535c839e7bcc4baed43_4x3_384.jpg" />
-      <media:content url="https://s.abcnews.com/images/International/wirestory_3662258dc5c44535c839e7bcc4baed43_4x3_384.jpg" medium="image" />
-      <enclosure url="https://s.abcnews.com/images/International/wirestory_3662258dc5c44535c839e7bcc4baed43_4x3_384.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
