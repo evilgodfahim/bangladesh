@@ -5,12 +5,19 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 21:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 22:23:38 +0000</lastBuildDate>
+    <item>
+      <title>Gisèle Pelicot Speaks</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</link>
+      <description>She was repeatedly drugged by her husband and raped in a series of crimes that shocked the world. Pelicot talked to us about her new memoir.</description>
+      <pubDate>Sun, 15 Feb 2026 21:33:54 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</guid>
+    </item>
     <item>
       <title>Gisèle Pelicot Speaks</title>
       <link>https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</link>
       <description>She was repeatedly drugged by her husband and raped in a series of crimes that shocked the world. Pelicot talked to us about her new memoir.</description>
-      <pubDate>Sun, 15 Feb 2026 21:15:14 +0000</pubDate>
+      <pubDate>Sun, 15 Feb 2026 21:33:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</guid>
       <media:thumbnail url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" />
       <media:content url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" medium="image" />
@@ -6072,16 +6079,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <description></description>
       <pubDate>Thu, 12 Feb 2026 05:43:54 +0000</pubDate>
       <guid isPermaLink="true">https://www.firstpost.com/explainers/bangladesh-elections-tarique-rahman-prime-minister-frontrunner-13978847.html</guid>
-    </item>
-    <item>
-      <title>Bangladesh Election 2026 LIVE: Clashes Reported Between Jamaat, BNP Supporters In Dhaka As Bangladesh Votes</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand</link>
-      <description>Bangladesh General Election 2026:</description>
-      <pubDate>Thu, 12 Feb 2026 05:39:50 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-02/mnrrn1sc_bangladesh-election-2026_625x300_11_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2026-02/mnrrn1sc_bangladesh-election-2026_625x300_11_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-02/mnrrn1sc_bangladesh-election-2026_625x300_11_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
