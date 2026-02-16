@@ -5,23 +5,23 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 23:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 01:21:21 +0000</lastBuildDate>
+    <item>
+      <title>Gisèle Pelicot Speaks</title>
+      <link>https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</link>
+      <description>She was repeatedly drugged by her husband and raped in a series of crimes that shocked the world. Pelicot talked to us about her new memoir.</description>
+      <pubDate>Mon, 16 Feb 2026 00:00:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</guid>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" />
+      <media:content url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Gisèle Pelicot Speaks</title>
       <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</link>
       <description>She was repeatedly drugged by her husband and raped in a series of crimes that shocked the world. Pelicot talked to us about her new memoir.</description>
       <pubDate>Sun, 15 Feb 2026 21:33:54 +0000</pubDate>
       <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</guid>
-    </item>
-    <item>
-      <title>Gisèle Pelicot Speaks</title>
-      <link>https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</link>
-      <description>She was repeatedly drugged by her husband and raped in a series of crimes that shocked the world. Pelicot talked to us about her new memoir.</description>
-      <pubDate>Sun, 15 Feb 2026 21:33:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/02/15/world/gisele-pelicot-bangladesh-china-nuclear.html</guid>
-      <media:thumbnail url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" />
-      <media:content url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/02/14/magazine/16int-theworld-interview-pelicot-promo/16int-theworld-interview-pelicot-promo-mediumSquareAt3X.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Hindus among four from minority communities elected to Bangladesh parliament</title>
@@ -337,6 +337,13 @@
       <description>As BNP&amp;#039;s Rahman ascends to power, young Bangladeshis demand gov&amp;#039;t prioritise their voices and deliver on poll promises.</description>
       <pubDate>Sun, 15 Feb 2026 10:03:18 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/2/15/very-hopeful-cautious-optimism-among-gen-z-bangladeshis-after-key-vote?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>Bangladesh’s Islamist-led coalition submits complaints challenging poll results</title>
+      <link>https://www.straitstimes.com/asia/south-asia/bangladeshs-islamist-led-coalition-submits-poll-complaints</link>
+      <description>&lt;p&gt;Police records show that political clashes during the campaign period left five people dead and more than 600 injured.&lt;/p&gt;</description>
+      <pubDate>Sun, 15 Feb 2026 09:50:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.straitstimes.com/asia/south-asia/bangladeshs-islamist-led-coalition-submits-poll-complaints</guid>
     </item>
     <item>
       <title>Bangladesh’s Islamist-led coalition submits poll complaints</title>
@@ -6069,13 +6076,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <description></description>
       <pubDate>Thu, 12 Feb 2026 05:49:34 +0000</pubDate>
       <guid isPermaLink="true">https://www.thehindu.com/shorts/bangladesh-goes-to-polls-to-select-leaders-in-crucial-parliamentary-elections/article70622723.ece</guid>
-    </item>
-    <item>
-      <title>Will Tarique Rahman be Bangladesh’s new PM? From exile to frontrunner</title>
-      <link>https://www.firstpost.com/explainers/bangladesh-elections-tarique-rahman-prime-minister-frontrunner-13978847.html</link>
-      <description></description>
-      <pubDate>Thu, 12 Feb 2026 05:43:54 +0000</pubDate>
-      <guid isPermaLink="true">https://www.firstpost.com/explainers/bangladesh-elections-tarique-rahman-prime-minister-frontrunner-13978847.html</guid>
     </item>
   </channel>
 </rss>
