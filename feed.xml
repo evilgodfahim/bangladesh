@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 15:49:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 16:50:21 +0000</lastBuildDate>
+    <item>
+      <title>Bangladeshi fugitive wanted for murder of police officer deported</title>
+      <link>https://www.thehindu.com/news/national/bangladeshi-fugitive-wanted-for-murder-of-police-officer-deported/article70653061.ece</link>
+      <description>Government officials identified the man as Ahmed Raza Hasan Mehdi, who was intercepted by immigration authorities while he was attempting to board a flight to a European destination</description>
+      <pubDate>Thu, 19 Feb 2026 16:27:34 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/bangladeshi-fugitive-wanted-for-murder-of-police-officer-deported/article70653061.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/vrvpcs/article70653214.ece/alternates/LANDSCAPE_1200/What-does-visiG8BFF2GND.3.jpg.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/vrvpcs/article70653214.ece/alternates/LANDSCAPE_1200/What-does-visiG8BFF2GND.3.jpg.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/vrvpcs/article70653214.ece/alternates/LANDSCAPE_1200/What-does-visiG8BFF2GND.3.jpg.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Indian visas in Bangladesh likely to be &apos;fully restored&apos; soon as Rahman takes charge</title>
       <link>https://timesofindia.indiatimes.com/india/indian-visas-in-bangladesh-likely-to-be-fully-restored-soon-as-tarique-rahman-takes-charge/articleshow/128560481.cms</link>
@@ -6537,13 +6547,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/dp7jhc/article70626993.ece/alternates/LANDSCAPE_1200/PTI01_24_2026_000069A.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/dp7jhc/article70626993.ece/alternates/LANDSCAPE_1200/PTI01_24_2026_000069A.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/dp7jhc/article70626993.ece/alternates/LANDSCAPE_1200/PTI01_24_2026_000069A.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh election results LIVE: BNP claims victory</title>
-      <link>https://www.thehindu.com/news/international/bangladesh-elections-live-results-updates-thursday-february-12-2026/article70622357.ece</link>
-      <description>The Bangladesh Nationalist Party (BNP) led by Tarique Rahman claimed election victory on Friday, a top party official told AFP, after the first polls since a deadly 2024 uprising</description>
-      <pubDate>Fri, 13 Feb 2026 03:44:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-elections-live-results-updates-thursday-february-12-2026/article70622357.ece</guid>
     </item>
   </channel>
 </rss>
