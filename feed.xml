@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 23:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 01:17:43 +0000</lastBuildDate>
     <item>
       <title>Amit Shah To Be In Assam Ahead of Polls, Will Visit Bangladesh Border</title>
       <link>https://www.ndtv.com/india-news/amit-shah-to-be-in-assam-ahead-of-polls-will-visit-bangladesh-border-11085966#publisher=newsstand</link>
@@ -297,6 +297,16 @@
       <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651613_063832_updates.jpg" />
       <media:content url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651613_063832_updates.jpg" medium="image" />
       <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651613_063832_updates.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh’s election represents politics as usual, and some hope for change</title>
+      <link>https://theconversation.com/bangladeshs-election-represents-politics-as-usual-and-some-hope-for-change-276001</link>
+      <description>This election is the first following the 2024 July uprising that led to the ouster of the country’s longest-serving prime minister, Sheikh Hasina.</description>
+      <pubDate>Wed, 18 Feb 2026 13:25:32 +0000</pubDate>
+      <guid isPermaLink="true">https://theconversation.com/bangladeshs-election-represents-politics-as-usual-and-some-hope-for-change-276001</guid>
+      <media:thumbnail url="https://counter.theconversation.com/content/276001/count.gif" />
+      <media:content url="https://counter.theconversation.com/content/276001/count.gif" medium="image" />
+      <enclosure url="https://counter.theconversation.com/content/276001/count.gif" type="image/jpeg" />
     </item>
     <item>
       <title>Headlines for February 18, 2026</title>
@@ -6540,13 +6550,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://static.toiimg.com/photo/msid-128287211,imgsize-797889.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-128287211,imgsize-797889.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-128287211,imgsize-797889.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh&apos;s BNP wins two-thirds majority in landmark election</title>
-      <link>https://www.straitstimes.com/asia/bangladeshs-bnp-wins-two-thirds-majority-in-landmark-election</link>
-      <description>&lt;p&gt;DHAKA, Feb 13 - The Bangladesh National Party (BNP) won a decisive two-thirds majority on Friday in general elections, a result expected to bring stability after months of tumult following the ouster of former Prime Minister Sheikh Hasina in a Gen Z-led uprising.&lt;/p&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 03:50:58 +0000</pubDate>
-      <guid isPermaLink="true">https://www.straitstimes.com/asia/bangladeshs-bnp-wins-two-thirds-majority-in-landmark-election</guid>
     </item>
   </channel>
 </rss>
