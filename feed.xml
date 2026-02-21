@@ -5,13 +5,20 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Feb 2026 14:29:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 16:26:17 +0000</lastBuildDate>
     <item>
       <title>Six Bangladeshi nationals with links to suspected terrorists arrested in Tiruppur</title>
       <link>https://www.thehindu.com/news/cities/Coimbatore/six-bangladeshi-nationals-with-links-to-suspected-terrorists-arrested-in-tiruppur/article70660466.ece</link>
       <description></description>
-      <pubDate>Sat, 21 Feb 2026 14:19:07 +0000</pubDate>
+      <pubDate>Sat, 21 Feb 2026 15:09:04 +0000</pubDate>
       <guid isPermaLink="true">https://www.thehindu.com/news/cities/Coimbatore/six-bangladeshi-nationals-with-links-to-suspected-terrorists-arrested-in-tiruppur/article70660466.ece</guid>
+    </item>
+    <item>
+      <title>5 killed in Bangladesh in auto-rickshaw, tanker collision</title>
+      <link>https://english.news.cn/20260221/f5861feb19e74010aa59840513644ad7/c.html</link>
+      <description></description>
+      <pubDate>Sat, 21 Feb 2026 13:56:40 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260221/f5861feb19e74010aa59840513644ad7/c.html</guid>
     </item>
     <item>
       <title>Top news of the day: Bangladesh moving towards restoring visa for Indians, say Diplomatic sources; Government studying implications of U.S. tariff, says Commerce Ministry, and more</title>
@@ -6630,13 +6637,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://static.toiimg.com/photo/msid-128287586,imgsize-854152.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-128287586,imgsize-854152.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-128287586,imgsize-854152.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>‘New’ Bangladesh or same old with tweaked face? Bit of both as ‘Khamba Tarique’ set to be PM Rahman</title>
-      <link>https://www.hindustantimes.com/world-news/new-bangladesh-khamba-tarique-set-to-be-pm-rahman-20-yrs-after-mother-khaleda-zia-ran-country-cat-zebu-viral-101770952244458.html</link>
-      <description></description>
-      <pubDate>Fri, 13 Feb 2026 05:39:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/new-bangladesh-khamba-tarique-set-to-be-pm-rahman-20-yrs-after-mother-khaleda-zia-ran-country-cat-zebu-viral-101770952244458.html</guid>
     </item>
   </channel>
 </rss>
