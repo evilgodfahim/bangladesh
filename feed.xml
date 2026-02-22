@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Feb 2026 12:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 13:37:31 +0000</lastBuildDate>
+    <item>
+      <title>How Bangladesh is the real prisoner of geography</title>
+      <link>https://www.firstpost.com/opinion/bangladesh-prisoner-of-geography-india-dependence-13982474.html</link>
+      <description></description>
+      <pubDate>Sun, 22 Feb 2026 12:30:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.firstpost.com/opinion/bangladesh-prisoner-of-geography-india-dependence-13982474.html</guid>
+    </item>
     <item>
       <title>Bangladesh voters backed a key reforms charter. Its implementation will be a challenge</title>
       <link>https://indianexpress.com/article/explained/explained-global/bangladesh-july-national-charter-tarique-rahman-bnp-10545691/</link>
@@ -6583,16 +6590,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <description></description>
       <pubDate>Fri, 13 Feb 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://time.com/7378368/bangladesh-election-result-bnp-tarique-rahman-interview-takeaways/</guid>
-    </item>
-    <item>
-      <title>Explained: What is Bangladesh’s ‘July Charter’ referendum and what it proposes</title>
-      <link>https://timesofindia.indiatimes.com/world/south-asia/explained-what-is-bangladeshs-july-charter-referendum-and-what-it-proposes/articleshow/128289871.cms</link>
-      <description></description>
-      <pubDate>Fri, 13 Feb 2026 05:57:42 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/explained-what-is-bangladeshs-july-charter-referendum-and-what-it-proposes/articleshow/128289871.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-128294100,imgsize-1126710.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-128294100,imgsize-1126710.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-128294100,imgsize-1126710.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
