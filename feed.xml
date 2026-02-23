@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 09:42:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 10:39:43 +0000</lastBuildDate>
+    <item>
+      <title>Tarique govt. reshuffles Bangladesh Army, calls back defence advisor in India</title>
+      <link>https://www.thehindu.com/news/international/tarique-govt-reshuffles-bangladesh-army-calls-back-defence-advisor-in-india/article70666523.ece</link>
+      <description>Lieutenant General M. Mainur Rahman, who previously served as the chief or General Officer Commanding of Army Training and Doctrine Command, has been appointed the CGS</description>
+      <pubDate>Mon, 23 Feb 2026 10:30:33 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/tarique-govt-reshuffles-bangladesh-army-calls-back-defence-advisor-in-india/article70666523.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/z2es9t/article70666582.ece/alternates/LANDSCAPE_1200/2026-02-17T133413Z_1383988890_RC2PNJAYS9Y9_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/z2es9t/article70666582.ece/alternates/LANDSCAPE_1200/2026-02-17T133413Z_1383988890_RC2PNJAYS9Y9_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/z2es9t/article70666582.ece/alternates/LANDSCAPE_1200/2026-02-17T133413Z_1383988890_RC2PNJAYS9Y9_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>After 14-Year Flight Ban, Stranded Bengalis in Pakistan Eye Emotional Reunions After Flights Resume</title>
       <link>https://www.eurasiantimes.com/after-14-year-flight-ban-stranded-bengalis-in-pakistan-eye-emotional-reunions-after-flights-resume/</link>
@@ -6584,13 +6594,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://images.indianexpress.com/2026/02/photo-2025-12-29T151344.143_20260213060342.jpg" />
       <media:content url="https://images.indianexpress.com/2026/02/photo-2025-12-29T151344.143_20260213060342.jpg" medium="image" />
       <enclosure url="https://images.indianexpress.com/2026/02/photo-2025-12-29T151344.143_20260213060342.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Explainer: Key priorities of the BNP, winner of Bangladesh election</title>
-      <link>https://www.straitstimes.com/asia/south-asia/key-priorities-of-the-bnp-winner-of-bangladesh-election</link>
-      <description>&lt;p&gt;The party, led by Mr Tarique Rahman, will return to power after 20 years.&lt;/p&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 06:15:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.straitstimes.com/asia/south-asia/key-priorities-of-the-bnp-winner-of-bangladesh-election</guid>
     </item>
   </channel>
 </rss>
