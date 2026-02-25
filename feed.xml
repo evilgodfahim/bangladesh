@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 16:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 17:54:36 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh’s new government re-equips President with press wing</title>
+      <link>https://www.thehindu.com/news/international/bangladeshs-new-government-re-equips-president-with-press-wing/article70676956.ece</link>
+      <description>The President&apos;s press wing was abolished by immediate past regime of Interim chief Muhammad Yunus</description>
+      <pubDate>Wed, 25 Feb 2026 17:16:32 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladeshs-new-government-re-equips-president-with-press-wing/article70676956.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/8ughgw/article70676971.ece/alternates/LANDSCAPE_1200/2026-02-17T195902Z_605723824_RC2VNJA0SRBC_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/8ughgw/article70676971.ece/alternates/LANDSCAPE_1200/2026-02-17T195902Z_605723824_RC2VNJA0SRBC_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/8ughgw/article70676971.ece/alternates/LANDSCAPE_1200/2026-02-17T195902Z_605723824_RC2VNJA0SRBC_RTRMADP_3_BANGLADESH-ELECTION-INAUGURATION.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Israel committed two-thirds of record press killings in 2025: CPJ</title>
       <link>https://www.dawn.com/news/1975665/israel-committed-two-thirds-of-record-press-killings-in-2025-cpj</link>
@@ -6682,13 +6692,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fd3%2Fb9fc763449809b1a642b501829b4%2Fap26043148980377.jpg" />
       <media:content url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fd3%2Fb9fc763449809b1a642b501829b4%2Fap26043148980377.jpg" medium="image" />
       <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4e%2Fd3%2Fb9fc763449809b1a642b501829b4%2Fap26043148980377.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BNP leader cheered by supporters after Bangladesh election</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/2/13/bnp-leader-cheered-by-supporters-after-bangladesh-election?traffic_source=rss</link>
-      <description>Bangladesh Nationalist Party leader Tarique Rahman was cheered by supporters and surrounded by photographers.</description>
-      <pubDate>Fri, 13 Feb 2026 07:23:02 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/2/13/bnp-leader-cheered-by-supporters-after-bangladesh-election?traffic_source=rss</guid>
     </item>
   </channel>
 </rss>
