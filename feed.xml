@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 04:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 05:51:01 +0000</lastBuildDate>
+    <item>
+      <title>Six seats, big goals: What’s next for Bangladesh’s student-led NCP party?</title>
+      <link>https://www.aljazeera.com/news/2026/2/26/six-seats-big-goals-whats-next-for-bangladeshs-student-led-ncp-party?traffic_source=rss</link>
+      <description></description>
+      <pubDate>Thu, 26 Feb 2026 03:50:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/2/26/six-seats-big-goals-whats-next-for-bangladeshs-student-led-ncp-party?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Attacking refugee problems with the old UNHCR setup won’t work</title>
       <link>https://asiatimes.com/2026/02/attacking-refugee-problems-with-the-old-unhcr-setup-wont-work/</link>
@@ -6687,13 +6694,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://c.ndtvimg.com/2026-02/ptv47d3s_tarique-rahman_625x300_13_February_26.jpeg" />
       <media:content url="https://c.ndtvimg.com/2026-02/ptv47d3s_tarique-rahman_625x300_13_February_26.jpeg" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2026-02/ptv47d3s_tarique-rahman_625x300_13_February_26.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Is Tarique Rahman as Bangladesh PM good news for India?</title>
-      <link>https://www.firstpost.com/explainers/bangladesh-election-results-bnp-tarique-rahman-india-relations-13979357.html</link>
-      <description></description>
-      <pubDate>Fri, 13 Feb 2026 07:28:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.firstpost.com/explainers/bangladesh-election-results-bnp-tarique-rahman-india-relations-13979357.html</guid>
     </item>
   </channel>
 </rss>
