@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Feb 2026 18:27:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 19:26:35 +0000</lastBuildDate>
+    <item>
+      <title>Strong tremors jolt Kolkata, adjoining districts</title>
+      <link>https://www.thehindu.com/news/international/magnitude-54-earthquake-strikes-bangladesh-tremors-felt-in-kolkata-adjacent-wb-districts/article70683234.ece</link>
+      <description>The epicentre was roughly around 90 km from Kolkata at the Bangladesh border; damage reported to buildings in some areas</description>
+      <pubDate>Fri, 27 Feb 2026 17:25:27 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/magnitude-54-earthquake-strikes-bangladesh-tremors-felt-in-kolkata-adjacent-wb-districts/article70683234.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/bzoc2y/article70684619.ece/alternates/LANDSCAPE_1200/PTI02_27_2026_000140B.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/bzoc2y/article70684619.ece/alternates/LANDSCAPE_1200/PTI02_27_2026_000140B.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/bzoc2y/article70684619.ece/alternates/LANDSCAPE_1200/PTI02_27_2026_000140B.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>A defaulter replaces an economist. The controversy over appointment of new Bangladesh bank chief</title>
       <link>https://www.firstpost.com/explainers/bangladesh-bank-governor-appointment-ahsan-mansur-mostaqur-rahman-tarique-rahman-government-decision-13984340.html</link>
@@ -6757,13 +6767,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://s.abcnews.com/images/International/wirestory_7cf43a8012d036040bb99c2e4be899ca_4x3_384.jpg" />
       <media:content url="https://s.abcnews.com/images/International/wirestory_7cf43a8012d036040bb99c2e4be899ca_4x3_384.jpg" medium="image" />
       <enclosure url="https://s.abcnews.com/images/International/wirestory_7cf43a8012d036040bb99c2e4be899ca_4x3_384.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BNP returns to power after 15 years: What changes now for Bangladesh?</title>
-      <link>https://www.firstpost.com/explainers/bnp-win-bangladesh-election-tarique-rahman-promises-impact-explained-13979361.html</link>
-      <description></description>
-      <pubDate>Fri, 13 Feb 2026 09:20:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.firstpost.com/explainers/bnp-win-bangladesh-election-tarique-rahman-promises-impact-explained-13979361.html</guid>
     </item>
   </channel>
 </rss>
