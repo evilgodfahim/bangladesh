@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2026 20:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 21:13:57 +0000</lastBuildDate>
+    <item>
+      <title>Farewell Saleem Samad, A Fearless Bangladeshi Journalist – OpEd</title>
+      <link>https://www.eurasiareview.com/01032026-farewell-saleem-samad-a-fearless-bangladeshi-journalist-oped/</link>
+      <description></description>
+      <pubDate>Sun, 01 Mar 2026 20:09:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.eurasiareview.com/01032026-farewell-saleem-samad-a-fearless-bangladeshi-journalist-oped/</guid>
+    </item>
     <item>
       <title>Iranian missiles kill nine in Israel, with UAE, Oman and Kuwait also targeted</title>
       <link>https://www.middleeasteye.net/news/iranian-missiles-kill-nine-israel-uae-oman-and-kuwait-targeted-too</link>
@@ -6968,13 +6975,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://img.etimg.com/photo/msid-128298501,imgsize-142528.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128298501,imgsize-142528.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128298501,imgsize-142528.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Urgent: Bangladesh Nationalist Party wins 209 seats in national parliament election: election commission</title>
-      <link>https://english.news.cn/20260213/1bb2cbc37e9b4e27af21645bd102d896/c.html</link>
-      <description></description>
-      <pubDate>Fri, 13 Feb 2026 09:35:45 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260213/1bb2cbc37e9b4e27af21645bd102d896/c.html</guid>
     </item>
   </channel>
 </rss>
