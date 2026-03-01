@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2026 09:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 10:15:10 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh voices deep concern over escalating Middle East conflict</title>
+      <link>https://english.news.cn/20260301/cbd8be8307b54077b0d398b0aa4811dd/c.html</link>
+      <description></description>
+      <pubDate>Sun, 01 Mar 2026 09:28:10 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260301/cbd8be8307b54077b0d398b0aa4811dd/c.html</guid>
+    </item>
     <item>
       <title>Labour red-faced, Reform cries foul as Greens claim key UK by-poll</title>
       <link>https://www.dawn.com/news/1976299/labour-red-faced-reform-cries-foul-as-greens-claim-key-uk-by-poll</link>
@@ -6818,16 +6825,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <description></description>
       <pubDate>Fri, 13 Feb 2026 09:35:26 +0000</pubDate>
       <guid isPermaLink="true">https://www.firstpost.com/opinion/bangladesh-2026-elections-jamaat-hefazat-islamist-politics-13979417.html</guid>
-    </item>
-    <item>
-      <title>Tarique Rahman: A striking political debut in Bangladesh’s history</title>
-      <link>https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece</link>
-      <description>The chairman of the Bangladesh Nationalist Party, who returned to the country from a self-imposed exile in London, is ready to make a striking political debut after the party’s historic victory in the elections held on February 12, 2026</description>
-      <pubDate>Fri, 13 Feb 2026 09:34:42 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/tarique-rahman-leads-bangladesh-national-party-to-victory-after-20-years/article70627018.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/wvz5n5/article70627049.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_03201.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/wvz5n5/article70627049.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_03201.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/wvz5n5/article70627049.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_03201.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
