@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 14:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 15:32:17 +0000</lastBuildDate>
+    <item>
+      <title>In security-minded Pakistan, Gen Z protesters find no outlet for their discontent</title>
+      <link>https://www.thenewhumanitarian.org/opinion/2026/03/02/security-minded-pakistan-gen-z-protesters-find-no-outlet-their-discontent</link>
+      <description>Unlike in Bangladesh and Nepal, disgruntled young people are being forced to bottle up their frustrations and see no path forward.</description>
+      <pubDate>Mon, 02 Mar 2026 15:04:40 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thenewhumanitarian.org/opinion/2026/03/02/security-minded-pakistan-gen-z-protesters-find-no-outlet-their-discontent</guid>
+    </item>
     <item>
       <title>Israel, US bomb Iran: A timeline of how threats escalated into war</title>
       <link>https://www.dawn.com/news/1977402/israel-us-bomb-iran-a-timeline-of-how-threats-escalated-into-war</link>
@@ -7073,16 +7080,6 @@ The BNP said on social media that it had won enough parliamentary seats...</desc
       <media:thumbnail url="https://img.etimg.com/photo/msid-128299227,imgsize-101228.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128299227,imgsize-101228.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128299227,imgsize-101228.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh Election Results 2026 Live Updates: BNP Wins In 212 Seats, Referendum Gets &apos;Yes&apos;</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand</link>
-      <description>Bangladesh General Election Result 2026: The election and referendum saw over 55% voter turnout</description>
-      <pubDate>Fri, 13 Feb 2026 09:48:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-election-2026-live-updates-bangladesh-polls-voting-bangladesh-election-results-bnp-tarique-rahman-jamaat-muhammad-yunus-sheikh-hasina-10987418#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-02/ptv47d3s_tarique-rahman_625x300_13_February_26.jpeg" />
-      <media:content url="https://c.ndtvimg.com/2026-02/ptv47d3s_tarique-rahman_625x300_13_February_26.jpeg" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-02/ptv47d3s_tarique-rahman_625x300_13_February_26.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
