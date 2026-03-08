@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 17:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 18:19:47 +0000</lastBuildDate>
+    <item>
+      <title>Indian national among two killed after projectile falls in Saudi residential area</title>
+      <link>https://www.thehindu.com/news/international/indian-national-among-two-killed-after-projectile-falls-in-saudi-residential-area/article70719923.ece</link>
+      <description>The incident killed one Indian national and one Bangladeshi national, while 12 Bangladeshi residents were injured, Al-Arabiya news reported</description>
+      <pubDate>Sun, 08 Mar 2026 17:27:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/indian-national-among-two-killed-after-projectile-falls-in-saudi-residential-area/article70719923.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/cb7usy/article70719925.ece/alternates/LANDSCAPE_1200/2026-03-07T205412Z_113027040_RC2EYJAKK4GD_RTRMADP_3_IRAN-CRISIS-SAUDI.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/cb7usy/article70719925.ece/alternates/LANDSCAPE_1200/2026-03-07T205412Z_113027040_RC2EYJAKK4GD_RTRMADP_3_IRAN-CRISIS-SAUDI.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/cb7usy/article70719925.ece/alternates/LANDSCAPE_1200/2026-03-07T205412Z_113027040_RC2EYJAKK4GD_RTRMADP_3_IRAN-CRISIS-SAUDI.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>How CAA gave Indian citizenship to Hindu woman born in Bangladesh</title>
       <link>https://www.firstpost.com/explainers/how-caa-gave-indian-citizenship-to-hindu-woman-born-in-bangladesh-13987277.html</link>
@@ -7754,13 +7764,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <description>Voter turnout stood at 60.2%</description>
       <pubDate>Fri, 13 Feb 2026 11:42:18 +0000</pubDate>
       <guid isPermaLink="true">https://tass.com/world/2086401</guid>
-    </item>
-    <item>
-      <title>Bangladesh&amp;#039;s Trade Pact With US: A Strategic Shift By An Interim Administration?</title>
-      <link>https://southasiamonitor.org/spotlight/bangladeshs-trade-pact-us-strategic-shift-interim-administration</link>
-      <description></description>
-      <pubDate>Fri, 13 Feb 2026 11:33:17 +0000</pubDate>
-      <guid isPermaLink="true">https://southasiamonitor.org/spotlight/bangladeshs-trade-pact-us-strategic-shift-interim-administration</guid>
     </item>
   </channel>
 </rss>
