@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:43:41 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh shuts universities, limits fuel sale as Iran war causes shortage</title>
+      <link>https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss</link>
+      <description>Bangladesh relies on imports for 95 percent of energy needs which have been disrupted after conflict in the Middle East.</description>
+      <pubDate>Mon, 09 Mar 2026 07:09:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Two accused in Bangladesh’s political leader Osman Hadi’s murder arrested by Bengal STF: official</title>
       <link>https://www.thehindu.com/news/national/west-bengal/two-accused-in-bangladeshs-political-leader-osman-hadis-murder-arrested-by-bengal-stf-official/article70721268.ece</link>
@@ -7807,16 +7814,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://s.france24.com/media/display/53d900de-08d0-11f1-b5b4-005056a90284/w:1024/p:16x9/EN-20260212-182047-182753-CS.jpg" />
       <media:content url="https://s.france24.com/media/display/53d900de-08d0-11f1-b5b4-005056a90284/w:1024/p:16x9/EN-20260212-182047-182753-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/53d900de-08d0-11f1-b5b4-005056a90284/w:1024/p:16x9/EN-20260212-182047-182753-CS.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Opinion: Opinion | Bangladesh Polls: What Are Jamaat And Yunus Planning Next?</title>
-      <link>https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand</link>
-      <description>Yunus&apos;s motivations across the board indicate that he&apos;s not likely to be &apos;retiring&apos; soon. This election is a quiet - and overlooked - win for the Jamaat, too.</description>
-      <pubDate>Fri, 13 Feb 2026 11:58:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/opinion/bnp-may-have-won-for-now-but-dont-think-jamaat-or-yunus-are-going-anywhere-10998879#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-02/3e2sp28k_jamaat-afp_625x300_10_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2026-02/3e2sp28k_jamaat-afp_625x300_10_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-02/3e2sp28k_jamaat-afp_625x300_10_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
