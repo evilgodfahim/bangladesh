@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 12:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:58:54 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh closes universities due to Iran war energy crisis</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/3/9/bangladesh-closes-universities-due-to-iran-war-energy-crisis?traffic_source=rss</link>
+      <description>Bangladesh closes universities due to Iran war energy crisis</description>
+      <pubDate>Mon, 09 Mar 2026 12:55:17 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/3/9/bangladesh-closes-universities-due-to-iran-war-energy-crisis?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Why Nepal’s Gen Z Succeeded Where Bangladesh’s Failed</title>
       <link>https://southasiamonitor.org/spotlight/why-nepals-gen-z-succeeded-where-bangladeshs-failed</link>
@@ -7801,16 +7808,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://mf.b37mrtl.ru/files/2026.02/thumbnail/698f1f0685f5400ee55e94ae.png" />
       <media:content url="https://mf.b37mrtl.ru/files/2026.02/thumbnail/698f1f0685f5400ee55e94ae.png" medium="image" />
       <enclosure url="https://mf.b37mrtl.ru/files/2026.02/thumbnail/698f1f0685f5400ee55e94ae.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>‘Send her back’: BNP reaffirms demand for Sheikh Hasina’s extradition from India after poll win</title>
-      <link>https://www.hindustantimes.com/world-news/bnp-salahuddin-ahmed-reaffirms-demand-for-sheikh-hasina-s-extradition-from-india-after-poll-win-101770983889428.html</link>
-      <description>BNP Standing Committee member Salahuddin Ahmed said his party will formally urge India to extradite Hasina to Bangladesh to stand trial.</description>
-      <pubDate>Fri, 13 Feb 2026 12:24:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/bnp-salahuddin-ahmed-reaffirms-demand-for-sheikh-hasina-s-extradition-from-india-after-poll-win-101770983889428.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/Sheikh_Hasina_Delhi_event_1769177281896_1769177320205_1770984270738.jpeg" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/Sheikh_Hasina_Delhi_event_1769177281896_1769177320205_1770984270738.jpeg" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/Sheikh_Hasina_Delhi_event_1769177281896_1769177320205_1770984270738.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
