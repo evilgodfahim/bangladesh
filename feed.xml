@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 07:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:32:30 +0000</lastBuildDate>
+    <item>
+      <title>Why Nepal’s Gen Z Succeeded Where Bangladesh’s Failed</title>
+      <link>https://southasiamonitor.org/spotlight/why-nepals-gen-z-succeeded-where-bangladeshs-failed</link>
+      <description></description>
+      <pubDate>Mon, 09 Mar 2026 07:11:11 +0000</pubDate>
+      <guid isPermaLink="true">https://southasiamonitor.org/spotlight/why-nepals-gen-z-succeeded-where-bangladeshs-failed</guid>
+    </item>
     <item>
       <title>Bangladesh shuts universities, limits fuel sale as Iran war causes shortage</title>
       <link>https://www.aljazeera.com/news/2026/3/9/bangladesh-shuts-universities-limits-fuel-sale-as-iran-war-causes-shortage?traffic_source=rss</link>
@@ -7804,16 +7811,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/Sheikh_Hasina_Delhi_event_1769177281896_1769177320205_1770984270738.jpeg" />
       <media:content url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/Sheikh_Hasina_Delhi_event_1769177281896_1769177320205_1770984270738.jpeg" medium="image" />
       <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/Sheikh_Hasina_Delhi_event_1769177281896_1769177320205_1770984270738.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&apos;Dhaka seems ready for a reset&apos;: Rudabeh Shahid on Bangladesh election</title>
-      <link>https://www.france24.com/en/dhaka-seems-ready-for-a-reset-rudabeh-shahid-on-bangladesh-election</link>
-      <description>As polls close in Bangladesh’s landmark general election, experts weigh in on the country’s future and high stakes. Rudabeh Shahid, Atlantic Council nonresident senior fellow on South Asia, discusses the impact of the 2024 Gen Z protests and the three-block political contest shaping the nation’s next government, also exploring Bangladeshi society, international relations, citizens’ hopes, and the challenges of reshaping the country after 17 years of authoritarian rule.</description>
-      <pubDate>Fri, 13 Feb 2026 12:06:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.france24.com/en/dhaka-seems-ready-for-a-reset-rudabeh-shahid-on-bangladesh-election</guid>
-      <media:thumbnail url="https://s.france24.com/media/display/53d900de-08d0-11f1-b5b4-005056a90284/w:1024/p:16x9/EN-20260212-182047-182753-CS.jpg" />
-      <media:content url="https://s.france24.com/media/display/53d900de-08d0-11f1-b5b4-005056a90284/w:1024/p:16x9/EN-20260212-182047-182753-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/53d900de-08d0-11f1-b5b4-005056a90284/w:1024/p:16x9/EN-20260212-182047-182753-CS.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
