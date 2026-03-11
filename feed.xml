@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 14:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 15:37:59 +0000</lastBuildDate>
+    <item>
+      <title>Wall collapse kills 2 children in Bangladeshi capital</title>
+      <link>https://english.news.cn/20260311/ef9b7b6516dc4745be10595502f1170e/c.html</link>
+      <description></description>
+      <pubDate>Wed, 11 Mar 2026 14:28:05 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260311/ef9b7b6516dc4745be10595502f1170e/c.html</guid>
+    </item>
     <item>
       <title>Nahid Rana takes 5 wickets as Bangladesh crush Pakistan in ODI opener</title>
       <link>https://www.dawn.com/news/1980951/nahid-rana-takes-5-wickets-as-bangladesh-crush-pakistan-in-odi-opener</link>
@@ -7862,13 +7869,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://img.etimg.com/photo/msid-128312201,imgsize-282896.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128312201,imgsize-282896.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128312201,imgsize-282896.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/02/12/world/bangladesh-election-results/heres-the-latest</link>
-      <description>The Bangladesh Nationalist Party, led by Tarique Rahman, swept to victory on Friday.</description>
-      <pubDate>Fri, 13 Feb 2026 14:34:08 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/02/12/world/bangladesh-election-results/heres-the-latest</guid>
     </item>
   </channel>
 </rss>
