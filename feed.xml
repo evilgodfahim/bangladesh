@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 18:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 19:35:37 +0000</lastBuildDate>
+    <item>
+      <title>‘This is going to hit all of us’: How far does the echo of the Middle East war reach?</title>
+      <link>https://www.rt.com/india/634505-lpg-imports-india-bangladesh-pakistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description></description>
+      <pubDate>Wed, 11 Mar 2026 17:25:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.rt.com/india/634505-lpg-imports-india-bangladesh-pakistan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+    </item>
     <item>
       <title>Bangladesh demolish Pakistan who suffer record low score in contest</title>
       <link>https://www.aljazeera.com/sports/2026/3/11/bangladesh-demolish-pakistan-who-suffer-record-low-score-in-contest?traffic_source=rss</link>
@@ -8308,16 +8315,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/BANGLADESH-POLITICS-VOTE-10_1770989868089_1770989884281.jpg" />
       <media:content url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/BANGLADESH-POLITICS-VOTE-10_1770989868089_1770989884281.jpg" medium="image" />
       <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/02/13/1600x900/logo/BANGLADESH-POLITICS-VOTE-10_1770989868089_1770989884281.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Watch: What the Bangladesh 2026 election results really mean</title>
-      <link>https://www.thehindu.com/videos/watch-what-the-bangladesh-2026-election-results-really-mean/article70629354.ece</link>
-      <description>In this special election analysis, host Smriti speaks with Kallol Bhatacharjee reporting from Dhaka on Bangladesh’s dramatic 2026 polls. With the Awami League barred and the BNP resurgent, is this a true democratic reset after the 2024 uprising?</description>
-      <pubDate>Fri, 13 Feb 2026 15:04:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/videos/watch-what-the-bangladesh-2026-election-results-really-mean/article70629354.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/1b691g/article70629336.ece/alternates/LANDSCAPE_1200/modi%201.png" />
-      <media:content url="https://th-i.thgim.com/public/incoming/1b691g/article70629336.ece/alternates/LANDSCAPE_1200/modi%201.png" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/1b691g/article70629336.ece/alternates/LANDSCAPE_1200/modi%201.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
