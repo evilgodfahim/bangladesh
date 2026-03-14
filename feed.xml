@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 23:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 01:06:31 +0000</lastBuildDate>
+    <item>
+      <title>In Nepal and Bangladesh, the people have spoken</title>
+      <link>https://indianexpress.com/article/opinion/columns/nepal-bangladesh-people-have-spoken-10580813/</link>
+      <description></description>
+      <pubDate>Sat, 14 Mar 2026 01:05:04 +0000</pubDate>
+      <guid isPermaLink="true">https://indianexpress.com/article/opinion/columns/nepal-bangladesh-people-have-spoken-10580813/</guid>
+      <media:thumbnail url="https://images.indianexpress.com/2026/03/bang-ne.jpg" />
+      <media:content url="https://images.indianexpress.com/2026/03/bang-ne.jpg" medium="image" />
+      <enclosure url="https://images.indianexpress.com/2026/03/bang-ne.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pakistan thrash Bangladesh by 128 runs in rain-hit second ODI</title>
       <link>https://www.dawn.com/news/1981758/pakistan-thrash-bangladesh-by-128-runs-in-rain-hit-second-odi</link>
@@ -8517,16 +8527,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://i.dawn.com/large/2026/02/130739398d2b555.webp" />
       <media:content url="https://i.dawn.com/large/2026/02/130739398d2b555.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/02/130739398d2b555.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh election: BNP wins historic first vote since overthrow of Hasina</title>
-      <link>https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins</link>
-      <description>&lt;p&gt;Voting was largely peaceful in an election seen as a test of Bangladesh’s democracy after years of political turmoil &lt;/p&gt;&lt;p&gt;The Bangladesh Nationalist party, led by &lt;a href=&quot;https://www.theguardian.com/world/2026/feb/12/tarique-rahman-bnp-bangladesh-election&quot;&gt;Tarique Rahman&lt;/a&gt;, has won a sweeping victory in the country’s first election since a gen Z uprising toppled the autocratic regime of &lt;a href=&quot;https://www.theguardian.com/world/sheikh-hasina&quot;&gt;Sheikh Hasina&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Results from the election commission confirmed the BNP alliance had won 212 seats, returning the party to power after 20 years, while the rival alliance, led by the Islamist party Jamaat-e-Islami, won 77 seats.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins&quot;&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Fri, 13 Feb 2026 16:45:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/feb/13/bangladesh-election-bnp-wins</guid>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/98e8da0e04084d5d6e2986bf08d1cdd4f3bd8319/492_62_5522_4418/master/5522.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60d45549bd6a24bc7a055ca6d0a8ea62" />
-      <media:content url="https://i.guim.co.uk/img/media/98e8da0e04084d5d6e2986bf08d1cdd4f3bd8319/492_62_5522_4418/master/5522.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60d45549bd6a24bc7a055ca6d0a8ea62" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/98e8da0e04084d5d6e2986bf08d1cdd4f3bd8319/492_62_5522_4418/master/5522.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60d45549bd6a24bc7a055ca6d0a8ea62" type="image/jpeg" />
     </item>
   </channel>
 </rss>
