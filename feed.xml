@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 12:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 13:35:48 +0000</lastBuildDate>
+    <item>
+      <title>Bangladeshi Muslims celebrate Eid al-Fitr festival</title>
+      <link>https://english.news.cn/20260321/ff6da5fd2bf4417e9639e3634847ea3a/c.html</link>
+      <description></description>
+      <pubDate>Sat, 21 Mar 2026 11:50:20 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260321/ff6da5fd2bf4417e9639e3634847ea3a/c.html</guid>
+    </item>
     <item>
       <title>What if we actually nuked our way around the Hormuz blockage?</title>
       <link>https://responsiblestatecraft.org/newt-gingrich-strait-of-hormuz/</link>
@@ -9491,13 +9498,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://images.indianexpress.com/2026/02/edit.jpeg" />
       <media:content url="https://images.indianexpress.com/2026/02/edit.jpeg" medium="image" />
       <enclosure url="https://images.indianexpress.com/2026/02/edit.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh Election: BNP Victory Paves Way For Reforms, Democratic Consolidation – Analysis</title>
-      <link>https://www.eurasiareview.com/14022026-bangladesh-election-bnp-victory-paves-way-for-reforms-democratic-consolidation-analysis/</link>
-      <description></description>
-      <pubDate>Sat, 14 Feb 2026 01:37:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.eurasiareview.com/14022026-bangladesh-election-bnp-victory-paves-way-for-reforms-democratic-consolidation-analysis/</guid>
     </item>
   </channel>
 </rss>
