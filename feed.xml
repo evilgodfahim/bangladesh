@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:22:42 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh eyes hybrid schooling amid energy crisis, measles outbreak</title>
+      <link>https://english.news.cn/20260331/12203af52a724b5182f436432f8584a0/c.html</link>
+      <description></description>
+      <pubDate>Tue, 31 Mar 2026 11:23:12 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260331/12203af52a724b5182f436432f8584a0/c.html</guid>
+    </item>
     <item>
       <title>India’s JioStar terminates Bangladesh IPL cricket broadcast deal, letter shows</title>
       <link>https://www.dawn.com/news/1986833/indias-jiostar-terminates-bangladesh-ipl-cricket-broadcast-deal-letter-shows</link>
@@ -9712,13 +9719,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://static.toiimg.com/photo/msid-128336583,imgsize-659577.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-128336583,imgsize-659577.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-128336583,imgsize-659577.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tarique Rahman poised to be Bangladesh’s prime minister as Islamists concede</title>
-      <link>https://www.straitstimes.com/asia/south-asia/tarique-rahman-poised-to-be-bangladeshs-pm-as-islamists-concede</link>
-      <description>&lt;p&gt;The elections on Feb 12 were the first since the deadly 2024 uprising.&lt;/p&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 06:18:44 +0000</pubDate>
-      <guid isPermaLink="true">https://www.straitstimes.com/asia/south-asia/tarique-rahman-poised-to-be-bangladeshs-pm-as-islamists-concede</guid>
     </item>
   </channel>
 </rss>
