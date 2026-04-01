@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 06:21:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:08:54 +0000</lastBuildDate>
     <item>
       <title>Morning update</title>
       <link>https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-505</link>
@@ -77,6 +77,13 @@
       <media:thumbnail url="https://www.middleeasteye.net/sites/default/files/A%20woman%20talks%20on%20a%20phone%20while%20standing%20amid%20a%20damaged%20residential%20neighbourhood%20hit%20by%20a%20strike%20as%20the%20U.S.-Israeli%20conflict%20with%20Iran%20continues%2C%20in%20Tehran%2C%20Iran%2C%20March%2030%2C%202026.reuters.jpg" />
       <media:content url="https://www.middleeasteye.net/sites/default/files/A%20woman%20talks%20on%20a%20phone%20while%20standing%20amid%20a%20damaged%20residential%20neighbourhood%20hit%20by%20a%20strike%20as%20the%20U.S.-Israeli%20conflict%20with%20Iran%20continues%2C%20in%20Tehran%2C%20Iran%2C%20March%2030%2C%202026.reuters.jpg" medium="image" />
       <enclosure url="https://www.middleeasteye.net/sites/default/files/A%20woman%20talks%20on%20a%20phone%20while%20standing%20amid%20a%20damaged%20residential%20neighbourhood%20hit%20by%20a%20strike%20as%20the%20U.S.-Israeli%20conflict%20with%20Iran%20continues%2C%20in%20Tehran%2C%20Iran%2C%20March%2030%2C%202026.reuters.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>War in the Middle East: latest developments</title>
+      <link>https://archive.is/o/11Q8k/https://www.al-monitor.com/originals/2026/03/war-middle-east-latest-developments-28</link>
+      <description>&lt;p&gt;Here are the latest developments in the Middle East war:&lt;/p&gt;&lt;p&gt;- 11-year-old Israeli wounded -&lt;/p&gt;&lt;p&gt;Israel&apos;s emergency medical service said an 11-year-old girl was in a serious condition after a missile attack that the military blamed on Iran.&lt;/p&gt;&lt;p&gt;Missile alerts sounded across central and northern Israel after the military issued warnings for incoming fire, with rescuers warning of at least 12 more injured.&lt;/p&gt;&lt;p&gt;- Bangladeshi killed in UAE -&lt;/p&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 20:00:25 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.is/o/11Q8k/https://www.al-monitor.com/originals/2026/03/war-middle-east-latest-developments-28</guid>
     </item>
     <item>
       <title>A silence that keeps raw Bangladesh’s 1971 wounds</title>
@@ -9771,16 +9778,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <description>Bangladeshi Nationalist Party’s ascent to power after 20-years marks a turning point in country’s politics, following violent protests in 2024 which toppled Sheikh Hasina government</description>
       <pubDate>Sat, 14 Feb 2026 06:55:35 +0000</pubDate>
       <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-election-results-2026-live-bnp-back-in-power-after-20-years-tarique-rahman-set-to-be-new-pm/article70631308.ece</guid>
-    </item>
-    <item>
-      <title>Bangladesh&apos;s Tarique Rahman poised to become PM as Islamists concede defeat</title>
-      <link>https://www.france24.com/en/asia-pacific/20260214-bangladesh-s-tarique-rahman-poised-to-become-pm-as-islamists-concede-defeat</link>
-      <description>Bangladesh&apos;s largest Islamist party conceded defeat in elections on Saturday, despite earlier alleging problems with the vote count, clearing the way for Bangladesh Nationalist Party leader Tarique Rahman to become prime minister after 17 years in self-imposed exile.</description>
-      <pubDate>Sat, 14 Feb 2026 06:41:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.france24.com/en/asia-pacific/20260214-bangladesh-s-tarique-rahman-poised-to-become-pm-as-islamists-concede-defeat</guid>
-      <media:thumbnail url="https://s.france24.com/media/display/26e8b538-0970-11f1-8468-005056bf30b7/w:1024/p:16x9/9ea4124217477de5ecc984f85e5e7522a1bcbdee.jpg" />
-      <media:content url="https://s.france24.com/media/display/26e8b538-0970-11f1-8468-005056bf30b7/w:1024/p:16x9/9ea4124217477de5ecc984f85e5e7522a1bcbdee.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/26e8b538-0970-11f1-8468-005056bf30b7/w:1024/p:16x9/9ea4124217477de5ecc984f85e5e7522a1bcbdee.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
