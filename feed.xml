@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 13:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 14:26:34 +0000</lastBuildDate>
     <item>
       <title>Bangladesh says suspected measles outbreak kills about 100 children</title>
       <link>https://www.dawn.com/news/1988843/bangladesh-says-suspected-measles-outbreak-kills-about-100-children</link>
@@ -32,6 +32,13 @@
       <media:thumbnail url="https://i.dawn.com/large/2026/04/05182109fac07b2.webp" />
       <media:content url="https://i.dawn.com/large/2026/04/05182109fac07b2.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/04/05182109fac07b2.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh launches emergency measles vaccination campaign amid rising deaths</title>
+      <link>https://english.news.cn/20260405/a6db1387421841a98726151406f94339/c.html</link>
+      <description></description>
+      <pubDate>Sun, 05 Apr 2026 13:11:05 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260405/a6db1387421841a98726151406f94339/c.html</guid>
     </item>
     <item>
       <title>Mohammad Ishaq Dar | At the global high table</title>
@@ -9796,16 +9803,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <media:thumbnail url="https://img.etimg.com/photo/msid-128342913,imgsize-162640.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128342913,imgsize-162640.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128342913,imgsize-162640.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&apos;Hindu extremism and ... &apos;: Big remark on India ties by adviser of BNP chairman Tarique Rahman after Bangladesh win</title>
-      <link>https://timesofindia.indiatimes.com/world/south-asia/hindu-extremism-and-big-remark-on-india-ties-by-adviser-of-bnp-chairman-tarique-rahman-after-bangladesh-win/articleshow/128342632.cms</link>
-      <description>&lt;img align=&quot;left&quot; border=&quot;0&quot; hspace=&quot;10&quot; src=&quot;https://timesofindia.indiatimes.com/photo/128342632.cms&quot; style=&quot;margin-top: 3px; margin-right: 5px;&quot; /&gt;</description>
-      <pubDate>Sat, 14 Feb 2026 09:54:10 +0000</pubDate>
-      <guid isPermaLink="true">https://timesofindia.indiatimes.com/world/south-asia/hindu-extremism-and-big-remark-on-india-ties-by-adviser-of-bnp-chairman-tarique-rahman-after-bangladesh-win/articleshow/128342632.cms</guid>
-      <media:thumbnail url="https://static.toiimg.com/photo/msid-128342776,imgsize-679204.cms" />
-      <media:content url="https://static.toiimg.com/photo/msid-128342776,imgsize-679204.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-128342776,imgsize-679204.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
