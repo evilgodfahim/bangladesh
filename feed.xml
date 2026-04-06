@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:40:51 +0000</lastBuildDate>
     <item>
       <title>Emergency jabs after 100 children die of suspected measles in a month in Bangladesh</title>
       <link>https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -35,6 +35,23 @@
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/niiwq8/article70827708.ece/alternates/LANDSCAPE_1200/20251120090L.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/niiwq8/article70827708.ece/alternates/LANDSCAPE_1200/20251120090L.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/niiwq8/article70827708.ece/alternates/LANDSCAPE_1200/20251120090L.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two protests, two elections: How Nepals Gen Z succeeded where Bangladeshs stumbled</title>
+      <link>https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description></description>
+      <pubDate>Sun, 05 Apr 2026 22:07:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&amp;at_campaign=rss</guid>
+    </item>
+    <item>
+      <title>Two protests, two elections: How Nepal&apos;s Gen Z succeeded where Bangladesh&apos;s stumbled</title>
+      <link>https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>How did a youth movement triumph in one country but fall so short in another?</description>
+      <pubDate>Sun, 05 Apr 2026 22:07:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cz673y3qqjlo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3b/live/fa361ae0-315f-11f1-b145-117ec31e5536.jpg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3b/live/fa361ae0-315f-11f1-b145-117ec31e5536.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3b/live/fa361ae0-315f-11f1-b145-117ec31e5536.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Liberation of Bangladesh: India’s enduring foreign policy wisdom</title>
@@ -9780,23 +9797,6 @@ Bangladesh Nationalist Party (BNP) leader Rahman, 60, the scion of one of the mo
       <description>Results mark a remarkable reversal of fortune for BNP chief who ​left country in 2008 and returned only two months ago.</description>
       <pubDate>Sat, 14 Feb 2026 10:49:16 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/news/2026/2/14/tarique-rahman-from-17-year-exile-to-landslide-win-in-bangladesh-election?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>Bangladeshs PM-in-waiting dedicates win to those who sacrificed for democracy</title>
-      <link>https://www.channelnewsasia.com/asia/bangladesh-elections-tarique-rahman-speech-5931446</link>
-      <description></description>
-      <pubDate>Sat, 14 Feb 2026 10:48:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.channelnewsasia.com/asia/bangladesh-elections-tarique-rahman-speech-5931446</guid>
-    </item>
-    <item>
-      <title>Bangladesh&apos;s PM-in-waiting dedicates win to those who &apos;sacrificed for democracy&apos;</title>
-      <link>https://www.channelnewsasia.com/asia/bangladesh-elections-tarique-rahman-speech-5931446</link>
-      <description>&quot;Our paths and opinions may differ, but in the interest of the country, we must remain united,&quot; Tarique Rahman said in his first speech since the election.</description>
-      <pubDate>Sat, 14 Feb 2026 10:48:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.channelnewsasia.com/asia/bangladesh-elections-tarique-rahman-speech-5931446</guid>
-      <media:thumbnail url="https://dam.mediacorp.sg/image/upload/s--MUqG8DhD--/c_crop,h_576,w_1024,x_0,y_24/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,h_468,w_830/v1/mediacorp/cna/image/2026/02/14/000_97hp6gf.jpg?itok=jDE6VWQY" />
-      <media:content url="https://dam.mediacorp.sg/image/upload/s--MUqG8DhD--/c_crop,h_576,w_1024,x_0,y_24/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,h_468,w_830/v1/mediacorp/cna/image/2026/02/14/000_97hp6gf.jpg?itok=jDE6VWQY" medium="image" />
-      <enclosure url="https://dam.mediacorp.sg/image/upload/s--MUqG8DhD--/c_crop,h_576,w_1024,x_0,y_24/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/c_fill,h_468,w_830/v1/mediacorp/cna/image/2026/02/14/000_97hp6gf.jpg?itok=jDE6VWQY" type="image/jpeg" />
     </item>
   </channel>
 </rss>
