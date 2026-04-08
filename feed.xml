@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 01:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:27:49 +0000</lastBuildDate>
     <item>
       <title>Bangladesh police arrest Hasina-era former parliament speaker</title>
       <link>https://www.thehindu.com/news/international/bangladesh-police-arrest-hasina-era-former-parliament-speaker/article70835762.ece</link>
@@ -138,6 +138,13 @@
       <media:thumbnail url="https://i.dawn.com/large/2026/04/071636287cb4405.webp" />
       <media:content url="https://i.dawn.com/large/2026/04/071636287cb4405.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/04/071636287cb4405.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Political Economy of Bangladesh’s LDC Graduation</title>
+      <link>https://www.ipsnews.net/2026/04/the-political-economy-of-bangladeshs-ldc-graduation/</link>
+      <description>Bangladesh is scheduled to graduate from the least developed country (LDC) status in November this year after more than half a century. Bangladesh joined the UN club of LDCs in 1975 and consistently met all three graduation criteria – per capita Gross National Income (GNI), human asset and economic vulnerability – since 2018. However, there [&amp;#8230;]</description>
+      <pubDate>Tue, 07 Apr 2026 08:17:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ipsnews.net/2026/04/the-political-economy-of-bangladeshs-ldc-graduation/</guid>
     </item>
     <item>
       <title>BNP reform betrayal brewing in Bangladesh</title>
@@ -9891,16 +9898,6 @@ digital content creator. X: &lt;a href=&quot;https://x.com/abubakartarar&quot;&g
       <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-02-14/l_650843_060943_updates.jpg" />
       <media:content url="https://www.geo.tv/assets/uploads/updates/2026-02-14/l_650843_060943_updates.jpg" medium="image" />
       <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-02-14/l_650843_060943_updates.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Death row to Parliament: 2 anti-India terror accused among 3 ex-convicts who won Bangladesh polls</title>
-      <link>https://www.hindustantimes.com/world-news/death-row-to-parliament-2-anti-india-terror-accused-among-3-ex-convicts-who-won-bangladesh-polls-101771070595982.html</link>
-      <description>The 3 leaders who saw their fate turn in the Bangladesh polls are BNP’s Lutfozzaman Babar, Abdus Salam Pintu and Jamaat’s ATM Azharul Islam is from the Jamaat</description>
-      <pubDate>Sat, 14 Feb 2026 13:17:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/death-row-to-parliament-2-anti-india-terror-accused-among-3-ex-convicts-who-won-bangladesh-polls-101771070595982.html</guid>
-      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/02/14/1600x900/logo/Bangladesh_1771074871583_1771074886964.jpg" />
-      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/02/14/1600x900/logo/Bangladesh_1771074871583_1771074886964.jpg" medium="image" />
-      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/02/14/1600x900/logo/Bangladesh_1771074871583_1771074886964.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
