@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:51:01 +0000</lastBuildDate>
+    <item>
+      <title>Theatre command and its dynamics</title>
+      <link>https://timesofindia.indiatimes.com/blogs/voices/theatre-command-and-its-dynamics/</link>
+      <description>Kargil – 1999, was the first major conflict the Indian Armed Forces fought since  the victory of 1971, when Bangladesh was liberated. 1971 was an  unquestionably overwhelming victory. However, the euphoria of victory often  disallows...</description>
+      <pubDate>Mon, 13 Apr 2026 16:35:31 +0000</pubDate>
+      <guid isPermaLink="true">https://timesofindia.indiatimes.com/blogs/voices/theatre-command-and-its-dynamics/</guid>
+    </item>
     <item>
       <title>Fazlur Rehman hopeful of Iran-US talks second round</title>
       <link>https://www.dawn.com/news/1991272/fazlur-rehman-hopeful-of-iran-us-talks-second-round</link>
@@ -40,9 +47,9 @@
 &lt;p&gt;The post &lt;a href=&quot;https://www.eurasiantimes.com/ouster-of-sheikh-hasina-yunus-publicly-reveals-the-masterminds-of-meticulously-planned-protests-oped/&quot;&gt;Ouster of Sheikh Hasina: Yunus Publicly Reveals the Masterminds of Meticulously Planned Protests: OPED&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.eurasiantimes.com&quot;&gt;EURASIAN TIMES&lt;/a&gt;.&lt;/p&gt;</description>
       <pubDate>Mon, 13 Apr 2026 02:36:45 +0000</pubDate>
       <guid isPermaLink="true">https://www.eurasiantimes.com/ouster-of-sheikh-hasina-yunus-publicly-reveals-the-masterminds-of-meticulously-planned-protests-oped/</guid>
-      <media:thumbnail url="https://i0.wp.com/www.eurasiantimes.com/wp-content/uploads/2026/02/BANGL.jpg?resize=696%2C464&amp;#038;quality=89&amp;#038;ssl=1" />
-      <media:content url="https://i0.wp.com/www.eurasiantimes.com/wp-content/uploads/2026/02/BANGL.jpg?resize=696%2C464&amp;#038;quality=89&amp;#038;ssl=1" medium="image" />
-      <enclosure url="https://i0.wp.com/www.eurasiantimes.com/wp-content/uploads/2026/02/BANGL.jpg?resize=696%2C464&amp;#038;quality=89&amp;#038;ssl=1" type="image/jpeg" />
+      <media:thumbnail url="https://www.eurasiantimes.com/wp-content/uploads/2026/02/BANGL.jpg" />
+      <media:content url="https://www.eurasiantimes.com/wp-content/uploads/2026/02/BANGL.jpg" medium="image" />
+      <enclosure url="https://www.eurasiantimes.com/wp-content/uploads/2026/02/BANGL.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Bangladesh government starts China outreach, to send 20-member delegation this week</title>
@@ -10239,16 +10246,6 @@ digital content creator. X: &lt;a href=&quot;https://x.com/abubakartarar&quot;&g
       <media:thumbnail url="https://static.toiimg.com/photo/msid-128365730,imgsize-24766.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-128365730,imgsize-24766.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-128365730,imgsize-24766.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>&apos;Bangladesh First&apos;: Tarique Rahman&apos;s Reply To Query On Ties With India</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-comes-first-bnp-chief-tarique-rahman-on-his-foreign-policy-11004456#publisher=newsstand</link>
-      <description>Rahman&apos;s &quot;Bangladesh First&quot; policy aims to balance ties with neighbouring countries</description>
-      <pubDate>Sat, 14 Feb 2026 18:55:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-comes-first-bnp-chief-tarique-rahman-on-his-foreign-policy-11004456#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-02/nc9q97l8_tarique-rahman-afp_625x300_14_February_26.jpeg" />
-      <media:content url="https://c.ndtvimg.com/2026-02/nc9q97l8_tarique-rahman-afp_625x300_14_February_26.jpeg" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-02/nc9q97l8_tarique-rahman-afp_625x300_14_February_26.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
