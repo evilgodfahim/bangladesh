@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 01:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 04:37:28 +0000</lastBuildDate>
     <item>
       <title>Spain’s Bangladeshi community cheers migrant amnesty programme</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/4/14/spains-bangladeshi-community-cheers-migrant-amnesty-programme?traffic_source=rss</link>
@@ -80,6 +80,13 @@
       <media:thumbnail url="https://i.dawn.com/large/2026/04/141513592952cd7.webp" />
       <media:content url="https://i.dawn.com/large/2026/04/141513592952cd7.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/04/141513592952cd7.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why the Rohingya Refugees in Bangladesh Need Work, Not Just Rations</title>
+      <link>https://www.ipsnews.net/2026/04/why-the-rohingya-refugees-in-bangladesh-need-work-not-just-rations/</link>
+      <description>While global attention right now is on escalating geopolitical tensions involving the United States, Israel, and Iran, another crisis continues quietly in Bangladesh. Beginning April 1, 2026, the World Food Programme (WFP) introduced a revised Targeting and Prioritisation Exercise (TPE) for Rohingya refugees living in camps in Cox’s Bazar and Bhasan Char, according to a [&amp;#8230;]</description>
+      <pubDate>Tue, 14 Apr 2026 08:02:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ipsnews.net/2026/04/why-the-rohingya-refugees-in-bangladesh-need-work-not-just-rations/</guid>
     </item>
     <item>
       <title>7 paddy harvesters dead as truck veers off road in Bangladesh</title>
@@ -10274,16 +10281,6 @@ digital content creator. X: &lt;a href=&quot;https://x.com/abubakartarar&quot;&g
       <media:thumbnail url="https://c.ndtvimg.com/2026-02/refcccdg_pm-modi-rahman_625x300_15_February_26.jpeg" />
       <media:content url="https://c.ndtvimg.com/2026-02/refcccdg_pm-modi-rahman_625x300_15_February_26.jpeg" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2026-02/refcccdg_pm-modi-rahman_625x300_15_February_26.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>After the landslide: Can India reset ties with a BNP-led Bangladesh?</title>
-      <link>https://www.bbc.com/news/articles/cd6z007wgg6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>A reset of the frayed relationship is possible, say analysts. But it will require restraint - and reciprocity.</description>
-      <pubDate>Sun, 15 Feb 2026 01:23:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cd6z007wgg6o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8644/live/668e1290-08d1-11f1-b5e2-dd58fc65f0f6.jpg" />
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8644/live/668e1290-08d1-11f1-b5e2-dd58fc65f0f6.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8644/live/668e1290-08d1-11f1-b5e2-dd58fc65f0f6.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
