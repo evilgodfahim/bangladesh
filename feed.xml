@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 04:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 06:26:51 +0000</lastBuildDate>
+    <item>
+      <title>Boat carrying 250 people, including Rohingya and Bangladeshis, sinks in the Andaman Sea</title>
+      <link>https://www.thehindu.com/news/international/boat-sinks-andaman-sea-rohingyas-bangladesh/article70863859.ece</link>
+      <description>Overcrowding, strong winds and rough seas caused the vessel to lose control and sink</description>
+      <pubDate>Wed, 15 Apr 2026 05:43:07 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/boat-sinks-andaman-sea-rohingyas-bangladesh/article70863859.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/wag060/article70863932.ece/alternates/LANDSCAPE_1200/About-250-peoplGQIFRQTHM.3.jpg.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/wag060/article70863932.ece/alternates/LANDSCAPE_1200/About-250-peoplGQIFRQTHM.3.jpg.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/wag060/article70863932.ece/alternates/LANDSCAPE_1200/About-250-peoplGQIFRQTHM.3.jpg.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Spain’s Bangladeshi community cheers migrant amnesty programme</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/4/14/spains-bangladeshi-community-cheers-migrant-amnesty-programme?traffic_source=rss</link>
@@ -10271,16 +10281,6 @@ digital content creator. X: &lt;a href=&quot;https://x.com/abubakartarar&quot;&g
       <media:thumbnail url="https://i.dawn.com/large/2026/02/15073245454b947.webp" />
       <media:content url="https://i.dawn.com/large/2026/02/15073245454b947.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/02/15073245454b947.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PM Modi Receives Invite For Tarique Rahman&apos;s Oath Ceremony On February 17</title>
-      <link>https://www.ndtv.com/world-news/pm-narendra-modi-receives-invite-for-bnp-chairman-tarique-rahman-oath-ceremony-on-february-17-bangladesh-general-elections-bangladesh-new-pm-11005522#publisher=newsstand</link>
-      <description>India&apos;s invitation carries particular weight, given Dhaka-New Delhi ties</description>
-      <pubDate>Sun, 15 Feb 2026 01:29:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/pm-narendra-modi-receives-invite-for-bnp-chairman-tarique-rahman-oath-ceremony-on-february-17-bangladesh-general-elections-bangladesh-new-pm-11005522#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-02/refcccdg_pm-modi-rahman_625x300_15_February_26.jpeg" />
-      <media:content url="https://c.ndtvimg.com/2026-02/refcccdg_pm-modi-rahman_625x300_15_February_26.jpeg" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-02/refcccdg_pm-modi-rahman_625x300_15_February_26.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
