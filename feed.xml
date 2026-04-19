@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 12:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 13:53:02 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh hikes fuel prices to adjust for import expenses</title>
+      <link>https://english.news.cn/20260419/08a1d7925dc2446a9038c87e2391b260/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Sun, 19 Apr 2026 13:39:22 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260419/08a1d7925dc2446a9038c87e2391b260/c.html</guid>
+    </item>
     <item>
       <title>How Gen Z Protests Have Fared Around the World</title>
       <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/04/19/world/asia/gen-z-protests-success-fail-nepal-morocco-bangladesh.html</link>
@@ -10509,13 +10516,6 @@ Modi will not attend Tuesday’s ceremony because of prior commitments, but...</
       <media:thumbnail url="https://c.ndtvimg.com/2026-02/pd8o9kv4_yunus_625x300_15_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2026-02/pd8o9kv4_yunus_625x300_15_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2026-02/pd8o9kv4_yunus_625x300_15_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh invites Shehbaz, Modi to Tarique Rahman oath ceremony</title>
-      <link>https://dailytimes.com.pk/1451755/bangladesh-invites-shehbaz-modi-to-tarique-rahman-oath-ceremony/</link>
-      <description>Bangladesh’s incoming administration is preparing an oath-taking ceremony that could bring together key regional leaders, including Shehbaz Sharif and Narendra Modi. The swearing-in of Tarique Rahman is scheduled for February 17 in Dhaka, marking a significant political transition following decisive election results. The move signals a renewed diplomatic outreach toward South Asia. The Bangladesh Nationalist [&amp;#8230;]</description>
-      <pubDate>Sun, 15 Feb 2026 07:59:56 +0000</pubDate>
-      <guid isPermaLink="true">https://dailytimes.com.pk/1451755/bangladesh-invites-shehbaz-modi-to-tarique-rahman-oath-ceremony/</guid>
     </item>
   </channel>
 </rss>
