@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 09:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:11:10 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh faces telecom shutdowns from West Asia fuel crisis</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-faces-telecom-shutdowns-from-west-asia-fuel-crisis/article70883978.ece</link>
+      <description>Association of Mobile Telecom Operators of Bangladesh said that continued telecom operations can no longer be sustained without the fuel needed to power operations including data centres</description>
+      <pubDate>Mon, 20 Apr 2026 09:48:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-faces-telecom-shutdowns-from-west-asia-fuel-crisis/article70883978.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/news/international/j1jx68/article70883994.ece/alternates/LANDSCAPE_1200/Telecom.jpg" />
+      <media:content url="https://th-i.thgim.com/public/news/international/j1jx68/article70883994.ece/alternates/LANDSCAPE_1200/Telecom.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/news/international/j1jx68/article70883994.ece/alternates/LANDSCAPE_1200/Telecom.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>‘Friendship to all’ no longer good enough for Bangladesh</title>
       <link>https://asiatimes.com/2026/04/friendship-to-all-no-longer-good-enough-for-bangladesh/</link>
@@ -10551,13 +10561,6 @@ Modi will not attend Tuesday’s ceremony because of prior commitments, but...</
       <media:thumbnail url="https://static.toiimg.com/photo/msid-128377590,imgsize-36072.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-128377590,imgsize-36072.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-128377590,imgsize-36072.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Referendum and Revolution: Can Bangladesh Vote Its Way Out of Crisis?</title>
-      <link>https://moderndiplomacy.eu/2026/02/15/referendum-and-revolution-can-bangladesh-vote-its-way-out-of-crisis/</link>
-      <description></description>
-      <pubDate>Sun, 15 Feb 2026 09:05:26 +0000</pubDate>
-      <guid isPermaLink="true">https://moderndiplomacy.eu/2026/02/15/referendum-and-revolution-can-bangladesh-vote-its-way-out-of-crisis/</guid>
     </item>
   </channel>
 </rss>
