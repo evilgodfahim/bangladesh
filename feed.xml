@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 09:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 10:34:36 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh issues nationwide security alert over possible militant attacks</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks/article70904952.ece</link>
+      <description>&quot;The alert has been issued based on intelligence reports,” a police headquarters (PHQ) official said, requesting anonymity. The official described the alert as “urgent and confidential”</description>
+      <pubDate>Sat, 25 Apr 2026 09:39:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-issues-nationwide-security-alert-over-possible-militant-attacks/article70904952.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/h37q8p/article70905007.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_58527.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/h37q8p/article70905007.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_58527.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/h37q8p/article70905007.ece/alternates/LANDSCAPE_1200/Bangladesh_Election_58527.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pakistan among top 10 countries facing acute food crisis</title>
       <link>https://www.dawn.com/news/1994916/pakistan-among-top-10-countries-facing-acute-food-crisis</link>
@@ -10684,16 +10694,6 @@ Modi will not attend Tuesday’s ceremony because of prior commitments, but...</
       <media:thumbnail url="https://c.ndtvimg.com/2025-12/bs97oobc_om-birla_625x300_19_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2025-12/bs97oobc_om-birla_625x300_19_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2025-12/bs97oobc_om-birla_625x300_19_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tarique Rahman’s swearing-in: PM Modi receives invite, LS Speaker Om Birla to attend</title>
-      <link>https://www.thehindu.com/news/national/pm-modi-receives-invite-to-attend-tarique-rahmans-swearing-in-ceremony-in-bangladesh-on-february-17/article70634532.ece</link>
-      <description>PM Modi declines the invitation, as he will be in Mumbai for bilateral talks with French President Emmanuel Macron, and then will chair the AI impact summit in Delhi</description>
-      <pubDate>Sun, 15 Feb 2026 11:33:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/national/pm-modi-receives-invite-to-attend-tarique-rahmans-swearing-in-ceremony-in-bangladesh-on-february-17/article70634532.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/od7fvx/article70634534.ece/alternates/LANDSCAPE_1200/20260213408L.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/od7fvx/article70634534.ece/alternates/LANDSCAPE_1200/20260213408L.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/od7fvx/article70634534.ece/alternates/LANDSCAPE_1200/20260213408L.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
