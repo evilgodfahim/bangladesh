@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 15:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:28:53 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh starts fuelling its first nuclear power station</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-starts-fuelling-its-first-nuclear-power-station/article70917827.ece</link>
+      <description>The grid in Bangladesh is stretched every year during the summer heat, when people crank up power-hungry air conditioners</description>
+      <pubDate>Tue, 28 Apr 2026 16:49:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-starts-fuelling-its-first-nuclear-power-station/article70917827.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/6kuhtg/article70917838.ece/alternates/LANDSCAPE_1200/2026-04-28T124525Z_1788416270_RC2WAZ95LKTV_RTRMADP_3_RUSSIA-BANGLADESH-NUCLEAR.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/6kuhtg/article70917838.ece/alternates/LANDSCAPE_1200/2026-04-28T124525Z_1788416270_RC2WAZ95LKTV_RTRMADP_3_RUSSIA-BANGLADESH-NUCLEAR.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/6kuhtg/article70917838.ece/alternates/LANDSCAPE_1200/2026-04-28T124525Z_1788416270_RC2WAZ95LKTV_RTRMADP_3_RUSSIA-BANGLADESH-NUCLEAR.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>India-Bangladesh border fencing row: What Supreme Court, Calcutta High Court have said</title>
       <link>https://indianexpress.com/article/explained/explained-law/india-bangladesh-border-fencing-hc-sc-west-bengal-delay-10660609/</link>
@@ -10706,16 +10716,6 @@ Modi will not attend Tuesday’s ceremony because of prior commitments, but...</
       <media:thumbnail url="https://img.etimg.com/photo/msid-128392007,imgsize-7622.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128392007,imgsize-7622.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128392007,imgsize-7622.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Islamist Party’s Rise Overshadows Student Revolution in Bangladesh</title>
-      <link>https://www.nytimes.com/2026/02/15/world/asia/bangladesh-election-students-islam.html</link>
-      <description>The party is dedicated to running the country under Islamic law, but ran on a more moderate platform. It gained far more seats in last week’s election than it ever had before.</description>
-      <pubDate>Sun, 15 Feb 2026 16:59:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/02/15/world/asia/bangladesh-election-students-islam.html</guid>
-      <media:thumbnail url="https://static01.nyt.com/images/2026/02/15/multimedia/15INT-BANGLADESH-STUDENTS-hmfv/15INT-BANGLADESH-STUDENTS-hmfv-mediumSquareAt3X-v2.jpg" />
-      <media:content url="https://static01.nyt.com/images/2026/02/15/multimedia/15INT-BANGLADESH-STUDENTS-hmfv/15INT-BANGLADESH-STUDENTS-hmfv-mediumSquareAt3X-v2.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/02/15/multimedia/15INT-BANGLADESH-STUDENTS-hmfv/15INT-BANGLADESH-STUDENTS-hmfv-mediumSquareAt3X-v2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
