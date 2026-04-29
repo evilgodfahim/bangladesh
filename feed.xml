@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 01:54:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 05:18:48 +0000</lastBuildDate>
     <item>
       <title>Bangladesh starts fuelling its first nuclear power station</title>
       <link>https://www.thehindu.com/news/international/bangladesh-starts-fuelling-its-first-nuclear-power-station/article70917827.ece</link>
@@ -25,6 +25,13 @@
       <media:thumbnail url="https://images.indianexpress.com/2026/04/ex-IndiaBangladeshBorder_expl-law.jpg" />
       <media:content url="https://images.indianexpress.com/2026/04/ex-IndiaBangladeshBorder_expl-law.jpg" medium="image" />
       <enclosure url="https://images.indianexpress.com/2026/04/ex-IndiaBangladeshBorder_expl-law.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Corruption in Bangladesh: Will Development Partners Remain Complicit?</title>
+      <link>https://www.ipsnews.net/2026/04/corruption-in-bangladesh-will-development-partners-remain-complicit/</link>
+      <description>Bangladesh remains one of the most corrupt countries in the world. Its corruption perception index (CPI) score, 24, is 18 points below the global average score of 42, and 21 points lower than the Asia-Pacific region’s average of 45. One of the main sources of corruption is over-priced aid-funded projects as they lack competitive bidding. [&amp;#8230;]</description>
+      <pubDate>Tue, 28 Apr 2026 07:13:44 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ipsnews.net/2026/04/corruption-in-bangladesh-will-development-partners-remain-complicit/</guid>
     </item>
     <item>
       <title>The curious case of Bangladesh’s terrorism denial</title>
@@ -10706,16 +10713,6 @@ Modi will not attend Tuesday’s ceremony because of prior commitments, but...</
       <description>Bangladesh held the first national elections since a student revolution in the summer of 2024. Standing outside the Dhaka university, the epicenter of the student movement, New York Times correspondent Anupreeta Das explains what the recent elections mean for the country’s future.</description>
       <pubDate>Sun, 15 Feb 2026 19:54:44 +0000</pubDate>
       <guid isPermaLink="true">https://www.nytimes.com/video/world/100000010700965/how-bangladesh-went-from-revolution-to-fresh-elections.html</guid>
-    </item>
-    <item>
-      <title>Trial by Jamaat awaits Bangladesh PM-in-waiting</title>
-      <link>https://economictimes.indiatimes.com/news/international/world-news/trial-by-jamaat-awaits-bangladesh-pm-in-waiting/articleshow/128392007.cms</link>
-      <description>In the recent elections, Jamaat-e-Islami, known for its pro-Pakistan stance, clinched more than 70 seats in Bangladesh. However, the party will not take the reins of government, instead positioning itself as a formidable opposition voice.</description>
-      <pubDate>Sun, 15 Feb 2026 17:55:29 +0000</pubDate>
-      <guid isPermaLink="true">https://economictimes.indiatimes.com/news/international/world-news/trial-by-jamaat-awaits-bangladesh-pm-in-waiting/articleshow/128392007.cms</guid>
-      <media:thumbnail url="https://img.etimg.com/photo/msid-128392007,imgsize-7622.cms" />
-      <media:content url="https://img.etimg.com/photo/msid-128392007,imgsize-7622.cms" medium="image" />
-      <enclosure url="https://img.etimg.com/photo/msid-128392007,imgsize-7622.cms" type="image/jpeg" />
     </item>
   </channel>
 </rss>
