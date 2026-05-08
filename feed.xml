@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 06:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 08:17:26 +0000</lastBuildDate>
+    <item>
+      <title>West Bengal Elections, Dhaka’s Dilemma: Will the Rise of Hardline Nationalist Politics Increase Diplomatic Uncertainty in Bangladesh-India Ties?</title>
+      <link>https://southasiamonitor.org/spotlight/west-bengal-elections-dhakas-dilemma-will-rise-hardline-nationalist-politics-increase</link>
+      <description></description>
+      <pubDate>Fri, 08 May 2026 07:09:27 +0000</pubDate>
+      <guid isPermaLink="true">https://southasiamonitor.org/spotlight/west-bengal-elections-dhakas-dilemma-will-rise-hardline-nationalist-politics-increase</guid>
+    </item>
     <item>
       <title>Child deaths mount from Bangladesh measles outbreak</title>
       <link>https://www.dawn.com/news/1998626/child-deaths-mount-from-bangladesh-measles-outbreak</link>
@@ -12083,16 +12090,6 @@ With voter turnout at nearly 60 per cent, the Bangladeshi people showed strong e
       <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-02-17/l_651244_085909_updates.jpg" />
       <media:content url="https://www.geo.tv/assets/uploads/updates/2026-02-17/l_651244_085909_updates.jpg" medium="image" />
       <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-02-17/l_651244_085909_updates.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tarique Rahman To Take Oath As Bangladesh&apos;s Prime Minister Today</title>
-      <link>https://www.ndtv.com/world-news/tarique-rahman-to-take-oath-as-bangladeshs-prime-minister-today-11011574#publisher=newsstand</link>
-      <description>The BNP has invited about 1,200 domestic and foreign guests to the event.</description>
-      <pubDate>Mon, 16 Feb 2026 18:46:12 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/tarique-rahman-to-take-oath-as-bangladeshs-prime-minister-today-11011574#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-02/sgp3g5e4_tarique-rahman-to-take-oath-as-bangladeshs-prime-minister-today_625x300_17_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2026-02/sgp3g5e4_tarique-rahman-to-take-oath-as-bangladeshs-prime-minister-today_625x300_17_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-02/sgp3g5e4_tarique-rahman-to-take-oath-as-bangladeshs-prime-minister-today_625x300_17_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
