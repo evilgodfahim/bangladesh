@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 02:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 06:16:29 +0000</lastBuildDate>
     <item>
       <title>Pakistan to face growing health risk as international funding to health sector continues to decline: report</title>
       <link>https://www.dawn.com/news/1999700/pakistan-to-face-growing-health-risk-as-international-funding-to-health-sector-continues-to-decline-report</link>
@@ -251,6 +251,13 @@
       <media:thumbnail url="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/000_33UU8Z2%20%281%29.jpg.jpg?itok=ZyOnkUhj" />
       <media:content url="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/000_33UU8Z2%20%281%29.jpg.jpg?itok=ZyOnkUhj" medium="image" />
       <enclosure url="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/000_33UU8Z2%20%281%29.jpg.jpg?itok=ZyOnkUhj" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Tale of Three Countries: Policy Independence Matters for Development</title>
+      <link>https://www.ipsnews.net/2026/05/the-tale-of-three-countries-policy-independence-matters-for-development/</link>
+      <description>The Republic of Korea (Korea), Vietnam and Bangladesh are on three different rungs of the development ladder. While Korea is a member of the rich nations’ club, i.e., the Organisation for Economic Cooperation and Development (OECD), Bangladesh is still a least developed country (LDC); and Vietnam is in the middle. However, their initial conditions had [&amp;#8230;]</description>
+      <pubDate>Tue, 12 May 2026 12:12:55 +0000</pubDate>
+      <guid isPermaLink="true">https://www.ipsnews.net/2026/05/the-tale-of-three-countries-policy-independence-matters-for-development/</guid>
     </item>
     <item>
       <title>Dhaka condemns Israeli drone strike in Lebanon that kills 2 Bangladeshi workers</title>
@@ -12545,13 +12552,6 @@ PMD, Suparco assisted the committee in moon sighting.Zonal committees convened t
       <media:thumbnail url="https://img.etimg.com/photo/msid-128449808,imgsize-50432.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128449808,imgsize-50432.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128449808,imgsize-50432.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh&apos;s newly elected MPs take oath</title>
-      <link>https://english.news.cn/20260217/a9ed83670e08470eadab58c41172abb2/c.html</link>
-      <description></description>
-      <pubDate>Tue, 17 Feb 2026 05:05:36 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260217/a9ed83670e08470eadab58c41172abb2/c.html</guid>
     </item>
   </channel>
 </rss>
