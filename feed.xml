@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 17:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 19:29:31 +0000</lastBuildDate>
+    <item>
+      <title>563 killed, 1,279 injured in accidents in Bangladesh in April</title>
+      <link>https://english.news.cn/20260514/45fa2b4af268414fb00db5642fb90493/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Wed, 13 May 2026 14:33:01 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260514/45fa2b4af268414fb00db5642fb90493/c.html</guid>
+    </item>
     <item>
       <title>Poor planning fuels Bangladesh contraceptive crisis</title>
       <link>https://www.dawn.com/news/1999893/poor-planning-fuels-bangladesh-contraceptive-crisis</link>
@@ -12599,16 +12606,6 @@ PMD, Suparco assisted the committee in moon sighting.Zonal committees convened t
       <media:thumbnail url="https://i.dawn.com/large/2026/02/1710462817de066.webp" />
       <media:content url="https://i.dawn.com/large/2026/02/1710462817de066.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/02/1710462817de066.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Oath taking ceremony of new MPs, ‘Constitution Reform Commission’ and new Bangladesh government on February 17</title>
-      <link>https://www.thehindu.com/news/international/oath-taking-ceremony-of-new-mps-constitution-reform-commission-and-new-bangladesh-government-on-february-17-2026/article70640286.ece</link>
-      <description>Oath for ‘Constitution Reform Commission’ surprises new MPs</description>
-      <pubDate>Tue, 17 Feb 2026 05:19:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/oath-taking-ceremony-of-new-mps-constitution-reform-commission-and-new-bangladesh-government-on-february-17-2026/article70640286.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/ehxrtg/article70640325.ece/alternates/LANDSCAPE_1200/2026-02-13T030030Z_1447213887_RC2QKJAGQH2P_RTRMADP_3_BANGLADESH-ELECTION.JPG" />
-      <media:content url="https://th-i.thgim.com/public/incoming/ehxrtg/article70640325.ece/alternates/LANDSCAPE_1200/2026-02-13T030030Z_1447213887_RC2QKJAGQH2P_RTRMADP_3_BANGLADESH-ELECTION.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/ehxrtg/article70640325.ece/alternates/LANDSCAPE_1200/2026-02-13T030030Z_1447213887_RC2QKJAGQH2P_RTRMADP_3_BANGLADESH-ELECTION.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
