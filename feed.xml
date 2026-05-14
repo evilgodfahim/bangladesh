@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 13:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 16:04:12 +0000</lastBuildDate>
+    <item>
+      <title>Suspected measles death toll reaches 369 in Bangladesh</title>
+      <link>https://english.news.cn/20260514/f0194ed6e6e54e928227ea33cca5ddbd/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Thu, 14 May 2026 14:01:27 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260514/f0194ed6e6e54e928227ea33cca5ddbd/c.html</guid>
+    </item>
     <item>
       <title>India, Afghanistan set to feature in Central Asian Volleyball in Lahore</title>
       <link>https://www.dawn.com/news/2000034/india-afghanistan-set-to-feature-in-central-asian-volleyball-in-lahore</link>
@@ -12582,16 +12589,6 @@ PMD, Suparco assisted the committee in moon sighting.Zonal committees convened t
       <media:thumbnail url="https://img.etimg.com/photo/msid-128450872,imgsize-164112.cms" />
       <media:content url="https://img.etimg.com/photo/msid-128450872,imgsize-164112.cms" medium="image" />
       <enclosure url="https://img.etimg.com/photo/msid-128450872,imgsize-164112.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BNP sweeps Bangladesh elections, Andhra Pradesh Budget 2026, and more: The week in 5 charts</title>
-      <link>https://www.thehindu.com/data/bnp-sweeps-bangladesh-elections-andhra-pradesh-budget-2026-the-week-in-5-charts/article70638225.ece</link>
-      <description>Here are graphics explaining these and other top stories from last week.</description>
-      <pubDate>Tue, 17 Feb 2026 05:42:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/data/bnp-sweeps-bangladesh-elections-andhra-pradesh-budget-2026-the-week-in-5-charts/article70638225.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/wq6gmw/article70641706.ece/alternates/LANDSCAPE_1200/Collages%20For%20Top%20Charts%205.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/wq6gmw/article70641706.ece/alternates/LANDSCAPE_1200/Collages%20For%20Top%20Charts%205.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/wq6gmw/article70641706.ece/alternates/LANDSCAPE_1200/Collages%20For%20Top%20Charts%205.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
