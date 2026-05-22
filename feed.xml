@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 10:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:22:26 +0000</lastBuildDate>
+    <item>
+      <title>Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh</title>
+      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html</link>
+      <description>The outbreak, with more than 8,000 confirmed cases and another 60,000 suspected infections, has prompted an emergency vaccination drive.</description>
+      <pubDate>Fri, 22 May 2026 10:12:38 +0000</pubDate>
+      <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/2026/05/22/world/asia/bangladesh-measles-outbreak-vaccines.html</guid>
+      <media:thumbnail url="https://static01.nyt.com/images/2026/05/22/multimedia/22xp-bangladesh-measles-lhkv/22xp-bangladesh-measles-lhkv-mediumSquareAt3X.jpg" />
+      <media:content url="https://static01.nyt.com/images/2026/05/22/multimedia/22xp-bangladesh-measles-lhkv/22xp-bangladesh-measles-lhkv-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/05/22/multimedia/22xp-bangladesh-measles-lhkv/22xp-bangladesh-measles-lhkv-mediumSquareAt3X.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Morocco launches mass deportations to block Europe migration route</title>
       <link>https://www.middleeasteye.net/news/morocco-launches-mass-deportations-block-europe-migration-route</link>
@@ -13474,16 +13484,6 @@ PMD, Suparco assisted the committee in moon sighting.Zonal committees convened t
       <media:thumbnail url="https://static.toiimg.com/photo/msid-128465927,imgsize-952072.cms" />
       <media:content url="https://static.toiimg.com/photo/msid-128465927,imgsize-952072.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-128465927,imgsize-952072.cms" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Top news of the day: Tarique Rahman sworn in as new PM of Bangladesh; Supreme Court says political leaders must ultimately foster fraternity in country, and more</title>
-      <link>https://www.thehindu.com/news/top-news-of-the-day-february-17-2026-tarique-rahman-sworn-in-as-new-pm-of-bangladesh-supreme-court-says-political-leaders-must-ultimately-foster-fraternity-in-country-and-more/article70643029.ece</link>
-      <description>The major news headlines of the day and more.</description>
-      <pubDate>Tue, 17 Feb 2026 13:00:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/top-news-of-the-day-february-17-2026-tarique-rahman-sworn-in-as-new-pm-of-bangladesh-supreme-court-says-political-leaders-must-ultimately-foster-fraternity-in-country-and-more/article70643029.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/y8okbj/article70643213.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000314B.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/y8okbj/article70643213.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000314B.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/y8okbj/article70643213.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000314B.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
