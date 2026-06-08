@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jun 2026 23:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 02:59:04 +0000</lastBuildDate>
+    <item>
+      <title>Moderate earthquake shakes Bangladesh, no casualties reported</title>
+      <link>https://english.news.cn/20260608/fe3aa2976dbc48a09f7004a550b12403/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Mon, 08 Jun 2026 02:28:35 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260608/fe3aa2976dbc48a09f7004a550b12403/c.html</guid>
+    </item>
     <item>
       <title>Couple sentenced to death for rape and murder of girl in Bangladesh&apos;s fastest trial</title>
       <link>https://www.thehindu.com/news/international/couple-sentenced-to-death-for-rape-and-murder-of-girl-in-bangladeshs-fastest-trial/article71073976.ece</link>
@@ -14117,16 +14124,6 @@ PMD, Suparco assisted the committee in moon sighting.Zonal committees convened t
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/7rxxhs/article70647305.ece/alternates/LANDSCAPE_1200/Namibia_Pakistan_T20_WCup_Cricket_72746.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/7rxxhs/article70647305.ece/alternates/LANDSCAPE_1200/Namibia_Pakistan_T20_WCup_Cricket_72746.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/7rxxhs/article70647305.ece/alternates/LANDSCAPE_1200/Namibia_Pakistan_T20_WCup_Cricket_72746.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Opinion: Opinion | India&apos;s Northeast Has A New Problem - &apos;Jamaat&apos; Surge Along Bangladesh Border</title>
-      <link>https://www.ndtv.com/opinion/arms-haul-to-ruling-bangladesh-borderland-indias-northeast-has-a-new-jamaat-problem-11053591#publisher=newsstand</link>
-      <description>Most of Jamaat&apos;s victories have come from the north-west and south-west regions adjoining Indian states such as West Bengal, Assam and Meghalaya.</description>
-      <pubDate>Wed, 18 Feb 2026 11:23:34 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/opinion/arms-haul-to-ruling-bangladesh-borderland-indias-northeast-has-a-new-jamaat-problem-11053591#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-01/50soe9u_bangladesh-jamaateislami_625x300_06_January_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2026-01/50soe9u_bangladesh-jamaateislami_625x300_06_January_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-01/50soe9u_bangladesh-jamaateislami_625x300_06_January_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
