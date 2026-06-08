@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 16:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 19:14:23 +0000</lastBuildDate>
+    <item>
+      <title>The trust deficit in India-Bangladesh ties</title>
+      <link>https://www.thehindu.com/opinion/op-ed/the-trust-deficit-in-india-bangladesh-ties/article71078152.ece</link>
+      <description>Bangladeshi diplomats have pointed out that Dhaka expected less rhetoric on illegal immigration, and more focus on issues such as the renewal of the 1996 Ganga Water Treaty</description>
+      <pubDate>Mon, 08 Jun 2026 19:03:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/opinion/op-ed/the-trust-deficit-in-india-bangladesh-ties/article71078152.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/latest-news/4ssgei/article71078241.ece/alternates/LANDSCAPE_1200/India-Bangla.jpg" />
+      <media:content url="https://th-i.thgim.com/public/latest-news/4ssgei/article71078241.ece/alternates/LANDSCAPE_1200/India-Bangla.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/latest-news/4ssgei/article71078241.ece/alternates/LANDSCAPE_1200/India-Bangla.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>India detains and deports 5,000 Bangladeshis</title>
       <link>https://www.dawn.com/news/2006150/india-detains-and-deports-5000-bangladeshis</link>
@@ -14171,18 +14181,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <description></description>
       <pubDate>Wed, 18 Feb 2026 12:27:13 +0000</pubDate>
       <guid isPermaLink="true">https://southasiamonitor.org/spotlight/bangladesh-crossroads-economic-reckoning-and-fragile-promise-reform</guid>
-    </item>
-    <item>
-      <title>Ramadan moon sighted in Pakistan, fasting starts today</title>
-      <link>https://www.geo.tv/latest/651593-live-ruet-e-hilal-committee-meeting-underway-for-ramadan-2026-moon-sighting</link>
-      <description>&lt;img src=&quot;https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651593_074000_updates.jpg&quot; /&gt;
-	            	A new crescent seen through a telescope shines beside the tower of a mosque. &amp;mdash; Reuters/File
-PMD, Suparco assisted the committee in moon sighting.Zonal committees convened to collect testimonies of sightings.Bangladesh, India announce Feb 19 as first day of holy month.&lt;p...</description>
-      <pubDate>Wed, 18 Feb 2026 12:17:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.geo.tv/latest/651593-live-ruet-e-hilal-committee-meeting-underway-for-ramadan-2026-moon-sighting</guid>
-      <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651593_074000_updates.jpg" />
-      <media:content url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651593_074000_updates.jpg" medium="image" />
-      <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651593_074000_updates.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
