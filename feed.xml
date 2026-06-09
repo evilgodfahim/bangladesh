@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 13:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 16:24:38 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh, Russia in talks to bolster manpower cooperation, trade expansion</title>
+      <link>https://english.news.cn/20260609/b2ce71e23dfc42e088517ec6a4463089/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Tue, 09 Jun 2026 15:22:53 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260609/b2ce71e23dfc42e088517ec6a4463089/c.html</guid>
+    </item>
     <item>
       <title>Front-row view of Bangladesh’s democratic reconstruction</title>
       <link>https://asiatimes.com/2026/06/front-row-view-of-bangladeshs-democratic-reconstruction/</link>
@@ -14179,16 +14186,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <media:thumbnail url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651613_063832_updates.jpg" />
       <media:content url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651613_063832_updates.jpg" medium="image" />
       <enclosure url="https://www.geo.tv/assets/uploads/updates/2026-02-18/l_651613_063832_updates.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh’s election represents politics as usual, and some hope for change</title>
-      <link>https://theconversation.com/bangladeshs-election-represents-politics-as-usual-and-some-hope-for-change-276001</link>
-      <description>This election is the first following the 2024 July uprising that led to the ouster of the country’s longest-serving prime minister, Sheikh Hasina.</description>
-      <pubDate>Wed, 18 Feb 2026 13:25:32 +0000</pubDate>
-      <guid isPermaLink="true">https://theconversation.com/bangladeshs-election-represents-politics-as-usual-and-some-hope-for-change-276001</guid>
-      <media:thumbnail url="https://counter.theconversation.com/content/276001/count.gif" />
-      <media:content url="https://counter.theconversation.com/content/276001/count.gif" medium="image" />
-      <enclosure url="https://counter.theconversation.com/content/276001/count.gif" type="image/jpeg" />
     </item>
   </channel>
 </rss>
