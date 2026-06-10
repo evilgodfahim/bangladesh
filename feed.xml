@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 14:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 17:50:28 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh enters half-a-trillion USD GDP club</title>
+      <link>https://english.news.cn/20260610/c70ae126e2c34b17921c9e6fdf9b8e6f/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Wed, 10 Jun 2026 15:23:17 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260610/c70ae126e2c34b17921c9e6fdf9b8e6f/c.html</guid>
+    </item>
     <item>
       <title>India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions</title>
       <link>https://www.aljazeera.com/news/2026/6/10/indias-bengal-pushes-out-muslim-bangladeshis-deepening-religious-tensions?traffic_source=rss</link>
@@ -14162,13 +14169,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <media:thumbnail url="https://c.ndtvimg.com/2026-02/70gh4hpc_tarique-rahman_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2026-02/70gh4hpc_tarique-rahman_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2026-02/70gh4hpc_tarique-rahman_625x300_18_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Rosatom counts on fruitful cooperation with new Bangladeshi authorities — CEO</title>
-      <link>https://tass.com/economy/2088607</link>
-      <description>Alexey Likhachev noted that Rosatom&apos;s strategic project – Bangladesh&apos;s first nuclear power plant, Rooppur – is primarily aimed at improving the quality of life for the people</description>
-      <pubDate>Wed, 18 Feb 2026 16:48:37 +0000</pubDate>
-      <guid isPermaLink="true">https://tass.com/economy/2088607</guid>
     </item>
   </channel>
 </rss>
