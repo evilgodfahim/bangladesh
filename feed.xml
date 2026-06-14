@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 15:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:07:56 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh’s former police boss wanted by Interpol arrested in Dubai</title>
+      <link>https://www.thehindu.com/news/international/bangladeshs-former-police-boss-wanted-by-interpol-arrested-in-dubai/article71101995.ece</link>
+      <description>Benazir, once a close ally of former leader Sheikh Hasina, left the country in May 2024 amid public outrage over allegations that he had stashed an illegal multi-million dollar fortune</description>
+      <pubDate>Sun, 14 Jun 2026 16:48:48 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladeshs-former-police-boss-wanted-by-interpol-arrested-in-dubai/article71101995.ece</guid>
+    </item>
     <item>
       <title>671 dead in May accidents in Bangladesh</title>
       <link>https://english.news.cn/20260613/ad3535ee3d874b7b9e43d98ad888b342/c.html</link>
@@ -14504,16 +14511,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <media:thumbnail url="https://c.ndtvimg.com/2026-02/goi1fvso_bangladesh-student_625x300_19_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://c.ndtvimg.com/2026-02/goi1fvso_bangladesh-student_625x300_19_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://c.ndtvimg.com/2026-02/goi1fvso_bangladesh-student_625x300_19_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PM Tarique Rahman vows to turn Bangladesh into safe land for people of all faiths</title>
-      <link>https://www.thehindu.com/news/international/pm-tarique-rahman-vows-to-turn-bangladesh-into-safe-land-for-people-of-all-faiths/article70650196.ece</link>
-      <description>His remarks about a pluralistic society assume significance as the Hindu population in Bangladesh has been affected by a series of attacks after the ouster of then-Prime Minister Sheikh Hasina in August 2024</description>
-      <pubDate>Thu, 19 Feb 2026 03:10:10 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/pm-tarique-rahman-vows-to-turn-bangladesh-into-safe-land-for-people-of-all-faiths/article70650196.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/emg99p/article70650205.ece/alternates/LANDSCAPE_1200/Bangladesh-to-tGADFJVIIS.3.jpg.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/emg99p/article70650205.ece/alternates/LANDSCAPE_1200/Bangladesh-to-tGADFJVIIS.3.jpg.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/emg99p/article70650205.ece/alternates/LANDSCAPE_1200/Bangladesh-to-tGADFJVIIS.3.jpg.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
