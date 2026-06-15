@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 04:28:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:49:34 +0000</lastBuildDate>
+    <item>
+      <title>ADB budget support lifts Bangladesh&apos;s forex reserves to 35.63 bln USD</title>
+      <link>https://english.news.cn/20260615/01d30c48287c467aae25e144742a73cb/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Mon, 15 Jun 2026 09:04:10 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260615/01d30c48287c467aae25e144742a73cb/c.html</guid>
+    </item>
     <item>
       <title>Bangladesh’s former police boss wanted by Interpol arrested in Dubai</title>
       <link>https://www.thehindu.com/news/international/bangladeshs-former-police-boss-wanted-by-interpol-arrested-in-dubai/article71101995.ece</link>
@@ -14501,16 +14508,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <media:thumbnail url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/19/524287.JPG" />
       <media:content url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/19/524287.JPG" medium="image" />
       <enclosure url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/19/524287.JPG" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh Student Leader Wanted In Cop&apos;s Murder Arrested At Delhi Airport</title>
-      <link>https://www.ndtv.com/world-news/bangladesh-student-leader-wanted-in-cops-murder-arrested-at-delhi-airport-11056822#publisher=newsstand</link>
-      <description>Ahmed Raza Hasan Mehdi was arrested at Delhi airport</description>
-      <pubDate>Thu, 19 Feb 2026 04:10:55 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/world-news/bangladesh-student-leader-wanted-in-cops-murder-arrested-at-delhi-airport-11056822#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2026-02/goi1fvso_bangladesh-student_625x300_19_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2026-02/goi1fvso_bangladesh-student_625x300_19_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2026-02/goi1fvso_bangladesh-student_625x300_19_February_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
