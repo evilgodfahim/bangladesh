@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh PM’s adviser returns from Delhi airport; says he was ‘humiliated’ by immigration</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-pms-adviser-returns-from-delhi-airport-says-he-was-humiliated-by-immigration/article71106144.ece</link>
+      <description>Rahman was held for more than two hours before he was cleared to enter Delhi; by that time, he had made up his mind to return</description>
+      <pubDate>Mon, 15 Jun 2026 17:56:23 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-pms-adviser-returns-from-delhi-airport-says-he-was-humiliated-by-immigration/article71106144.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/5kncvd/article71106435.ece/alternates/LANDSCAPE_1200/702531505_3431762130322659_133699671944933130_n.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/5kncvd/article71106435.ece/alternates/LANDSCAPE_1200/702531505_3431762130322659_133699671944933130_n.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/5kncvd/article71106435.ece/alternates/LANDSCAPE_1200/702531505_3431762130322659_133699671944933130_n.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ADB budget support lifts Bangladesh&apos;s forex reserves to 35.63 bln USD</title>
       <link>https://english.news.cn/20260615/01d30c48287c467aae25e144742a73cb/c.html</link>
@@ -14498,16 +14508,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <media:thumbnail url="https://mf.b37mrtl.ru/files/2026.02/thumbnail/6996acea203027205222aa67.jpg" />
       <media:content url="https://mf.b37mrtl.ru/files/2026.02/thumbnail/6996acea203027205222aa67.jpg" medium="image" />
       <enclosure url="https://mf.b37mrtl.ru/files/2026.02/thumbnail/6996acea203027205222aa67.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>After a historic vote, can Bangladeshis rise to the occasion?</title>
-      <link>https://www.japantimes.co.jp/commentary/2026/02/19/world/bangladeshs-historic-vote/</link>
-      <description>Last week, the Bangladesh Nationalist Party (BNP) and its leader Tarique Rahman won a commanding electoral victory.</description>
-      <pubDate>Thu, 19 Feb 2026 05:20:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.japantimes.co.jp/commentary/2026/02/19/world/bangladeshs-historic-vote/</guid>
-      <media:thumbnail url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/19/524287.JPG" />
-      <media:content url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/19/524287.JPG" medium="image" />
-      <enclosure url="https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/19/524287.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
