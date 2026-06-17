@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 10:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 14:22:51 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh gives go-ahead to 2 free trade zones near major seaports</title>
+      <link>https://english.news.cn/20260617/34bd4b68102d443584f15307658a6de1/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Wed, 17 Jun 2026 11:21:04 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260617/34bd4b68102d443584f15307658a6de1/c.html</guid>
+    </item>
     <item>
       <title>Bangladesh PM’s adviser returns from Delhi airport; says he was ‘humiliated’ by immigration</title>
       <link>https://www.thehindu.com/news/international/bangladesh-pms-adviser-returns-from-delhi-airport-says-he-was-humiliated-by-immigration/article71106144.ece</link>
@@ -14501,16 +14508,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <media:thumbnail url="https://i.ndtvimg.com/i/2018-03/spicejet_650x400_41522461883.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" />
       <media:content url="https://i.ndtvimg.com/i/2018-03/spicejet_650x400_41522461883.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" medium="image" />
       <enclosure url="https://i.ndtvimg.com/i/2018-03/spicejet_650x400_41522461883.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tariq Rahman Must Revive Bangladesh’s Economy</title>
-      <link>https://time.com/7379429/tariq-rahmans-bangladeshs-economy-china-america/</link>
-      <description>Prime Minister Tarique Rahman of Bangladesh will have to focus on his primary task of reviving the economy.</description>
-      <pubDate>Thu, 19 Feb 2026 11:15:00 +0000</pubDate>
-      <guid isPermaLink="true">https://time.com/7379429/tariq-rahmans-bangladeshs-economy-china-america/</guid>
-      <media:thumbnail url="https://api.time.com/wp-content/uploads/2026/02/GettyImages-2261660165.jpg" />
-      <media:content url="https://api.time.com/wp-content/uploads/2026/02/GettyImages-2261660165.jpg" medium="image" />
-      <enclosure url="https://api.time.com/wp-content/uploads/2026/02/GettyImages-2261660165.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
