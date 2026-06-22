@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 06:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:41:56 +0000</lastBuildDate>
+    <item>
+      <title>Malaysia vows to strengthen rights of Bangladeshi workers during Prime Minister Tarique Rahman’s visit</title>
+      <link>https://www.thehindu.com/news/international/malaysia-vows-to-strengthen-rights-of-bangladeshi-workers-during-prime-minister-tarique-rahmans-visit/article71132135.ece</link>
+      <description>Speaking at a joint press conference with the Bangladeshi Prime Minister, Anwar Ibrahim described &quot;human resources cooperation, particularly the workers&quot; as &quot;critical for our survival&quot;</description>
+      <pubDate>Mon, 22 Jun 2026 09:19:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/malaysia-vows-to-strengthen-rights-of-bangladeshi-workers-during-prime-minister-tarique-rahmans-visit/article71132135.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/rkfmzs/article71132297.ece/alternates/LANDSCAPE_1200/2026-06-22T042654Z_1839482098_RC2PYLAWWBFJ_RTRMADP_3_MALAYSIA-BANGLADESH.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/rkfmzs/article71132297.ece/alternates/LANDSCAPE_1200/2026-06-22T042654Z_1839482098_RC2PYLAWWBFJ_RTRMADP_3_MALAYSIA-BANGLADESH.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/rkfmzs/article71132297.ece/alternates/LANDSCAPE_1200/2026-06-22T042654Z_1839482098_RC2PYLAWWBFJ_RTRMADP_3_MALAYSIA-BANGLADESH.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Mitchell Marsh powers Australia to 3-0 sweep over Bang­ladesh</title>
       <link>https://www.dawn.com/news/2009933/mitchell-marsh-powers-australia-to-3-0-sweep-over-bangladesh</link>
@@ -14638,16 +14648,6 @@ Zafar Sobhan, editor of Counterpoint, said: “Let us not forget this was a key 
       <media:thumbnail url="https://i.dawn.com/large/2026/02/201227377816159.webp" />
       <media:content url="https://i.dawn.com/large/2026/02/201227377816159.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/02/201227377816159.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Opinion: Opinion | In Bangladesh, A Story Of Many Wins</title>
-      <link>https://www.ndtv.com/opinion/in-bangladesh-light-after-darkness-11111480#publisher=newsstand</link>
-      <description>The rain is over, and the clouds are clearing. Now, the hard work of rebuilding a nation begins, and India must be standing right there alongside as a friend.</description>
-      <pubDate>Fri, 20 Feb 2026 07:04:31 +0000</pubDate>
-      <guid isPermaLink="true">https://www.ndtv.com/opinion/in-bangladesh-light-after-darkness-11111480#publisher=newsstand</guid>
-      <media:thumbnail url="https://c.ndtvimg.com/2025-08/1a0n0nac_bdesh_625x300_10_August_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" />
-      <media:content url="https://c.ndtvimg.com/2025-08/1a0n0nac_bdesh_625x300_10_August_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" medium="image" />
-      <enclosure url="https://c.ndtvimg.com/2025-08/1a0n0nac_bdesh_625x300_10_August_25.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738" type="image/jpeg" />
     </item>
   </channel>
 </rss>
