@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 06:39:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:10:10 +0000</lastBuildDate>
+    <item>
+      <title>Sheikh Hasina writes: My absence is not silence. Even though I am away, I am with the people of Bangladesh</title>
+      <link>https://indianexpress.com/article/opinion/columns/sheikh-hasina-i-am-with-the-people-of-bangladesh-awami-league-10756358/</link>
+      <description></description>
+      <pubDate>Thu, 25 Jun 2026 07:00:41 +0000</pubDate>
+      <guid isPermaLink="true">https://indianexpress.com/article/opinion/columns/sheikh-hasina-i-am-with-the-people-of-bangladesh-awami-league-10756358/</guid>
+      <media:thumbnail url="https://images.indianexpress.com/2026/06/Sheikh-Hasina-1-1_20260625045357.jpg" />
+      <media:content url="https://images.indianexpress.com/2026/06/Sheikh-Hasina-1-1_20260625045357.jpg" medium="image" />
+      <enclosure url="https://images.indianexpress.com/2026/06/Sheikh-Hasina-1-1_20260625045357.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Pakistan pushes for global action against hepatitis amid alarming WHO findings</title>
       <link>https://www.dawn.com/news/2010592/pakistan-pushes-for-global-action-against-hepatitis-amid-alarming-who-findings</link>
@@ -14830,13 +14840,6 @@ Last week, Bangladesh held its first election since the fall of Sheikh Hasina’
       <description></description>
       <pubDate>Sat, 21 Feb 2026 09:50:53 +0000</pubDate>
       <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-moving-towards-restoring-visa-for-indian-nationals-diplomatic-sources/article70659473.ece</guid>
-    </item>
-    <item>
-      <title>Can Bangladesh’s old guard build a new democracy?</title>
-      <link>https://www.hindustantimes.com/world-news/can-bangladesh-s-old-guard-build-a-new-democracy-101771663634233.html</link>
-      <description></description>
-      <pubDate>Sat, 21 Feb 2026 08:54:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.hindustantimes.com/world-news/can-bangladesh-s-old-guard-build-a-new-democracy-101771663634233.html</guid>
     </item>
   </channel>
 </rss>
