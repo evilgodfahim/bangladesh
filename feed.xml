@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 13:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 15:10:28 +0000</lastBuildDate>
+    <item>
+      <title>World Bank approves 250 mln USD for Bangladesh to strengthen public institutions</title>
+      <link>https://english.news.cn/20260628/2824745812d440d782dab81ddd0147ca/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Sun, 28 Jun 2026 13:22:42 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260628/2824745812d440d782dab81ddd0147ca/c.html</guid>
+    </item>
     <item>
       <title>China This Week | Bangladesh-China ties upgraded, more military removals, and Anthropic accuses Alibaba</title>
       <link>https://indianexpress.com/article/explained/explained-global/china-this-week-bangladesh-purge-alibaba-ai-anthropic-10761636/</link>
@@ -14864,16 +14871,6 @@ Last week, Bangladesh held its first election since the fall of Sheikh Hasina’
       <description></description>
       <pubDate>Mon, 23 Feb 2026 21:59:00 +0000</pubDate>
       <guid isPermaLink="true">https://www.channelnewsasia.com/commentary/bangladesh-bnp-pm-tarique-rahman-election-reform-referendum-5946926</guid>
-    </item>
-    <item>
-      <title>Yunus did not follow the constitution, kept me in the dark, says Bangladesh President</title>
-      <link>https://www.thehindu.com/news/international/yunus-did-not-follow-the-constitution-kept-me-in-dark-says-bangladesh-president/article70666962.ece</link>
-      <description>Bangladesh President Mohammed Shahabuddin reveals a stark picture of the chaos that unfolded in the country in which Muhammad Yunus “kept him in the dark” and “did not involve him in discussions”</description>
-      <pubDate>Mon, 23 Feb 2026 13:45:16 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/yunus-did-not-follow-the-constitution-kept-me-in-dark-says-bangladesh-president/article70666962.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/4bjy22/article70666964.ece/alternates/LANDSCAPE_1200/2024-08-08T192828Z_1158878819_RC2RB9ALLFYA_RTRMADP_3_BANGLADESH-PROTESTS.JPG" />
-      <media:content url="https://th-i.thgim.com/public/incoming/4bjy22/article70666964.ece/alternates/LANDSCAPE_1200/2024-08-08T192828Z_1158878819_RC2RB9ALLFYA_RTRMADP_3_BANGLADESH-PROTESTS.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/4bjy22/article70666964.ece/alternates/LANDSCAPE_1200/2024-08-08T192828Z_1158878819_RC2RB9ALLFYA_RTRMADP_3_BANGLADESH-PROTESTS.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
