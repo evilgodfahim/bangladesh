@@ -5,16 +5,23 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 02:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:00:07 +0000</lastBuildDate>
+    <item>
+      <title>Don’t read too much into Bangladesh PM’s China visit</title>
+      <link>https://www.hindustantimes.com/opinion/dont-read-too-much-into-bangladesh-pm-s-china-visit-101783267143608.html</link>
+      <description>Where a neighbouring leader chooses to go first tells little about the state of a relationship, and we must stop treating itineraries as foreign policy outcomes</description>
+      <pubDate>Mon, 06 Jul 2026 02:41:37 +0000</pubDate>
+      <guid isPermaLink="true">https://www.hindustantimes.com/opinion/dont-read-too-much-into-bangladesh-pm-s-china-visit-101783267143608.html</guid>
+      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/07/05/1600x900/logo/China-Bangladesh-8_1783267462604_1783267500918_4eab6cde-e5c3-47c7-9381-9bf9932bccb3.jpg" />
+      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/07/05/1600x900/logo/China-Bangladesh-8_1783267462604_1783267500918_4eab6cde-e5c3-47c7-9381-9bf9932bccb3.jpg" medium="image" />
+      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/07/05/1600x900/logo/China-Bangladesh-8_1783267462604_1783267500918_4eab6cde-e5c3-47c7-9381-9bf9932bccb3.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh courts China even as ties with India improve</title>
       <link>https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.</description>
+      <description></description>
       <pubDate>Mon, 06 Jul 2026 00:02:29 +0000</pubDate>
       <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46d/live/7b635980-75f2-11f1-8c3f-e37c76e39331.jpg" />
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46d/live/7b635980-75f2-11f1-8c3f-e37c76e39331.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46d/live/7b635980-75f2-11f1-8c3f-e37c76e39331.jpg" type="image/jpeg" />
     </item>
     <item>
       <title>Bangladesh&apos;s export earnings total 48 bln USD in FY 2025-26</title>
@@ -14755,14 +14762,6 @@ It is clear: Only collective action can break the power of unilateral punishment
       <media:thumbnail url="https://i.dawn.com/large/2026/02/27091546b6dcec9.webp" />
       <media:content url="https://i.dawn.com/large/2026/02/27091546b6dcec9.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/02/27091546b6dcec9.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Liberal Order Is Losing Bangladesh</title>
-      <link>https://www.globalpolicyjournal.com/blog/27/02/2026/liberal-order-losing-bangladesh</link>
-      <description>Nowshin Noor argues that by squeezing Bangladesh, the West is ceding rules-based order to China.
-Last week, Bangladesh held its first election since the fall of Sheikh Hasina’s regime. The Bangladesh…</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.globalpolicyjournal.com/blog/27/02/2026/liberal-order-losing-bangladesh</guid>
     </item>
   </channel>
 </rss>
