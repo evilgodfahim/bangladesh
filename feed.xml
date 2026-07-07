@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 06:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:18:14 +0000</lastBuildDate>
+    <item>
+      <title>Landslip in Bangladesh kill at least eight Rohingya refugees</title>
+      <link>https://www.thehindu.com/news/international/landslides-in-bangladeshs-coxs-bazar-kill-several-rohingya-refugees/article71190852.ece</link>
+      <description>Rescuers recovered seven bodies while an eighth body was found by refugees after several hills collapsed from late July 7, 2026</description>
+      <pubDate>Tue, 07 Jul 2026 07:35:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/landslides-in-bangladeshs-coxs-bazar-kill-several-rohingya-refugees/article71190852.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/megqul/article71192508.ece/alternates/LANDSCAPE_1200/2026-07-06T053908Z_1638434497_RC24RKAOSERH_RTRMADP_3_BANGLADESH-ROHINGYA-LANDSLIDES.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/megqul/article71192508.ece/alternates/LANDSCAPE_1200/2026-07-06T053908Z_1638434497_RC24RKAOSERH_RTRMADP_3_BANGLADESH-ROHINGYA-LANDSLIDES.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/megqul/article71192508.ece/alternates/LANDSCAPE_1200/2026-07-06T053908Z_1638434497_RC24RKAOSERH_RTRMADP_3_BANGLADESH-ROHINGYA-LANDSLIDES.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Refugees killed in landslides at Rohingya camps in Bangladesh</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss</link>
@@ -1671,7 +1681,7 @@ Xi may meet Trump three more times this year. He...</description>
 
 
   &lt;div class=&quot;media media-teaser_landscape media-image aspect-ratio-16:9&quot;&gt;
-                        &lt;img alt=&quot;Prime Minister Narendra Modi, waits to welcome his Bangladeshi counterpart Sheikh Hasina at the Hyderabad House on 22 June 2024 in New Delhi, India.&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2026-02/2026-02-02-india-bangladesh-2158192560.jpg?h=8c1344d8&amp;amp;itok=2qrn3G2p&quot; width=&quot;750&quot; /&gt;
+                        &lt;img alt=&quot;alt&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2026-02/2026-02-02-india-bangladesh-2158192560.jpg?h=8c1344d8&amp;amp;itok=2qrn3G2p&quot; width=&quot;750&quot; /&gt;
 
   
 
@@ -14741,16 +14751,6 @@ It is clear: Only collective action can break the power of unilateral punishment
       <description></description>
       <pubDate>Fri, 27 Feb 2026 11:10:58 +0000</pubDate>
       <guid isPermaLink="true">https://www.firstpost.com/explainers/bangladesh-bank-governor-appointment-ahsan-mansur-mostaqur-rahman-tarique-rahman-government-decision-13984340.html</guid>
-    </item>
-    <item>
-      <title>Magnitude 5.4 earthquake strikes Bangladesh; tremors felt in Kolkata, adjacent W.B. districts</title>
-      <link>https://www.thehindu.com/news/international/magnitude-54-earthquake-strikes-bangladesh-tremors-felt-in-kolkata-adjacent-wb-districts/article70683234.ece</link>
-      <description>The epicentre of the quake was at a place named Nayabazar in Bangladesh, some 100 km from Kolkata</description>
-      <pubDate>Fri, 27 Feb 2026 09:25:27 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/magnitude-54-earthquake-strikes-bangladesh-tremors-felt-in-kolkata-adjacent-wb-districts/article70683234.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/6eqh9k/article66626890.ece/alternates/LANDSCAPE_1200/vbk-stock-earthquake-reuters-2023-02-15T142926Z_1200355584_QUAKE.JPG" />
-      <media:content url="https://th-i.thgim.com/public/incoming/6eqh9k/article66626890.ece/alternates/LANDSCAPE_1200/vbk-stock-earthquake-reuters-2023-02-15T142926Z_1200355584_QUAKE.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/6eqh9k/article66626890.ece/alternates/LANDSCAPE_1200/vbk-stock-earthquake-reuters-2023-02-15T142926Z_1200355584_QUAKE.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
