@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 08:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:44:42 +0000</lastBuildDate>
     <item>
       <title>Landslide kills 8 at Rohingya school in Bangladesh</title>
       <link>https://www.dawn.com/news/2014003/landslide-kills-8-at-rohingya-school-in-bangladesh</link>
@@ -30,6 +30,16 @@
       <description>At least seven children and a teacher were killed after a landslide hit a girls’ school at a refugee camp in Bangladesh.</description>
       <pubDate>Thu, 09 Jul 2026 00:51:32 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/7/9/eight-killed-as-landslide-hits-rohingya-school-in-bangladesh?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>A country that made huge progress on measles now reports 120,000 cases</title>
+      <link>https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Hundreds of children are dying from measles in Bangladesh, where hospitals are overwhelmed.</description>
+      <pubDate>Wed, 08 Jul 2026 22:03:05 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/6fd73af0-7a98-11f1-bee8-53ce494e1abc.png" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/6fd73af0-7a98-11f1-bee8-53ce494e1abc.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/6fd73af0-7a98-11f1-bee8-53ce494e1abc.png" type="image/jpeg" />
     </item>
     <item>
       <title>Children keep dying in a country that made huge progress on measles</title>
@@ -14446,13 +14456,6 @@ It is clear: Only collective action can break the power of unilateral punishment
       <description></description>
       <pubDate>Mon, 02 Mar 2026 15:32:41 +0000</pubDate>
       <guid isPermaLink="true">https://english.news.cn/20260302/cd9f3f6dad80425684c5f849478c7ff0/c.html</guid>
-    </item>
-    <item>
-      <title>In security-minded Pakistan, Gen Z protesters find no outlet for their discontent</title>
-      <link>https://www.thenewhumanitarian.org/opinion/2026/03/02/security-minded-pakistan-gen-z-protesters-find-no-outlet-their-discontent</link>
-      <description>Unlike in Bangladesh and Nepal, disgruntled young people are being forced to bottle up their frustrations and see no path forward.</description>
-      <pubDate>Mon, 02 Mar 2026 15:04:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thenewhumanitarian.org/opinion/2026/03/02/security-minded-pakistan-gen-z-protesters-find-no-outlet-their-discontent</guid>
     </item>
   </channel>
 </rss>
