@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 08:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:49:51 +0000</lastBuildDate>
+    <item>
+      <title>Heavy rains and flash floods in Bangladesh leave 51 dead</title>
+      <link>https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Thousands have lost their homes as flash floods and landslides have hit large parts of the country.</description>
+      <pubDate>Mon, 13 Jul 2026 06:19:49 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&amp;at_campaign=rss</guid>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh monsoon death toll hits 50, thousands displaced</title>
       <link>https://www.dawn.com/news/2014896/bangladesh-monsoon-death-toll-hits-50-thousands-displaced</link>
@@ -1990,7 +2000,7 @@ Xi may meet Trump three more times this year. He...</description>
 
 
   &lt;div class=&quot;media media-teaser_landscape media-image aspect-ratio-16:9&quot;&gt;
-                        &lt;img alt=&quot;alt&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2026-02/2026-02-10-bangladesh-election-2165625477.jpg?h=8c1344d8&amp;amp;itok=knYG7kgK&quot; width=&quot;750&quot; /&gt;
+                        &lt;img alt=&quot;Students paint a mural in the colours of the Bangladesh national flag.&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2026-02/2026-02-10-bangladesh-election-2165625477.jpg?h=8c1344d8&amp;amp;itok=knYG7kgK&quot; width=&quot;750&quot; /&gt;
 
   
 
@@ -14173,13 +14183,6 @@ Zobaidul Amin, 28, was brought from Malaysia to the United States last Wednesday
       <media:thumbnail url="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/IMG_0942.jpg.jpg?itok=t01mbso4" />
       <media:content url="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/IMG_0942.jpg.jpg?itok=t01mbso4" medium="image" />
       <enclosure url="https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/IMG_0942.jpg.jpg?itok=t01mbso4" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh at a crossroads: Why BNP must avoid Yunus’s mistakes</title>
-      <link>https://www.firstpost.com/opinion/bangladesh-at-a-crossroads-why-bnp-must-avoid-yunuss-mistakes-13986199.html</link>
-      <description></description>
-      <pubDate>Thu, 05 Mar 2026 11:12:23 +0000</pubDate>
-      <guid isPermaLink="true">https://www.firstpost.com/opinion/bangladesh-at-a-crossroads-why-bnp-must-avoid-yunuss-mistakes-13986199.html</guid>
     </item>
   </channel>
 </rss>
