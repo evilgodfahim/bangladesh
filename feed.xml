@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 09:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:40:40 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh and India battle to save cricket series after political turmoil</title>
+      <link>https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss</link>
+      <description>Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.</description>
+      <pubDate>Tue, 11 Aug 2026 10:02:35 +0000</pubDate>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss</guid>
+    </item>
     <item>
       <title>Bangladesh, India scramble to save white-ball series</title>
       <link>https://www.dawn.com/news/2022107/bangladesh-india-scramble-to-save-white-ball-series</link>
@@ -13544,13 +13551,6 @@ MAN-OF-THE-SERIES: Nahid Rana &lt;/p&gt;
       <media:thumbnail url="https://i.dawn.com/large/2026/04/04141626d264db7.webp" />
       <media:content url="https://i.dawn.com/large/2026/04/04141626d264db7.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/04/04141626d264db7.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Suspected measles deaths reach 94 in Bangladesh with new cases mounting</title>
-      <link>https://english.news.cn/20260404/a0b0eed83d634e6a8e85f2d24b4ab0de/c.html</link>
-      <description></description>
-      <pubDate>Sat, 04 Apr 2026 06:43:58 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260404/a0b0eed83d634e6a8e85f2d24b4ab0de/c.html</guid>
     </item>
   </channel>
 </rss>
