@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 12:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 14:12:47 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh&apos;s inflation stands at 8.32 pct in July</title>
+      <link>https://english.news.cn/20260812/13eadee38b044cb6989fda53f68e2b10/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Wed, 12 Aug 2026 13:30:42 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260812/13eadee38b044cb6989fda53f68e2b10/c.html</guid>
+    </item>
     <item>
       <title>The Pakistan the world keeps missing</title>
       <link>https://www.dawn.com/news/2022146/the-pakistan-the-world-keeps-missing</link>
@@ -1420,7 +1427,7 @@ While officials have maintained that the country cannot sever ties with every in
 
 
   &lt;div class=&quot;media media-teaser_landscape media-image aspect-ratio-16:9&quot;&gt;
-                        &lt;img alt=&quot;Nepal&apos;s Prime Minister Balen Shah next to newly appointed Speaker Dol Prasad Aryal&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2026-06/2026-06-11-balen-shah-nepal-gen-z-2269564232.jpg?h=9eb0d413&amp;amp;itok=MsQ4OS5S&quot; width=&quot;750&quot; /&gt;
+                        &lt;img alt=&quot;alt&quot; height=&quot;422&quot; src=&quot;https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2026-06/2026-06-11-balen-shah-nepal-gen-z-2269564232.jpg?h=9eb0d413&amp;amp;itok=MsQ4OS5S&quot; width=&quot;750&quot; /&gt;
 
   
 
@@ -13543,13 +13550,6 @@ MAN-OF-THE-SERIES: Nahid Rana &lt;/p&gt;
       <media:thumbnail url="https://th-i.thgim.com/public/news/national/x79svz/article70824495.ece/alternates/LANDSCAPE_1200/Ishaq_Dar.jpg" />
       <media:content url="https://th-i.thgim.com/public/news/national/x79svz/article70824495.ece/alternates/LANDSCAPE_1200/Ishaq_Dar.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/news/national/x79svz/article70824495.ece/alternates/LANDSCAPE_1200/Ishaq_Dar.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Gas lighter factory blaze in Bangladesh leaves 5 dead</title>
-      <link>https://english.news.cn/20260404/c417fba3ea6b494ba3398ca9a8c77cc7/c.html</link>
-      <description></description>
-      <pubDate>Sat, 04 Apr 2026 12:49:10 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260404/c417fba3ea6b494ba3398ca9a8c77cc7/c.html</guid>
     </item>
   </channel>
 </rss>
