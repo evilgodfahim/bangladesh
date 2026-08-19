@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 14:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:20:02 +0000</lastBuildDate>
+    <item>
+      <title>Bangladeshi gov&apos;t to change fiscal year to April-March: media</title>
+      <link>https://english.news.cn/20260819/ec15c87b99954e27b39c997b92f38aae/c.html</link>
+      <description>Delivered by PolitePaul service</description>
+      <pubDate>Wed, 19 Aug 2026 12:59:16 +0000</pubDate>
+      <guid isPermaLink="true">https://english.news.cn/20260819/ec15c87b99954e27b39c997b92f38aae/c.html</guid>
+    </item>
     <item>
       <title>Hotel fire kills 9 in India&apos;s Kolkata</title>
       <link>https://www.dawn.com/news/2023868/hotel-fire-kills-9-in-indias-kolkata</link>
@@ -13195,16 +13202,6 @@ MAN-OF-THE-SERIES: Nahid Rana &lt;/p&gt;
       <media:thumbnail url="https://i.dawn.com/large/2026/04/1016445396a8868.webp" />
       <media:content url="https://i.dawn.com/large/2026/04/1016445396a8868.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/04/1016445396a8868.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh’s foreign minister in India: Dhaka is meeting India’s pragmatism with optimism</title>
-      <link>https://indianexpress.com/article/opinion/columns/bangladesh-india-delhi-dhaka-foreign-minister-khalilur-tarique-rahman-shiekh-hasina-border-fuel-10628124/</link>
-      <description></description>
-      <pubDate>Thu, 09 Apr 2026 13:59:17 +0000</pubDate>
-      <guid isPermaLink="true">https://indianexpress.com/article/opinion/columns/bangladesh-india-delhi-dhaka-foreign-minister-khalilur-tarique-rahman-shiekh-hasina-border-fuel-10628124/</guid>
-      <media:thumbnail url="https://images.indianexpress.com/2026/04/EAM-S-Jaishankar-with-his-Bangladesh-counterpart-Khalilur-Rahman-in-New-Delhi.-PTI.jpg" />
-      <media:content url="https://images.indianexpress.com/2026/04/EAM-S-Jaishankar-with-his-Bangladesh-counterpart-Khalilur-Rahman-in-New-Delhi.-PTI.jpg" medium="image" />
-      <enclosure url="https://images.indianexpress.com/2026/04/EAM-S-Jaishankar-with-his-Bangladesh-counterpart-Khalilur-Rahman-in-New-Delhi.-PTI.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
