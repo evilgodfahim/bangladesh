@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:37:33 +0000</lastBuildDate>
+    <item>
+      <title>BNP&apos;s Mirza Fakhrul elected as Bangladesh&apos;s new President</title>
+      <link>https://www.thehindu.com/news/international/bnps-mirza-fakhrul-islam-alamgir-elected-as-bangladeshs-new-president/article71369253.ece</link>
+      <description></description>
+      <pubDate>Thu, 20 Aug 2026 13:31:50 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bnps-mirza-fakhrul-islam-alamgir-elected-as-bangladeshs-new-president/article71369253.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/wogfad/article71369270.ece/alternates/LANDSCAPE_1200/2026-08-20T060706Z_1131457797_RC2LLJAIP6GO_RTRMADP_3_BANGLADESH-PRESIDENT.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots</title>
       <link>https://www.thehindu.com/news/international/bangladesh-presidential-election-voting-results-august-20-2026/article71368465.ece</link>
@@ -13070,16 +13080,6 @@ MAN-OF-THE-SERIES: Nahid Rana &lt;/p&gt;
       <media:thumbnail url="https://i.dawn.com/large/2026/04/12111635e240a11.webp" />
       <media:content url="https://i.dawn.com/large/2026/04/12111635e240a11.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/04/12111635e240a11.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh mob beats spiritual leader to death</title>
-      <link>https://www.thehindu.com/news/international/bangladesh-mob-beats-spiritual-leader-to-death/article70851787.ece</link>
-      <description>Shamim Reza Jahangir, believed to be in his 60s, died from his injuries after hundreds of people stormed his residence in Kushtia district and thrashed him with sticks, says chief administrative official Touhid bin Hasan</description>
-      <pubDate>Sat, 11 Apr 2026 16:03:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-mob-beats-spiritual-leader-to-death/article70851787.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/isxqp2/article70851807.ece/alternates/LANDSCAPE_1200/iStock-1481903146.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/isxqp2/article70851807.ece/alternates/LANDSCAPE_1200/iStock-1481903146.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/isxqp2/article70851807.ece/alternates/LANDSCAPE_1200/iStock-1481903146.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
