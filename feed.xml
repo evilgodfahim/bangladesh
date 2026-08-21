@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:13:03 +0000</lastBuildDate>
     <item>
       <title>Mirza Fakhrul Islam Alamgir takes oath as Bangladeshs President</title>
       <link>https://www.thehindu.com/news/international/mirza-fakhrul-islam-alamgir-takes-oath-as-bangladeshs-president/article71374713.ece</link>
@@ -173,6 +173,13 @@
       <media:thumbnail url="https://i.dawn.com/large/2026/08/2019130838724a2.webp" />
       <media:content url="https://i.dawn.com/large/2026/08/2019130838724a2.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/08/2019130838724a2.webp" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh elects new president</title>
+      <link>https://www.rt.com/india/644449-bangladesh-president-elect/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description></description>
+      <pubDate>Thu, 20 Aug 2026 13:41:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.rt.com/india/644449-bangladesh-president-elect/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
     </item>
     <item>
       <title>Bangladesh presidential election: Voting under way; 349 lawmakers to cast their ballots</title>
@@ -13056,16 +13063,6 @@ MAN-OF-THE-SERIES: Nahid Rana &lt;/p&gt;
       <description>Crowds from the Bangladeshi community in Barcelona celebrated the approval of a mass amnesty programme.</description>
       <pubDate>Tue, 14 Apr 2026 20:32:38 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/4/14/spains-bangladeshi-community-cheers-migrant-amnesty-programme?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>About 250 missing after boat carrying Rohingya refugees capsizes in Andaman Sea</title>
-      <link>https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea</link>
-      <description>&lt;p&gt;Trawler set off from Bangladesh and reportedly capsized due to heavy winds, rough seas and overcrowding&lt;/p&gt;&lt;p&gt;About 250 people are missing after a boat carrying Rohingya refugees and Bangladeshi nationals capsized in the Andaman Sea, according to the UN’s refugee and migration agencies.&lt;/p&gt;&lt;p&gt;The agencies said the trawler carrying more than 250 men, women and children reportedly sank due to harsh weather and overcrowding. It had departed from Teknaf in southern Bangladesh and was bound for Malaysia.&lt;/p&gt; &lt;a href=&quot;https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea&quot;&gt;Continue reading...&lt;/a&gt;</description>
-      <pubDate>Tue, 14 Apr 2026 18:31:32 +0000</pubDate>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea</guid>
-      <media:thumbnail url="https://i.guim.co.uk/img/media/100208ae318d5c94369c06ed82539a626e998fb2/806_0_2880_2304/master/2880.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b48d0e50a9c7de77feebe7a715751f1" />
-      <media:content url="https://i.guim.co.uk/img/media/100208ae318d5c94369c06ed82539a626e998fb2/806_0_2880_2304/master/2880.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b48d0e50a9c7de77feebe7a715751f1" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/100208ae318d5c94369c06ed82539a626e998fb2/806_0_2880_2304/master/2880.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b48d0e50a9c7de77feebe7a715751f1" type="image/jpeg" />
     </item>
   </channel>
 </rss>
