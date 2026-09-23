@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:24:46 +0000</lastBuildDate>
     <item>
       <title>Sri Lanka convicts 14 over Easter Sunday massacre</title>
       <link>https://www.dawn.com/news/2031998/sri-lanka-convicts-14-over-easter-sunday-massacre</link>
@@ -46,6 +46,16 @@
       <description>Al Jazeera asked people in Bangladesh, Gaza and Nigeria what they think of the UN’s role in resolving conflicts.</description>
       <pubDate>Tue, 22 Sep 2026 15:49:12 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-2026-can-the-un-stop-wars?traffic_source=rss</guid>
+    </item>
+    <item>
+      <title>Bangladesh has lost 900 children to measles – a warning to other countries where vaccine rates have slipped</title>
+      <link>https://theconversation.com/bangladesh-has-lost-900-children-to-measles-a-warning-to-other-countries-where-vaccine-rates-have-slipped-292288</link>
+      <description>After a pandemic-era collapse in vaccination, Bangladesh is racing to protect children from measles, but lasting protection depends on reaching 95% coverage.</description>
+      <pubDate>Tue, 22 Sep 2026 14:43:15 +0000</pubDate>
+      <guid isPermaLink="true">https://theconversation.com/bangladesh-has-lost-900-children-to-measles-a-warning-to-other-countries-where-vaccine-rates-have-slipped-292288</guid>
+      <media:thumbnail url="https://counter.theconversation.com/content/292288/count.gif" />
+      <media:content url="https://counter.theconversation.com/content/292288/count.gif" medium="image" />
+      <enclosure url="https://counter.theconversation.com/content/292288/count.gif" type="image/jpeg" />
     </item>
     <item>
       <title>Bangladesh Foreign Secretary Asad Alam Siam to be the next High Commissioner to India</title>
@@ -12678,28 +12688,6 @@ Shame on the EU, its main enabler in this part of the world. &lt;a href=&quot;ht
       <media:thumbnail url="https://i.dawn.com/large/2026/05/19091022e96f380.webp" />
       <media:content url="https://i.dawn.com/large/2026/05/19091022e96f380.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/05/19091022e96f380.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladeshi civil officers’ delegation visits National Institute of Public Administration</title>
-      <link>https://www.dawn.com/news/2001322/bangladeshi-civil-officers-delegation-visits-national-institute-of-public-administration</link>
-      <description>&lt;p&gt;ISLAMABAD: A 12-member delegation of senior civil officers from Bangladesh on Monday visited the National Institute of Public Administration (NIPA) as part of a foreign study tour programme aimed at promoting professional exchange and enhancing cooperation in the fields of public administration and civil service training.&lt;/p&gt;
-
-&lt;p&gt;The delegation was led by Additional Secretary, Health Services Division, Bangladesh, Salma Siddiqua Mahtab.&lt;/p&gt;
-
-&lt;p&gt;Director General Spatial Planning, Capital Development Authority (CDA), Ijaz Sheikh, briefed the delegation on modern training methodologies, course modules, study programmes and capacity-building initiatives being undertaken by NSPP and its constituent units. He also briefed the delegates about Islamabad’s urban planning framework and future expansion strategies.&lt;/p&gt;
-
-&lt;p&gt;The visit facilitated the exchange of views on professional training systems and institutional best practices.&lt;/p&gt;
-
-&lt;p&gt;The event was attended by senior officers and faculty members of the National School of Public Policy (NSPP) and Civil Services Academy, including Director General (DG) Civil Services Academy, and NSPP Rector Farhan Aziz Khawaja, and DG NIPA, Peshawar, DG NIPA Quetta, and DG NIPA.&lt;/p&gt;
-
-&lt;p&gt;In his concluding remarks, the NSPP rector underscored the importance of institutional collaboration, academic exchange, and institutional partnerships among civil service training academies.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Published in Dawn, May 19th, 2026&lt;/em&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 19 May 2026 03:46:11 +0000</pubDate>
-      <guid isPermaLink="true">https://www.dawn.com/news/2001322/bangladeshi-civil-officers-delegation-visits-national-institute-of-public-administration</guid>
-      <media:thumbnail url="https://i.dawn.com/large/2026/05/190844142a11c30.webp" />
-      <media:content url="https://i.dawn.com/large/2026/05/190844142a11c30.webp" medium="image" />
-      <enclosure url="https://i.dawn.com/large/2026/05/190844142a11c30.webp" type="image/jpeg" />
     </item>
   </channel>
 </rss>
