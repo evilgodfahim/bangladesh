@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 02:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:13:48 +0000</lastBuildDate>
+    <item>
+      <title>Indian air ambulance makes emergency landing in Bangladesh; patient dies</title>
+      <link>https://www.thehindu.com/news/national/indian-air-ambulance-makes-emergency-landing-in-bangladesh-patient-dies/article71602262.ece</link>
+      <description>The air ambulance, flying from Agartala to Kolkata, made an emergency landing in Dhaka after a mid-air technical fault; the 56-year-old patient later died at a city hospital</description>
+      <pubDate>Mon, 19 Oct 2026 07:59:54 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/national/indian-air-ambulance-makes-emergency-landing-in-bangladesh-patient-dies/article71602262.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/i8eitu/article71602354.ece/alternates/LANDSCAPE_1200/iStock-137378559.jpg" />
+      <media:content url="https://th-i.thgim.com/public/incoming/i8eitu/article71602354.ece/alternates/LANDSCAPE_1200/iStock-137378559.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/i8eitu/article71602354.ece/alternates/LANDSCAPE_1200/iStock-137378559.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Ahead of Tarique Rahman’s Japan visit, Tokyo envisions connectivity for India’s northeast, Bay of Bengal region</title>
       <link>https://www.thehindu.com/news/international/ahead-of-tarique-rahmans-japan-visit-tokyo-envisions-connectivity-for-indias-northeast-bay-of-bengal-region/article71596805.ece</link>
@@ -14708,13 +14718,6 @@ Xi may meet Trump three more times this year. He...</description>
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/ya6mkx/article71114889.ece/alternates/LANDSCAPE_1200/IMG_702531505_3431762130_2_1_GCG4BNIE.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/ya6mkx/article71114889.ece/alternates/LANDSCAPE_1200/IMG_702531505_3431762130_2_1_GCG4BNIE.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/ya6mkx/article71114889.ece/alternates/LANDSCAPE_1200/IMG_702531505_3431762130_2_1_GCG4BNIE.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh gives go-ahead to 2 free trade zones near major seaports</title>
-      <link>https://english.news.cn/20260617/34bd4b68102d443584f15307658a6de1/c.html</link>
-      <description>Delivered by PolitePaul service</description>
-      <pubDate>Wed, 17 Jun 2026 11:21:04 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260617/34bd4b68102d443584f15307658a6de1/c.html</guid>
     </item>
   </channel>
 </rss>
