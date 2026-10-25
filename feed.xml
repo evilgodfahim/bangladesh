@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 07:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:50:13 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh seeks details from Saudi Arabia on execution of two citizens: report</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-seeks-details-from-saudi-arabia-on-execution-of-two-citizens-report/article71622976.ece</link>
+      <description>The two Bangladesh nationals, a man and a woman, were executed on October 14, after being convicted of committing an “indecent act” inside a mosque in Makkah</description>
+      <pubDate>Sun, 25 Oct 2026 11:42:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-seeks-details-from-saudi-arabia-on-execution-of-two-citizens-report/article71622976.ece</guid>
+    </item>
     <item>
       <title>Aurangzeb rules out consumption-led growth, says tariff reforms will continue</title>
       <link>https://www.dawn.com/news/2039483/aurangzeb-rules-out-consumption-led-growth-says-tariff-reforms-will-continue</link>
@@ -15112,13 +15119,6 @@ Xi may meet Trump three more times this year. He...</description>
       <media:thumbnail url="https://i.dawn.com/large/2026/06/23180219242fc19.gif" />
       <media:content url="https://i.dawn.com/large/2026/06/23180219242fc19.gif" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/06/23180219242fc19.gif" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Profile: Bangladeshi Prime Minister Tarique Rahman</title>
-      <link>https://english.news.cn/20260623/90d2d4a216fe4b77b15fab0c976965f5/c.html</link>
-      <description>Delivered by PolitePaul service</description>
-      <pubDate>Tue, 23 Jun 2026 08:52:22 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260623/90d2d4a216fe4b77b15fab0c976965f5/c.html</guid>
     </item>
   </channel>
 </rss>
