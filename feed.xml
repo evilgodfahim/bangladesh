@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 16:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:51:26 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh rescues Rohingya refugees in border gun battle</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-rescues-rohingya-refugees-in-border-gun-battle/article71675805.ece</link>
+      <description>One soldier was killed in the clash on November 5 night, the military&apos;s Inter-Services Public Relations (ISPR) said.</description>
+      <pubDate>Fri, 06 Nov 2026 17:18:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-rescues-rohingya-refugees-in-border-gun-battle/article71675805.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/news/national/fvy8sc/article71675880.ece/alternates/LANDSCAPE_1200/iStock-1431298088.jpg" />
+      <media:content url="https://th-i.thgim.com/public/news/national/fvy8sc/article71675880.ece/alternates/LANDSCAPE_1200/iStock-1431298088.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/news/national/fvy8sc/article71675880.ece/alternates/LANDSCAPE_1200/iStock-1431298088.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>ICJ is due to rule on the Rohingya genocide case. Here&apos;s what you need to know</title>
       <link>https://www.middleeasteye.net/news/icj-rule-rohingya-genocide-case-imminently-heres-what-you-need-know</link>
@@ -15253,13 +15263,6 @@ Under Bangladeshi law, a human trafficking conviction carries a minimum sentence
       <description>Refugees killed in landslides at Rohingya camps in Bangladesh</description>
       <pubDate>Mon, 06 Jul 2026 13:07:55 +0000</pubDate>
       <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss</guid>
-    </item>
-    <item>
-      <title>9 killed in landslides in SE Bangladesh</title>
-      <link>https://english.news.cn/20260706/ddb18d60ecc04e85afee3b21c91597c8/c.html</link>
-      <description>Delivered by PolitePaul service</description>
-      <pubDate>Mon, 06 Jul 2026 10:20:20 +0000</pubDate>
-      <guid isPermaLink="true">https://english.news.cn/20260706/ddb18d60ecc04e85afee3b21c91597c8/c.html</guid>
     </item>
   </channel>
 </rss>
