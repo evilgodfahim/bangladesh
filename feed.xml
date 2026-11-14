@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:26:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:40:28 +0000</lastBuildDate>
+    <item>
+      <title>What are the legal compulsions and political hurdles in Sheikh Hasina’s return to Bangladesh? | Explained</title>
+      <link>https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece</link>
+      <description>Sheikh Hasina wants to return to Bangladesh as a political leader and reclaim her party, the Awami League. But she stands accused of ordering the police crackdown of July-August 2024, and the International Crimes Tribunal (ICT) in Dhaka has sentenced her to death for it</description>
+      <pubDate>Sat, 14 Nov 2026 11:05:52 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/kqae48/article71685405.ece/alternates/LANDSCAPE_1200/2026-07-10T073720Z_325317006_RC2PF5AF7JPN_RTRMADP_3_BANGLADESH-HASINA.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/kqae48/article71685405.ece/alternates/LANDSCAPE_1200/2026-07-10T073720Z_325317006_RC2PF5AF7JPN_RTRMADP_3_BANGLADESH-HASINA.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/kqae48/article71685405.ece/alternates/LANDSCAPE_1200/2026-07-10T073720Z_325317006_RC2PF5AF7JPN_RTRMADP_3_BANGLADESH-HASINA.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>In a dilemma: On Sheikh Hasina and India-Bangladesh ties</title>
       <link>https://www.thehindu.com/opinion/editorial/in-a-dilemma-on-sheikh-hasina-and-india-bangladesh-ties/article71695189.ece</link>
@@ -15536,16 +15546,6 @@ Under Bangladeshi law, a human trafficking conviction carries a minimum sentence
       <media:thumbnail url="https://i.dawn.com/large/2026/07/13185428d558fbe.webp" />
       <media:content url="https://i.dawn.com/large/2026/07/13185428d558fbe.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/07/13185428d558fbe.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Heavy rains and flash floods in Bangladesh leave 51 dead</title>
-      <link>https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&amp;at_campaign=rss</link>
-      <description>Thousands have lost their homes as flash floods and landslides have hit large parts of the country.</description>
-      <pubDate>Mon, 13 Jul 2026 06:19:49 +0000</pubDate>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&amp;at_campaign=rss</guid>
-      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg" />
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7648/live/b14e96a0-7e7f-11f1-bbf9-c34ca6867eac.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
