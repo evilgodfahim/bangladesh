@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 22:15:03 +0000</lastBuildDate>
+    <item>
+      <title>Clothing factories shut in Bangladesh as workers strike over pay</title>
+      <link>https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&amp;at_campaign=rss</link>
+      <description>Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.</description>
+      <pubDate>Sun, 15 Nov 2026 16:15:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg" />
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/b3273710-e0ff-11f1-bf0e-b9e6941e1cc7.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>For Bangladesh and others, climate disasters should not add to debt burdens</title>
       <link>https://www.scmp.com/opinion/asia-opinion/article/3374115/bangladesh-and-others-climate-disasters-should-not-add-debt-burdens</link>
@@ -15610,16 +15620,6 @@ Under Bangladeshi law, a human trafficking conviction carries a minimum sentence
       <description>Delivered by PolitePaul service</description>
       <pubDate>Tue, 14 Jul 2026 09:32:18 +0000</pubDate>
       <guid isPermaLink="true">https://english.news.cn/20260714/0fd46439e05b48a28e3c668f2d25f78d/c.html</guid>
-    </item>
-    <item>
-      <title>Sheikh Hasina will land in jail if she returns: Bangladesh minister</title>
-      <link>https://www.thehindu.com/news/international/sheikh-hasina-will-land-in-jail-if-she-returns-bangladesh-minister/article71218838.ece</link>
-      <description>State Minister for Foreign Affairs Shama Obaed Islam said the process to bring Sheikh Hasina back began during the previous interim regime and is now being pursued by the Bangladesh Nationalist Party-led government</description>
-      <pubDate>Tue, 14 Jul 2026 07:30:57 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/sheikh-hasina-will-land-in-jail-if-she-returns-bangladesh-minister/article71218838.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/wv7bxp/article71218845.ece/alternates/LANDSCAPE_1200/2026-07-13T123201Z_1531928449_RC2MD5AW1QQ1_RTRMADP_3_BANGLADESH-HASINA.JPG" />
-      <media:content url="https://th-i.thgim.com/public/incoming/wv7bxp/article71218845.ece/alternates/LANDSCAPE_1200/2026-07-13T123201Z_1531928449_RC2MD5AW1QQ1_RTRMADP_3_BANGLADESH-HASINA.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/wv7bxp/article71218845.ece/alternates/LANDSCAPE_1200/2026-07-13T123201Z_1531928449_RC2MD5AW1QQ1_RTRMADP_3_BANGLADESH-HASINA.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
