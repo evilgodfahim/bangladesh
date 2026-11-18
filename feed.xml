@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 21:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:13:34 +0000</lastBuildDate>
+    <item>
+      <title>India and Bangladesh need a new Ganga water-sharing treaty</title>
+      <link>https://www.hindustantimes.com/opinion/new-delhi-dhaka-need-a-new-ganga-compact-101794946063383.html</link>
+      <description>Reciprocity must be the organising principle of the agreement that succeeds the 1996 Farakka Treaty. It should also address climate resilience</description>
+      <pubDate>Wed, 18 Nov 2026 00:35:31 +0000</pubDate>
+      <guid isPermaLink="true">https://www.hindustantimes.com/opinion/new-delhi-dhaka-need-a-new-ganga-compact-101794946063383.html</guid>
+      <media:thumbnail url="https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/India-s-upstream-position-brings-responsibilities-_1794946059435_ZiWI.jpg" />
+      <media:content url="https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/India-s-upstream-position-brings-responsibilities-_1794946059435_ZiWI.jpg" medium="image" />
+      <enclosure url="https://www.hindustantimes.com/ht-img/img/2026/11/17/1600x900/logo/India-s-upstream-position-brings-responsibilities-_1794946059435_ZiWI.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Bangladesh connects first nuclear power plant to national grid</title>
       <link>https://www.thehindu.com/news/international/bangladesh-connects-first-nuclear-power-plant-to-national-grid/article71713171.ece</link>
@@ -15673,16 +15683,6 @@ While officials have maintained that the country cannot sever ties with every in
       <media:thumbnail url="https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/images-1.jpeg?fit=1024%2C569&amp;amp;ssl=1" />
       <media:content url="https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/images-1.jpeg?fit=1024%2C569&amp;amp;ssl=1" medium="image" />
       <enclosure url="https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/07/images-1.jpeg?fit=1024%2C569&amp;amp;ssl=1" type="image/jpeg" />
-    </item>
-    <item>
-      <title>In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base</title>
-      <link>https://archive.is/o/N6yE6/https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html</link>
-      <description>Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own.</description>
-      <pubDate>Sat, 18 Jul 2026 11:16:32 +0000</pubDate>
-      <guid isPermaLink="true">https://archive.is/o/N6yE6/https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html</guid>
-      <media:thumbnail url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-worldcup-bangladesh-02-jtwh/18int-worldcup-bangladesh-02-jtwh-mediumSquareAt3X.jpg" />
-      <media:content url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-worldcup-bangladesh-02-jtwh/18int-worldcup-bangladesh-02-jtwh-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-worldcup-bangladesh-02-jtwh/18int-worldcup-bangladesh-02-jtwh-mediumSquareAt3X.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
