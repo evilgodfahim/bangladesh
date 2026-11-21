@@ -5,7 +5,7 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 00:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:49:49 +0000</lastBuildDate>
     <item>
       <title>Bangladesh hit by fresh arson attacks in political unrest</title>
       <link>https://www.thehindu.com/news/international/bangladesh-hit-by-fresh-arson-attacks-in-political-unrest/article71725621.ece</link>
@@ -15,6 +15,13 @@
       <media:thumbnail url="https://th-i.thgim.com/public/incoming/q6l4xb/article71725652.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Garment_Workers_34775.jpg" />
       <media:content url="https://th-i.thgim.com/public/incoming/q6l4xb/article71725652.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Garment_Workers_34775.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/q6l4xb/article71725652.ece/alternates/LANDSCAPE_1200/APTOPIX_Bangladesh_Garment_Workers_34775.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling</title>
+      <link>https://news.un.org/feed/view/en/story/2026/11/1168853</link>
+      <description>A day after the UN’s highest court&amp;nbsp;found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.</description>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://news.un.org/feed/view/en/story/2026/11/1168853</guid>
     </item>
     <item>
       <title>Rohingya in Bangladesh welcome UN court’s genocide verdict but say they want to go home to Myanmar</title>
@@ -14988,38 +14995,6 @@ While officials have maintained that the country cannot sever ties with every in
       <media:thumbnail url="https://i.dawn.com/large/2026/07/29084643850b5dd.webp" />
       <media:content url="https://i.dawn.com/large/2026/07/29084643850b5dd.webp" medium="image" />
       <enclosure url="https://i.dawn.com/large/2026/07/29084643850b5dd.webp" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Brigadier held in Bangladesh over staged killing</title>
-      <link>https://www.dawn.com/news/2019146/brigadier-held-in-bangladesh-over-staged-killing</link>
-      <description>&lt;p&gt;DHAKA: An active army officer was detained in Bangladesh on Tuesday over alleged extrajudicial killing of a politician during an anti-narcotics crackdown that left hundreds dead.&lt;/p&gt;
-
-&lt;p&gt;Over 460 people were killed during the nationwide anti-drug campaign launched in 2018, according to rights groups, with many deaths alleged to have occurred in staged gunfights involving security forces.&lt;/p&gt;
-
-&lt;p&gt;Bangladesh’s crimes tribunal accepted a complaint last week against 11 officials, including former prime minister Sheikh Hasina, a former police chief and six serving and retired military officers, over the killing of Akramul Haque, a councillor in the southeastern district of Cox’s Bazar.&lt;/p&gt;
-
-&lt;p&gt;The officer’s detention marks one of the most significant moves yet by the tribunal against those linked to actions taken during Sheikh Hasina’s rule.&lt;/p&gt;
-
-&lt;p&gt;“Brig Gen Miftahuddin Ahmed was taken into custody for further judicial proceedings,” army officer Samiud Dowla Chowdhury said.&lt;/p&gt;
-
-&lt;p&gt;Chief prosecutor Aminul Islam said investigators had submitted a report detailing the alleged involvement of the accused. The case centres on the killing of Akramul Haque, whom Hasina’s government had described as a “meth kingpin”.&lt;/p&gt;
-
-&lt;p&gt;The incident sparked outrage after Haque’s wife, Ayesha Akhter, released an audio recording that she said captured her husband’s final moments and contradicted official claims that he had died in a shootout.&lt;/p&gt;
-
-&lt;p&gt;In the recording, Haque can be heard speaking with his wife and children shortly before his death, while his young daughter asks: “Dad, why are you crying?” &lt;/p&gt;
-
-&lt;p&gt;Critics alleged at the time that authorities sought to suppress reporting on the case.&lt;/p&gt;
-
-&lt;p&gt;“We have been waiting for this day to come for the last eight years,” Akhter said.&lt;/p&gt;
-
-&lt;p&gt;“My family and I suffered immense pain, slander, negl­ect and mental distress, but we never lost hope,” she said.  “We want to keep faith in our judicial system.” &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Published in Dawn, July 29th, 2026&lt;/em&gt;&lt;/p&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 02:21:24 +0000</pubDate>
-      <guid isPermaLink="true">https://www.dawn.com/news/2019146/brigadier-held-in-bangladesh-over-staged-killing</guid>
-      <media:thumbnail url="https://i.dawn.com/large/2026/07/290821476cf4467.webp" />
-      <media:content url="https://i.dawn.com/large/2026/07/290821476cf4467.webp" medium="image" />
-      <enclosure url="https://i.dawn.com/large/2026/07/290821476cf4467.webp" type="image/jpeg" />
     </item>
   </channel>
 </rss>
