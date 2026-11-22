@@ -5,7 +5,14 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 01:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:59:29 +0000</lastBuildDate>
+    <item>
+      <title>Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.</title>
+      <link>https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html</link>
+      <description></description>
+      <pubDate>Sun, 22 Nov 2026 03:44:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html</guid>
+    </item>
     <item>
       <title>Bangladesh Minister vows action against those behind arson, blames Awami League-linked groups, says reports</title>
       <link>https://www.thehindu.com/news/international/bangladesh-minister-vows-action-against-those-behind-arson-blames-awami-league-linked-groups-says-reports/article71727826.ece</link>
@@ -14961,16 +14968,6 @@ While officials have maintained that the country cannot sever ties with every in
       <media:thumbnail url="https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-07/2026-07-29-cockroach-movement-india-2285718423%20%281%29.jpg?itok=1grOiSGC" />
       <media:content url="https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-07/2026-07-29-cockroach-movement-india-2285718423%20%281%29.jpg?itok=1grOiSGC" medium="image" />
       <enclosure url="https://www.chathamhouse.org/sites/default/files/styles/chat_social_twitter_1200_600/public/2026-07/2026-07-29-cockroach-movement-india-2285718423%20%281%29.jpg?itok=1grOiSGC" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Will return to Bangladesh but ‘could be killed’: Bangladesh’s former PM Hasina</title>
-      <link>https://www.thehindu.com/news/international/will-return-to-bangladesh-but-could-be-killed-bangladeshs-former-pm-hasina/article71280071.ece</link>
-      <description>Last November, Hasina was sentenced to death in absentia by a special tribunal in Dhaka for alleged “crimes against humanity” over her government’s brutal crackdown on student-led protests in 2024</description>
-      <pubDate>Wed, 29 Jul 2026 08:16:29 +0000</pubDate>
-      <guid isPermaLink="true">https://www.thehindu.com/news/international/will-return-to-bangladesh-but-could-be-killed-bangladeshs-former-pm-hasina/article71280071.ece</guid>
-      <media:thumbnail url="https://th-i.thgim.com/public/incoming/rfchdu/article71280192.ece/alternates/LANDSCAPE_1200/IMG_Sheikh_Hasina_2_1_U8G819BV.jpg" />
-      <media:content url="https://th-i.thgim.com/public/incoming/rfchdu/article71280192.ece/alternates/LANDSCAPE_1200/IMG_Sheikh_Hasina_2_1_U8G819BV.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/rfchdu/article71280192.ece/alternates/LANDSCAPE_1200/IMG_Sheikh_Hasina_2_1_U8G819BV.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
