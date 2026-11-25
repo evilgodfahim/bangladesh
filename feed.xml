@@ -5,7 +5,17 @@
     <link>https://github.com</link>
     <description>Aggregated news articles about Bangladesh from multiple sources</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:40:28 +0000</lastBuildDate>
+    <item>
+      <title>Bangladesh garment workers win 36% wage rise</title>
+      <link>https://www.thehindu.com/news/international/bangladesh-garment-workers-win-36-wage-rise/article71741049.ece</link>
+      <description>The South Asian nation, the world’s second-biggest garment exporter behind China, has seen widespread protests since October by workers demanding higher pay</description>
+      <pubDate>Wed, 25 Nov 2026 04:17:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.thehindu.com/news/international/bangladesh-garment-workers-win-36-wage-rise/article71741049.ece</guid>
+      <media:thumbnail url="https://th-i.thgim.com/public/incoming/i5xi2p/article71741052.ece/alternates/LANDSCAPE_1200/2026-11-24T073248Z_1765159474_RC23UOA3QULK_RTRMADP_3_BANGLADESH-GARMENTS.JPG" />
+      <media:content url="https://th-i.thgim.com/public/incoming/i5xi2p/article71741052.ece/alternates/LANDSCAPE_1200/2026-11-24T073248Z_1765159474_RC23UOA3QULK_RTRMADP_3_BANGLADESH-GARMENTS.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/i5xi2p/article71741052.ece/alternates/LANDSCAPE_1200/2026-11-24T073248Z_1765159474_RC23UOA3QULK_RTRMADP_3_BANGLADESH-GARMENTS.JPG" type="image/jpeg" />
+    </item>
     <item>
       <title>The Rohingya genocide ruling faces a geopolitical test</title>
       <link>https://www.atlanticcouncil.org/dispatches/the-rohingya-genocide-ruling-faces-a-geopolitical-test/</link>
@@ -14632,13 +14642,6 @@ The dead included four Saudis, two people from Bangladesh and one person each fr
       <media:thumbnail url="https://www.eurasiantimes.com/wp-content/uploads/2022/05/PMs-e1651887843145.jpg" />
       <media:content url="https://www.eurasiantimes.com/wp-content/uploads/2022/05/PMs-e1651887843145.jpg" medium="image" />
       <enclosure url="https://www.eurasiantimes.com/wp-content/uploads/2022/05/PMs-e1651887843145.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh Truth Seeker</title>
-      <link>https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss</link>
-      <description>Amid political upheaval in Bangladesh, a journalist debunks fake news in a fight for his nation’s democratic future.</description>
-      <pubDate>Wed, 05 Aug 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss</guid>
     </item>
   </channel>
 </rss>
